@@ -1,13 +1,16 @@
 # setup_dev_environment
 prepare my dev enviroment on Linux
 
-## shell
+## Linux distribution/languages/shell/skills/tools?
 
 * BASH
-
-## programing_languages
-
 * C
+* C++
 * Python
-* JavaScript
+* HTML/CSS/JavaScript
+* Rust
 * Go
+* git
+* tree
+* docker
+* kubectl
