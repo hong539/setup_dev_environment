@@ -5,6 +5,10 @@
 * [Ubuntu](https://github.com/golang/go/wiki/Ubuntu)
 
 ```shell
+#install golang from source
+#src:https://go.dev/dl/
+
+#Adding 3rd party ppa to install golang
 sudo add-apt-repository ppa:longsleep/golang-backports
 sudo apt update
 sudo apt install golang-go
