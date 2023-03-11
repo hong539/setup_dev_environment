@@ -18,3 +18,7 @@ sudo add-apt-repository --remove ppa:longsleep/golang-backports
 ## basic
 
 * [Documentation](https://go.dev/doc/)
+
+## Why golang CLI can't?
+
+* [proposal: bash_completions support](https://github.com/golang/go/issues/58598)
