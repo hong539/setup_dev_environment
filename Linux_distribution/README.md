@@ -11,6 +11,8 @@
     * [Linux Mint](https://linuxmint.com/)
     * [proxmox-ve](https://www.proxmox.com/en/proxmox-ve)
     * [VyOS](https://docs.vyos.io/en/equuleus/contributing/build-vyos.html)
+        * [Static mappings](https://docs.vyos.io/en/equuleus/configuration/service/dhcp-server.html#static-mappings)
+        * [show protocols static arp](https://docs.vyos.io/en/equuleus/configuration/protocols/static.html#operation)
 
 * RPM-based
     * [CentOS](https://www.centos.org/)
