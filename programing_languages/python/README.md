@@ -78,13 +78,13 @@ exit
 
 #Upgrade version
 #edit Pipfile
-vim Pipfile
 #edit the python version
+vim Pipfile
 
-#Old version
+#Replace Old version
 python_version = "3.8.15"
 
-#New version
+#To New version
 python_version = "3.8.16"
 
 #Then run these
