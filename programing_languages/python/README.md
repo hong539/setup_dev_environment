@@ -60,7 +60,9 @@ which pipenv
 pipenv --version
 pipenv --python 3.8.16
 #--system is intended to be used for pre-existing Pipfile installation
+#SHow your python virtual environments
 pipenv --venv
+#Spawns a shell within the virtualenv.
 pipenv shell
 pipenv install pandas
 pipenv install "pandas>=1.5"
