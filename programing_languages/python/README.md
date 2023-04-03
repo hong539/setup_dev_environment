@@ -59,14 +59,19 @@ which pipenv
 #Setting up python
 pipenv --version
 pipenv --python 3.8.16
+
 #--system is intended to be used for pre-existing Pipfile installation
 #SHow your python virtual environments
 pipenv --venv
 #Spawns a shell within the virtualenv.
 pipenv shell
+
+#pipenv install python packages you want to used
 pipenv install pandas
 pipenv install "pandas>=1.5"
 pipenv install "requests>=1.4"
+
+#Exit your python virtual environments
 exit
 ```    
 
