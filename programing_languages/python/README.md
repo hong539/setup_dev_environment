@@ -45,18 +45,20 @@ source ~/.bash_profile
 ```shell
 pyenv version
 pyenv versions
-pyenv install 2.7.18
-pyenv install 3.8.15
-pyenv install 3.10.8
 
+#Go to your python project folders
 cd ~/PATH/projects_folder/
-pyenv local 3.9.15
-pip --version
+
+#Setting up local python version
+pyenv local 3.8.16
+#Check pip/pipenv version
+pip -V
 which pip
-pip install pipenv
 which pipenv
+
+#Setting up python
 pipenv --version
-pipenv --python 3.9.15
+pipenv --python 3.8.16
 #--system is intended to be used for pre-existing Pipfile installation
 pipenv --venv
 pipenv shell
@@ -65,3 +67,27 @@ pipenv install "pandas>=1.5"
 pipenv install "requests>=1.4"
 exit
 ```    
+
+## troubleshooting
+
+```shell
+#If you are trying using another python version
+# Warning: Your Pipfile requires python_version 3.8.15, but you are using 3.8.16 (/home/hong/.local/share/v/i/bin/python).
+#   $ pipenv --rm and rebuilding the virtual environment may resolve the issue.
+#   $ pipenv check will surely fail.
+
+#Upgrade version
+#edit Pipfile
+vim Pipfile
+#edit the python version
+
+#Old version
+python_version = "3.8.15"
+
+#New version
+python_version = "3.8.16"
+
+#Then run these
+pipenv --rm
+pipenv install
+```
