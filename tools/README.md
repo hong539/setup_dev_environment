@@ -21,3 +21,32 @@
 * [deep-dive-serverless](https://aws.amazon.com/tw/getting-started/deep-dive-serverless/)
 * [Cloudflare Workers](https://workers.cloudflare.com/)
     * [Workers Status Page](https://workers.cloudflare.com/built-with/projects/status-page)
+
+## ansible
+
+* [ansible](https://github.com/ansible/ansible)
+* [ansible-completion](https://github.com/dysosmus/ansible-completion)
+* [ansible_community](https://docs.ansible.com/ansible_community.html)
+
+```shell
+#If using Arch Linux
+#更新系統軟體包:
+sudo pacman -Syu
+
+#安裝Ansible:
+sudo pacman -S ansible
+sudo pacman -S ansible-<version>
+sudo pacman -S ansible-2.10.13
+
+#檢查Ansible版本
+ansible --version
+
+#確保已經安裝了 bash-completion 套件：
+sudo pacman -S bash-completion
+
+#下載 Ansible 的自動完成腳本：
+sudo curl https://raw.githubusercontent.com/dysosmus/ansible-bash-completion/master/ansible -o /usr/share/bash-completion/completions/ansible
+
+#重新啟動終端機或者載入 bash-completion：
+source /usr/share/bash-completion/bash_completion
+```
