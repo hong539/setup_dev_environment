@@ -1,5 +1,10 @@
 # tools
 
+## ChatGPT
+
+* [ChatGPT/Reverse engineered ChatGPT API](https://github.com/acheong08/ChatGPT)
+* [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+
 ## git
 
 * [初次設定 Git](https://git-scm.com/book/zh-tw/v2/%E9%96%8B%E5%A7%8B-%E5%88%9D%E6%AC%A1%E8%A8%AD%E5%AE%9A-Git)
@@ -24,6 +29,7 @@
 
 ## ansible
 
+* [ansible_roadmap_index](https://docs.ansible.com/ansible/latest/roadmap/ansible_roadmap_index.html)
 * [ansible](https://github.com/ansible/ansible)
 * [ansible-completion](https://github.com/dysosmus/ansible-completion)
 * [ansible_community](https://docs.ansible.com/ansible_community.html)
