@@ -12,13 +12,36 @@
     * [pipenv install throws --system is intended to be used for pre-existing Pipfile installation #5052](https://github.com/pypa/pipenv/issues/5052)
     * [Specifying Versions of a Package](https://pipenv-fork.readthedocs.io/en/latest/basics.html#specifying-versions-of-a-package)
 
+## Installation
+
 ```shell
-vim ~/.bashrc
+#Install pyenv
+curl https://pyenv.run | bash
+
+#Show python available versions
+pyenv install -l
+
+#Install sepcital version
+pyenv install 3.8.16
+
+#Setting Global python version
+pyenv global 3.8.16
+
+#Install pipenv after setting python global version with pyenv
+
+pip install pipenv
+
+#pipenv Shell Completion
+#~/.bashrc or ~/.bash_profile
+vim ~/.bash_profile
 #add this th .bashrc
 eval "$(_PIPENV_COMPLETE=bash_source pipenv)"
 
-source ~/.bashrc
+source ~/.bash_profile
 ```        
+
+## Usage with your python projects
+
 ```shell
 pyenv version
 pyenv versions
