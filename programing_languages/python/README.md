@@ -35,11 +35,11 @@ pip install pipenv
 
 #pipenv Shell Completion
 #~/.bashrc or ~/.bash_profile
-vim ~/.bash_profile
+vim ~/.bashrc
 #add this th .bashrc
 eval "$(_PIPENV_COMPLETE=bash_source pipenv)"
 
-source ~/.bash_profile
+source ~/.bashrc
 ```        
 
 ## Usage with your python projects
