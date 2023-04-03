@@ -29,6 +29,8 @@
 
 ## ansible
 
+* [Installing Ansible on Windows](https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.html#installing-ansible-on-windows)
+* [Installing Ansible on Arch Linux](https://wiki.archlinux.org/title/Ansible#Installation)
 * [ansible_roadmap_index](https://docs.ansible.com/ansible/latest/roadmap/ansible_roadmap_index.html)
 * [ansible](https://github.com/ansible/ansible)
 * [ansible-completion](https://github.com/dysosmus/ansible-completion)
