@@ -1,6 +1,8 @@
 # Python
 
-## setup for python coding
+## Reference for setuping up python coding environment
+
+* [這樣的開發環境沒問題嗎？ – Tzu-ping Chung – PyCon Taiwan 2018](https://youtu.be/6Nl0IYkU0hU)
 
 * pyenv
     * controll python version
