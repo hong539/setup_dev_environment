@@ -1,5 +1,10 @@
 # Linux_distribution
 
+## Reminder!!!
+
+There are so many Linux distributions, so the question is that what is your requriement for using Linux?
+Just pick them up for your requriement!!!
+
 ## Which Linux_distribution I've tried?
 
 * For me to understand how to build your own Linux system.
@@ -22,7 +27,6 @@
     * [Arch Linux](https://archlinux.org/)
     * [Manjaro](https://manjaro.org/)
 
-## Reminder!!!
+## Others
 
-There are so many Linux distributions, so the question is that what is your requriement for using Linux?
-Just pick them up for your requriement!!!
+* [[閒聊] Linux發行版的選擇](https://www.ptt.cc/bbs/Linux/M.1680031201.A.A70.html)
