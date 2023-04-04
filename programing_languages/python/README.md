@@ -60,6 +60,7 @@ which pipenv
 
 #Setting up python
 pipenv --version
+#Creating a virtualenv for this project...
 pipenv --python 3.8.16
 
 #--system is intended to be used for pre-existing Pipfile installation
@@ -69,9 +70,11 @@ pipenv --venv
 pipenv shell
 
 #pipenv install python packages you want to used
+#Just pick up pandas/requests/Django as Example.
 pipenv install pandas
 pipenv install "pandas>=1.5"
 pipenv install "requests>=1.4"
+pipenv install Django
 
 #Exit your python virtual environments
 exit
