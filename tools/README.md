@@ -3,6 +3,18 @@
 ## podman
 
 * [Getting Started with Podman](https://podman.io/getting-started/)
+* [Podman pull 'official' images from docker hub?](https://stackoverflow.com/questions/69162077/podman-pull-official-images-from-docker-hub)
+
+```shell
+#Check images
+podman images
+
+#TAG latest
+podman pull docker.io/library/mysql
+
+#TAG 5.7
+podman pull docker.io/library/mysql:5.7
+```
 
 ## CNCF
 
