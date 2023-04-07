@@ -9,8 +9,10 @@
 #Check images
 podman images
 
+#Examples for podman pull
 #TAG latest
 podman pull docker.io/library/mysql
+podman pull docker.io/vyos/vyos-build:current
 
 #TAG 5.7
 podman pull docker.io/library/mysql:5.7
