@@ -1,5 +1,10 @@
 # tools
 
+## vscode
+
+* [vscode](https://code.visualstudio.com/)
+* [vscode github](https://github.com/microsoft/vscode)
+
 ## podman
 
 * [Getting Started with Podman](https://podman.io/getting-started/)
