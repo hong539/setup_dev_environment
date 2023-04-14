@@ -5,6 +5,11 @@
 * [vscode](https://code.visualstudio.com/)
 * [vscode github](https://github.com/microsoft/vscode)
 
+## cloc
+
+* cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+* [cloc](https://github.com/AlDanial/cloc)
+
 ## podman
 
 * [Getting Started with Podman](https://podman.io/getting-started/)
