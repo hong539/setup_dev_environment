@@ -37,20 +37,6 @@ podman pull docker.io/library/mysql:5.7
 * [How to install and configure Docker on Arch-based Linux Distributions(Manjaro) ?](https://www.geeksforgeeks.org/how-to-install-and-configure-docker-on-arch-based-linux-distributionsmanjaro/)
 * [Run the Docker daemon as a non-root user (Rootless mode)](https://docs.docker.com/engine/security/rootless/)
 
-## Kubernetes
-
-* Troubleshooting
-    * [Safely Drain a Node](https://kubernetes.io/docs/tasks/administer-cluster/safely-drain-node/)
-    * [Migrating the workloads](https://cloud.google.com/kubernetes-engine/docs/tutorials/migrating-node-pool#step_4_migrate_the_workloads)
-
-```shell
-#當使用GKE的k8s時，如果需要擴增node pool，但原先舊有node pool已有的deployment已掛載了PersistentVolumeClaim，執行kubectl drain遇到錯誤，該如何處理?
-#將 PersistentVolumeClaim 轉移到新的 StorageClass。
-#您需要先建立一個新的 StorageClass，然後將 PersistentVolumeClaim 轉移到這個 StorageClass 上。可以使用下列指令來轉移：
-kubectl patch pvc <pvc-name> -p '{"spec":{"storageClassName":"<new-storage-class-name>"}}'
-
-```
-
 ## ChatGPT
 
 * [ChatGPT/Reverse engineered ChatGPT API](https://github.com/acheong08/ChatGPT)
