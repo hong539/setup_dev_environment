@@ -80,6 +80,13 @@ pipenv install Django
 exit
 ```    
 
+## Guides
+
+* [roadmap/Python Developer](https://roadmap.sh/python)
+* [w3schools/Python Tutorial](https://www.w3schools.com/python/default.asp)
+* [class](https://www.geeksforgeeks.org/python-classes-and-objects/)
+* [3.8/tutorial/classes](https://docs.python.org/3.8/tutorial/classes.html)
+
 ## troubleshooting
 
 ```shell
