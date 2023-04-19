@@ -1,4 +1,4 @@
-## Kubernetes
+# Kubernetes
 
 * [need-some-explaination-of-kubectl-stdin-and-pipe](https://stackoverflow.com/questions/54032336/need-some-explaination-of-kubectl-stdin-and-pipe)
 * [volumes](https://kubernetes.io/docs/concepts/storage/volumes/)
@@ -18,7 +18,7 @@ kubectl patch pvc <pvc-name> -p '{"spec":{"storageClassName":"<new-storage-class
 
 ```
 
-### kind
+## kind
 
 * [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
 * [kind](https://kind.sigs.k8s.io/)
