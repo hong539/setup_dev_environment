@@ -33,3 +33,11 @@ SHELL=/bin/bash
 
 echo $SHELL
 ```
+
+## tools when using CLI
+
+* [man tree](https://linux.die.net/man/1/tree)
+
+```shell
+tree . -d -L 2
+```
