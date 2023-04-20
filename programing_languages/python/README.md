@@ -14,6 +14,9 @@
     * [pipenv install throws --system is intended to be used for pre-existing Pipfile installation #5052](https://github.com/pypa/pipenv/issues/5052)
     * [Specifying Versions of a Package](https://pipenv-fork.readthedocs.io/en/latest/basics.html#specifying-versions-of-a-package)
 
+* [cookiecutter](https://github.com/cookiecutter/cookiecutter)
+    * A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+
 ## Installation
 
 ```shell
