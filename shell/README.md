@@ -22,22 +22,31 @@ echo 是 shell 內建物件
 
 * [Shell builtin](https://zh.wikipedia.org/zh-tw/%E6%AE%BC%E5%B1%A4%E5%85%A7%E5%BB%BA%E6%8C%87%E4%BB%A4)
 
-## Tips
-
-```shell
-#How to check your shell is?
-
-#CLI for checking your shell 
-env
-SHELL=/bin/bash
-
-echo $SHELL
-```
-
-## tools when using CLI
+## Tips when using CLI
 
 * [man tree](https://linux.die.net/man/1/tree)
 
 ```shell
+#How to measure booting time for your Linux?
+#如何測量Arch Linux開機時間?
+#這將會顯示出開機所需的總時間，包括Kernel啟動的時間、Userspace的時間和總共的時間。
+systemd-analyze
+
+#如果您想更詳細地了解哪些系統服務或者單元需要更長的時間，可以輸入以下命令：
+systemd-analyze blame
+
+#如果您想查看啟動過程的圖形化分析，可以輸入以下命令：
+systemd-analyze plot > boot.svg
+
+#Check env settings
+env
+#How to check your shell is?
+#Look at 1st line
+SHELL=/bin/bash
+
+#Or Using echo to check SHELL is?
+echo $SHELL
+
+#tree
 tree . -d -L 2
 ```
