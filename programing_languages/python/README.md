@@ -22,7 +22,10 @@
     * [pytest](https://docs.pytest.org/en/7.3.x/)
     * [nose](https://nose.readthedocs.io/en/latest/)
         * [github/node-devs/nose](https://github.com/nose-devs/nose)
-    * [mock](https://github.com/python/cpython/blob/3.8/Lib/unittest/mock.py)    
+    * [mock](https://github.com/python/cpython/blob/3.8/Lib/unittest/mock.py)
+    * tox
+    * hypothesis
+    * robot framework    
 
 ## Installation
 
