@@ -105,6 +105,16 @@ exit
 * [class](https://www.geeksforgeeks.org/python-classes-and-objects/)
 * [3.8/tutorial/classes](https://docs.python.org/3.8/tutorial/classes.html)
 
+```python
+#在 Python 語言中，當一個 .py 程式檔案被執行時，Python 直譯器會建立一個名為 __main__ 的模組，並執行該模組中的所有程式碼。如果這個程式檔案是被當作模組（module）import 到別的程式檔案中，則 __name__ 變數的值就會是模組的名稱，而不是 __main__。
+
+#因此，使用 if __name__ == "__main__": 來判斷當前的 .py 程式檔案是不是被當作主程式（main program）執行，若是，則執行其下的程式碼；若不是，則不執行其下的程式碼。這麼做的好處是可以讓一個 .py 檔案可以被當作模組引用，同時也可以單獨執行作為主程式。
+
+if __name__ == "__main__":
+    main()
+
+```
+
 ## troubleshooting
 
 ```shell
