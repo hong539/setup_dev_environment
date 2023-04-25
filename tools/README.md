@@ -1,5 +1,10 @@
 # tools
 
+## perf
+
+* Linux效能分析工具
+* [安裝](https://hackmd.io/@sysprog/gnu-linux-dev/https%3A%2F%2Fhackmd.io%2Fs%2FB11109rdg#%E5%AE%89%E8%A3%9D)
+
 ## vscode
 
 * [vscode](https://code.visualstudio.com/)
