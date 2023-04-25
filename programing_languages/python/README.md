@@ -115,7 +115,7 @@ if __name__ == "__main__":
 
 ```
 
-## troubleshooting
+## troubleshooting or tips
 
 ```shell
 #If you are trying using another python version
@@ -137,4 +137,6 @@ python_version = "3.8.16"
 #Then run these
 pipenv --rm
 pipenv install
+
+* duplicate xxx.py name with module name "xxx"
 ```
