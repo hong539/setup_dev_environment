@@ -5,6 +5,10 @@
 There are so many Linux distributions, so the question is that what is your requriement for using Linux?
 Just pick them up for your requriement!!!
 
+## Linux kernel
+
+* [Linux 核心設計/實作 (Linux Kernel Internals)](http://wiki.csie.ncku.edu.tw/linux/schedule)
+
 ## Which Linux_distribution I've tried?
 
 * For me to understand how to build your own Linux system.
