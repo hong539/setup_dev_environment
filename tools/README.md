@@ -1,5 +1,10 @@
 # tools
 
+## gnuplot
+
+* Linux製圖工具
+* [gnuplot](https://hackmd.io/@sysprog/gnu-linux-dev/https%3A%2F%2Fhackmd.io%2Fs%2FSkwp-alOg)
+
 ## perf
 
 * Linux效能分析工具
