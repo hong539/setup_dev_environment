@@ -115,7 +115,7 @@ if __name__ == "__main__":
 
 ```
 
-## troubleshooting or tips
+## troubleshooting or tips or any other tools?
 
 ```shell
 #If you are trying using another python version
@@ -138,5 +138,14 @@ python_version = "3.8.16"
 pipenv --rm
 pipenv install
 
-* duplicate xxx.py name with module name "xxx"
 ```
+
+* duplicate xxx.py name with module name "xxx"
+
+* For Thermodynamics of Materials
+    * Thermopy
+    * PyCALPhad
+    * Pycalphad-plot
+    * Matplotlib
+    * Scipy
+    * PyNBTI
