@@ -142,10 +142,19 @@ pipenv install
 
 * duplicate xxx.py name with module name "xxx"
 
-* For Thermodynamics of Materials
+* Packages for Thermodynamics of Materials
     * Thermopy
     * PyCALPhad
     * Pycalphad-plot
     * Matplotlib
     * Scipy
     * PyNBTI
+
+* Packages for calculus
+    * SymPy
+    * SciPy
+    * NumPy
+    * SymEngine
+    * pyODE
+    * autograd
+    * TensorFlow
