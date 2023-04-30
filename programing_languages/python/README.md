@@ -158,3 +158,6 @@ pipenv install
     * pyODE
     * autograd
     * TensorFlow
+
+* Projects
+    * [launchpad](https://dev.launchpad.net/Getting)
