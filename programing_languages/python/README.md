@@ -159,5 +159,17 @@ pipenv install
     * autograd
     * TensorFlow
 
+* Packages for web crawler
+    * Requests
+    * BeautifulSoup
+    * Scrapy
+    * Selenium
+    * PyQuery
+    * MechanicalSoup
+    * Lxml
+    * Pandas
+    * Pyppeteer
+    * Requests-HTML
+
 * Projects
     * [launchpad](https://dev.launchpad.net/Getting)
