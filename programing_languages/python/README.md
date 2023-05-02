@@ -3,6 +3,7 @@
 ## Reference for setuping up python coding environment
 
 * [這樣的開發環境沒問題嗎？ – Tzu-ping Chung – PyCon Taiwan 2018](https://youtu.be/6Nl0IYkU0hU)
+* [Python Tools for Managing Virtual Environments](https://dev.to/bowmanjd/python-tools-for-managing-virtual-environments-3bko#howto)
 
 * pyenv
     * controll python version
@@ -170,6 +171,11 @@ pipenv install
     * Pandas
     * Pyppeteer
     * Requests-HTML
+
+* Packages or framewroks for ML(Machine Learning)
+    * PyTorch
+    * TensorFlow
+    * JAX
 
 * Projects
     * [launchpad](https://dev.launchpad.net/Getting)
