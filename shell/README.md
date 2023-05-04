@@ -49,4 +49,25 @@ echo $SHELL
 
 #tree
 tree . -d -L 2
+
+#show system info
+cat /etc/os-release
+neofetch
+
+#show kernel info
+uname -a
+uname -r
+
+#mem check
+free -h
+
+#cpu ps mem
+top
+htop
+
+#List information about block devices.
+lsblk
+
+#net host:port check
+ss -tpln
 ```
