@@ -31,8 +31,11 @@ command -v nvm
 
 #Instal Active Long Term Support (LTS) node.js latest version via nvm
 nvm install --lts
-npm --version
+which node
+node -v
 which npm
+npm --version
+
 
 #usage with projects
 npm init
