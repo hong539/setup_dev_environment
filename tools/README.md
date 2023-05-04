@@ -83,6 +83,7 @@ podman pull docker.io/library/mysql:5.7
 * [deep-dive-serverless](https://aws.amazon.com/tw/getting-started/deep-dive-serverless/)
 * [Cloudflare Workers](https://workers.cloudflare.com/)
     * [Workers Status Page](https://workers.cloudflare.com/built-with/projects/status-page)
+* [firecracker]
 
 ## ansible
 

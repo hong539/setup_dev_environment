@@ -28,3 +28,18 @@ yay -S google-chrome
 #install nvm via yay
 yay -S nvm
 ```
+
+## troubleshooting
+
+```shell
+#Update the package databases by running the following command
+sudo pacman -Sy
+
+#Clear the package cache to ensure you're not using outdated packages
+sudo pacman -Scc
+
+#Try installing the bind package again
+sudo pacman -S bind
+
+#If the issue persists, you can try using different mirrors. Open the /etc/pacman.d/mirrorlist file as root and uncomment (remove the # symbol) from the desired mirrors. Save the file and try running the installation command again.
+```
