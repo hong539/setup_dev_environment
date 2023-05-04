@@ -61,7 +61,9 @@ eval "$(_PIPENV_COMPLETE=bash_source pipenv)"
 source ~/.bashrc
 ```        
 
-## Usage with your python projects
+## Usage with your python projects and vscode
+
+* [Python: Select Interpreter](https://code.visualstudio.com/docs/python/environments)
 
 ```shell
 pyenv version
@@ -87,6 +89,9 @@ pipenv --python 3.8.16
 pipenv --venv
 #Spawns a shell within the virtualenv.
 pipenv shell
+
+#Using Python: Select Interpreter in your IDE such as vscode
+#
 
 #pipenv install python packages you want to used
 #Just pick up pandas/requests/Django as Example.
