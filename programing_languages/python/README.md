@@ -118,6 +118,38 @@ if __name__ == "__main__":
 
 ## troubleshooting or tips or any other tools?
 
+* Import "scrapy" could not be resolvedPylance when using pyenv and pipenv in vscode    
+    * 目前使用vscode，以及python/pyenv/pipenv，操作上使用了
+    * 首先在專案目錄使用了指令    
+    ```shell
+    pyenv local 3.8.16
+    pipenv --python 3.8.16
+    pipenv shell
+    pipenv install scrapy
+    which scrapy
+    scrapy version
+    scrapy startproject src
+    ```
+    * 但是編寫python程式碼時出現以下錯誤，
+    * Import "scrapy" could not be resolvedPylance
+    * 請問該如何調整vscode的插件環境變數?修正上述問題?
+    * 要解決 "Import 'scrapy' could not be resolved" 的錯誤，您可以在 VS Code 中配置 Pylance 的環境變數，以便它能夠正確識別您的 Python 環境。請按照以下步驟進行調整：
+        * 確定您已在專案目錄中使用 pipenv shell 進入虛擬環境。
+        * 在 VS Code 中，按下 Ctrl+Shift+P（Windows/Linux）或 Command+Shift+P（Mac）打開命令面板。
+        * 在命令面板中，輸入 "Python: Select Interpreter" 並選擇該選項。這將打開一個選擇 Python 解釋器的列表。
+        * 在列表中，您應該能夠看到您的虛擬環境，它應該類似於 pipenv 3.8.16。選擇該虛擬環境。
+        * 選擇虛擬環境後，VS Code 將自動更新 .vscode/settings.json 檔案以指定選擇的解釋器路徑。這將設定 Pylance 擴充套件使用的 Python 環境。
+        * 重新啟動 VS Code 以使更改生效。
+
+        * 如果您仍然遇到相同的問題，請確保您的虛擬環境正確配置並包含所需的套件。您可以使用以下指令來確認套件是否已安裝在虛擬環境中：
+        ```shell
+        pipenv shell
+        pip list
+        #請確認在 pip list 的輸出中是否包含了 scrapy 套件。
+        pipenv install scrapy
+        ```
+
+
 ```shell
 #If you are trying using another python version
 # Warning: Your Pipfile requires python_version 3.8.15, but you are using 3.8.16 (/home/hong/.local/share/v/i/bin/python).
