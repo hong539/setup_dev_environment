@@ -25,4 +25,6 @@ sudo pacman -S gnuplot
 #install google-chrome via yay
 yay -S google-chrome
 
+#install nvm via yay
+yay -S nvm
 ```
