@@ -12,6 +12,7 @@
     * Node.js® is an open-source, cross-platform JavaScript runtime environment.
     * [arch linux/node.js wiki pages](https://wiki.archlinux.org/title/node.js_)
 * [react](https://zh-hant.legacy.reactjs.org/)
+* [Next.js](https://nextjs.org/docs)
 
 ## setting up dev enviroment
 
