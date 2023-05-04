@@ -29,7 +29,9 @@ yay -S google-chrome
 yay -S nvm
 ```
 
-## troubleshooting
+## troubleshooting or tips
+
+* pacman -S packages error
 
 ```shell
 #Update the package databases by running the following command
