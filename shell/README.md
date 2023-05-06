@@ -27,6 +27,20 @@ echo 是 shell 內建物件
 * [man tree](https://linux.die.net/man/1/tree)
 
 ```shell
+#Print information about users who are currently logged in.
+who --help
+
+#Print the user name associated with the current effective user ID.
+whoami --help
+
+#show uptime commands with basic guides
+uptime --help
+#show uptime in pretty format
+uptime -p
+
+#Display information about command type.
+type --help
+
 #How to measure booting time for your Linux?
 #如何測量Arch Linux開機時間?
 #這將會顯示出開機所需的總時間，包括Kernel啟動的時間、Userspace的時間和總共的時間。
@@ -70,4 +84,10 @@ lsblk
 
 #net host:port check
 ss -tpln
+
+#Display or control the kernel ring buffer.
+dmesg --help
+
+#Write the full path of COMMAND(s) to standard output.
+which --help
 ```
