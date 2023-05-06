@@ -27,6 +27,11 @@ echo 是 shell 內建物件
 * [man tree](https://linux.die.net/man/1/tree)
 
 ```shell
+#dmidecode is a tool for dumping a computer's DMI (some say SMBIOS ) table contents in a human-readable format.
+#src: https://linux.die.net/man/8/dmidecode
+sudo dmidecode
+sudo dmidecode > dmidecode.log
+
 #Print information about users who are currently logged in.
 who --help
 
