@@ -1,5 +1,10 @@
 # tools
 
+## networking
+
+* [dnstwist](https://github.com/elceef/dnstwist)
+* [dnsrecon](https://salsa.debian.org/pkg-security-team/dnsrecon)
+
 ## projects tracing or manage
 
 * Trac：一個基於Web的專案管理系統，具有缺陷跟蹤、Wiki、版本控制和原始碼瀏覽功能。它是用Python語言編寫的，並且完全開放原始碼。網站：https://trac.edgewall.org/

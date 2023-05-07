@@ -22,6 +22,7 @@ Just pick them up for your requriement!!!
     * [VyOS](https://docs.vyos.io/en/equuleus/contributing/build-vyos.html)
         * [Static mappings](https://docs.vyos.io/en/equuleus/configuration/service/dhcp-server.html#static-mappings)
         * [show protocols static arp](https://docs.vyos.io/en/equuleus/configuration/protocols/static.html#operation)
+    * [Kali Linux](https://www.kali.org/)
 
 * RPM-based
     * [CentOS](https://www.centos.org/)
