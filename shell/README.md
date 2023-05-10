@@ -27,6 +27,14 @@ echo 是 shell 內建物件
 * [man tree](https://linux.die.net/man/1/tree)
 
 ```shell
+#src: https://superuser.com/questions/120796/how-to-encode-base64-via-command-line
+#base64
+#encode "FOO" with base64
+echo FOO | base64
+#After encode "Rk9PCg=="
+#decode "Rk9PCg==" with base64
+echo Rk9PCg== | base64 -d
+
 #dmidecode is a tool for dumping a computer's DMI (some say SMBIOS ) table contents in a human-readable format.
 #src: https://linux.die.net/man/8/dmidecode
 sudo dmidecode
