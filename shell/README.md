@@ -27,6 +27,7 @@ echo 是 shell 內建物件
 * [man tree](https://linux.die.net/man/1/tree)
 
 ```shell
+#src: https://www.gnu.org/software/coreutils/manual/html_node/base64-invocation.html#base64-invocation
 #src: https://superuser.com/questions/120796/how-to-encode-base64-via-command-line
 #base64
 #encode "FOO" with base64
