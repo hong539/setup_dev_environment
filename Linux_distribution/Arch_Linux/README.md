@@ -32,6 +32,8 @@ pacman -Q | grep "base-devel\|git\|clang\|cppcheck\|aspell\|colordiff\|valgrind"
 # kdsoap-ws-discovery-client git20200927-2
 # libgit2 1:1.6.3-1
 # valgrind 3.20.0-1
+#with awk show packages name only
+pacman -Q | awk '{print $1}'
 
 #perf
 sudo pacman -S perf
