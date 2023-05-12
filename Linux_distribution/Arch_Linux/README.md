@@ -21,6 +21,17 @@ pacman -Q | grep "base-devel\|git"
 pacman -Q | grep "base-devel\|git\|clang\|cppcheck\|aspell"
 pacman -Q | grep "base-devel\|git\|clang\|cppcheck\|aspell\|colordiff"
 pacman -Q | grep "base-devel\|git\|clang\|cppcheck\|aspell\|colordiff\|valgrind"
+#if installed they will be shown in your terminal like this
+# aspell 0.60.8-3
+# aspell-en 2020.12.07-1
+# base-devel 1-1
+# clang 15.0.7-9
+# colordiff 1.0.21-1
+# cppcheck 2.10.3-2
+# git 2.40.0-1
+# kdsoap-ws-discovery-client git20200927-2
+# libgit2 1:1.6.3-1
+# valgrind 3.20.0-1
 
 #perf
 sudo pacman -S perf
