@@ -1,5 +1,12 @@
 # tools
 
+## UML relateds
+
+* [Mermaid](https://mermaid.js.org/)
+* [StarUML](https://staruml.io/)
+    * [staruml-python](https://github.com/niklauslee/staruml-python)
+* [PlantUML](https://plantuml.com/)
+
 ## networking
 
 * [dnstwist](https://github.com/elceef/dnstwist)
