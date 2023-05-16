@@ -9,6 +9,11 @@ Just pick them up for your requriement!!!
 
 * [Linux 核心設計/實作 (Linux Kernel Internals)](http://wiki.csie.ncku.edu.tw/linux/schedule)
 
+## System programming design
+
+* [系統程式設計 - Namespaces](https://hackmd.io/@0xff07/r1wCFz0ut)
+* [Namespaces in operation, part 1: namespaces overview](https://lwn.net/Articles/531114/)
+
 ## Which Linux_distribution I've tried?
 
 * For me to understand how to build your own Linux system.
