@@ -1,6 +1,6 @@
 # go
 
-## install
+## install and setup
 
 * [Ubuntu](https://github.com/golang/go/wiki/Ubuntu)
 
@@ -14,6 +14,15 @@ sudo apt update
 sudo apt install golang-go
 sudo add-apt-repository --remove ppa:longsleep/golang-backports
 ```
+
+* [Arch Linux](https://wiki.archlinux.org/title/Go)
+
+```shell
+which go
+go version
+
+```
+
 
 ## basic
 
