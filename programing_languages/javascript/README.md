@@ -41,4 +41,11 @@ npm --version
 #usage with projects
 npm init
 npm install packages
+
+##yarn?
+yarn && yarn start
 ```
+
+## projects
+
+* [todo-react](https://github.com/hong539/todo-react)
