@@ -47,6 +47,13 @@ sudo pacman -S gnuplot
 #bash-completion
 sudo pacman -S bash-completion
 
+#kubectl
+sudo pacman -S kubectl
+which kubectl
+
+#kubie
+sudo pacman -S kubie
+
 #AUR (Arch User Repository)
 #yay
 
@@ -55,6 +62,9 @@ yay -S google-chrome
 
 #install nvm via yay
 yay -S nvm
+
+#kind
+yay -S kind
 ```
 
 ## troubleshooting or tips
