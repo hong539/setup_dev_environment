@@ -43,6 +43,8 @@ npm init
 npm install packages
 
 ##yarn?
+#Node.js >=16.10
+corepack enable
 yarn && yarn start
 ```
 
