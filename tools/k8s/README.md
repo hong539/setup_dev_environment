@@ -20,6 +20,11 @@ kubectl patch pvc <pvc-name> -p '{"spec":{"storageClassName":"<new-storage-class
 
 ```
 
+## admin tools
+
+* kubectl
+* kubie
+
 ## kind
 
 * [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
