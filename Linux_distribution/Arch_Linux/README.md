@@ -44,6 +44,9 @@ sudo perf stat ls
 #gnuplot
 sudo pacman -S gnuplot
 
+#bash-completion
+sudo pacman -S bash-completion
+
 #AUR (Arch User Repository)
 #yay
 
