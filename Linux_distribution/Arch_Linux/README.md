@@ -41,6 +41,9 @@ sudo perf list
 sudo perf <command>
 sudo perf stat ls
 
+#unzip
+sudo pacman -S unzip
+
 #gnuplot
 sudo pacman -S gnuplot
 
