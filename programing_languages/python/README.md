@@ -70,6 +70,9 @@ poetry init
 
 #add package
 poetry add pendulum
+
+#Activating the virtual environment
+poetry shell
 ```        
 
 ## Usage with pyenv+pipenv
