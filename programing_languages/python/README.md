@@ -41,7 +41,38 @@
     * big_o
     * pyperf
 
-## Installation
+## Usage with pyenv+poetry
+
+```shell
+#install poetry
+curl -sSL https://install.python-poetry.org | python3 -
+
+#setting PATH for poetry
+vim ~/.bashrc
+export PATH="/home/hong/.local/bin:$PATH"
+source ~/.bashrc
+poetry --version
+poetry completions bash >> ~/.bash_completion
+source ~/.bash_completion
+
+#cd to the projects folder
+cd ~/some_path/project_folder
+pyenv local 3.8.16
+
+#new project
+poetry new poetry-demo
+
+#Initialising a pre-existing project
+cd pre-existing-project
+poetry init
+
+#add package
+poetry add pendulum
+```        
+
+## Usage with pyenv+pipenv
+
+* [Python: Select Interpreter](https://code.visualstudio.com/docs/python/environments)
 
 ```shell
 #Install pyenv
@@ -67,24 +98,6 @@ eval "$(_PIPENV_COMPLETE=bash_source pipenv)"
 
 source ~/.bashrc
 
-#try poetry
-curl -sSL https://install.python-poetry.org | python3 -
-
-vim ~/.bashrc
-export PATH="/home/hong/.local/bin:$PATH"
-source ~/.bashrc
-poetry --version
-#After cd to the projects folder
-cd ~/some_path/project_folder
-pyenv local 3.8.16
-
-```        
-
-## Usage with your python projects and vscode
-
-* [Python: Select Interpreter](https://code.visualstudio.com/docs/python/environments)
-
-```shell
 pyenv version
 pyenv versions
 
