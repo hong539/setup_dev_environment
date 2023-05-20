@@ -57,7 +57,6 @@ pyenv install 3.8.16
 pyenv global 3.8.16
 
 #Install pipenv after setting python global version with pyenv
-
 pip install pipenv
 
 #pipenv Shell Completion
@@ -67,6 +66,18 @@ vim ~/.bashrc
 eval "$(_PIPENV_COMPLETE=bash_source pipenv)"
 
 source ~/.bashrc
+
+#try poetry
+curl -sSL https://install.python-poetry.org | python3 -
+
+vim ~/.bashrc
+export PATH="/home/hong/.local/bin:$PATH"
+source ~/.bashrc
+poetry --version
+#After cd to the projects folder
+cd ~/some_path/project_folder
+pyenv local 3.8.16
+
 ```        
 
 ## Usage with your python projects and vscode
@@ -87,7 +98,7 @@ pip -V
 which pip
 which pipenv
 
-#Setting up python
+#check pipenv version
 pipenv --version
 #Creating a virtualenv for this project...
 pipenv --python 3.8.16
@@ -99,7 +110,7 @@ pipenv --venv
 pipenv shell
 
 #Using Python: Select Interpreter in your IDE such as vscode
-#
+#ctrl+shift+p > Python: Select Interpreter > input the python path
 
 #pipenv install python packages you want to used
 #Just pick up pandas/requests/Django as Example.
