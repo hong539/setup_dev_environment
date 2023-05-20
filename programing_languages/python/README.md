@@ -2,8 +2,16 @@
 
 ## Reference for setuping up python coding environment
 
+* [Ep 40. Rust 和 PyO3：让 Python 再次伟大](https://pythonhunter.org/episodes/ep40)
+* [Ep 15. 和 PyPA 的成员聊聊 Python 开发工作流](https://pythonhunter.org/episodes/ep15)
 * [這樣的開發環境沒問題嗎？ – Tzu-ping Chung – PyCon Taiwan 2018](https://youtu.be/6Nl0IYkU0hU)
 * [Python Tools for Managing Virtual Environments](https://dev.to/bowmanjd/python-tools-for-managing-virtual-environments-3bko#howto)
+
+* [conda](https://docs.conda.io/en/latest/)
+* [Python Packaging Authority](https://www.pypa.io/en/latest/)
+
+* Poetry
+    * [Install ](https://python-poetry.org/docs/)
 
 * pyenv
     * controll python version
@@ -213,6 +221,9 @@ pipenv install
     * PyTorch
     * TensorFlow
     * JAX
+
+* Packages for Natural language
+    * pykakasi
 
 * Projects
     * [launchpad](https://dev.launchpad.net/Getting)
