@@ -43,6 +43,8 @@
 
 ## Usage with pyenv+poetry
 
+* [poetry/managing-environments](https://python-poetry.org/docs/managing-environments#managing-environments)
+
 ```shell
 #install poetry
 curl -sSL https://install.python-poetry.org | python3 -
