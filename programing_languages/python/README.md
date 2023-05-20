@@ -1,6 +1,6 @@
 # Python
 
-## Reference for setuping up python coding environment
+## collects/tips for setuping up coding environment
 
 * [Ep 40. Rust 和 PyO3：让 Python 再次伟大](https://pythonhunter.org/episodes/ep40)
 * [Ep 15. 和 PyPA 的成员聊聊 Python 开发工作流](https://pythonhunter.org/episodes/ep15)
@@ -187,6 +187,9 @@ pipenv install
 ```
 
 * duplicate xxx.py name with module name "xxx"
+
+* Packages for CLI(Command-Line Interface)
+    * Rich
 
 * Packages for Thermodynamics of Materials
     * Thermopy
