@@ -9,6 +9,8 @@
 
 ## networking
 
+* ssh
+* SSHFS
 * [dnstwist](https://github.com/elceef/dnstwist)
 * [dnsrecon](https://salsa.debian.org/pkg-security-team/dnsrecon)
 
