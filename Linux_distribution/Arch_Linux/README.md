@@ -14,11 +14,10 @@
 #check or edit mirrorlist
 sudo vim /etc/pacman.d/mirrorlist
 
-# reflector
-# A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
-sudo pacman -S reflector
-
 #pacman
+
+#Updating the Pacman Database
+sudo pacman -Syy
 
 #install
 sudo pacman -S package_name
