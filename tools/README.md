@@ -1,5 +1,10 @@
 # tools
 
+## make
+
+* [Makefile Tutorial](https://makefiletutorial.com/)
+* [Makefile 語法和示範](https://hackmd.io/@sysprog/SySTMXPvl)
+
 ## UML relateds
 
 * [Mermaid](https://mermaid.js.org/)
