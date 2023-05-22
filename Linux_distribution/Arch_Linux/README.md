@@ -11,7 +11,21 @@
 ## tools
 
 ```shell
+#check or edit mirrorlist
+sudo vim /etc/pacman.d/mirrorlist
+
+# reflector
+# A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
+sudo pacman -S reflector
+
 #pacman
+
+#install
+sudo pacman -S package_name
+
+#remove
+sudo pacman -R package_name
+
 #search packages
 pacman -Ss base-devel
 #search installed packages
