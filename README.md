@@ -1,5 +1,6 @@
 # setup_dev_environment
-prepare my dev enviroment on Linux
+
+Prepare my dev-enviroment on a Linux machine(Could be a physical or virtual machine) and use vscode with ssh plugin to connect this.
 
 ## Linux distribution/languages/shell/CLI (command line tools)/skills/tools...etc?
 
