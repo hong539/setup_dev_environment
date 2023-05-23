@@ -1,5 +1,12 @@
 # Python
 
+## What is Python ?
+
+* [What is Python? Executive Summary](https://www.python.org/doc/essays/blurb/)
+* [Python Implementations](https://wiki.python.org/moin/PythonImplementations)
+* interpreter implementation for python
+    * CPython
+
 ## collects/tips for setuping up coding environment
 
 * [Ep 40. Rust 和 PyO3：让 Python 再次伟大](https://pythonhunter.org/episodes/ep40)
