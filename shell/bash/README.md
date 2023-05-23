@@ -9,4 +9,5 @@
 
 ```shell
 cat ./-
+cat "some other spaces"
 ```
