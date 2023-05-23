@@ -8,11 +8,11 @@
     * [Jekyll on Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/)
 
 ```shell
-#update packages list
-sudo pacman -Syy
-
-#install ruby base-devel via pacman
-sudo pacman -S ruby base-devel
+#ruby gem packages
+#install jekyll
+#method 1
+#Follow the instructions for Ubuntu. also we can do it on other Linux like Arch Linux
+#src: https://jekyllrb.com/docs/installation/ubuntu/
 
 #check prerequisites
 ruby -v
@@ -21,9 +21,26 @@ gcc -v
 g++ -v
 make -v
 
-#ruby gem packages
-#install jekyll
-#method 1
-#Follow the instructions for Ubuntu. also we can do it on other Linux like Arch Linux
-#src: https://jekyllrb.com/docs/installation/ubuntu/
+#Debian/Ubuntu
+sudo apt-get install ruby-full build-essential zlib1g-dev
+
+#Arch Linux
+#update packages list
+sudo pacman -Syy
+
+#install ruby base-devel via pacman
+sudo pacman -S ruby base-devel
+
+#check
+pacman -Q base-devel
+#base-devel 1-1
+pacman -Q zlib
+#zlib 1:1.2.13-2
+
+#add environment variables to your ~/.bashrc file
+#configure the gem installation path
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
 ```
