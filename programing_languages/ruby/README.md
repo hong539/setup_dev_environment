@@ -5,15 +5,25 @@
 * [installation](https://www.ruby-lang.org/en/documentation/installation/)
 * [install ruby on Arch Linux](https://www.ruby-lang.org/en/documentation/installation/#pacman)
 * [Jekyll is a Ruby Gem that can be installed on most systems.](https://jekyllrb.com/docs/installation/)
+    * [Jekyll on Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/)
 
 ```shell
-#install via pacman
+#update packages list
+sudo pacman -Syy
+
+#install ruby base-devel via pacman
 sudo pacman -S ruby base-devel
 
-#check ruby
+#check prerequisites
 ruby -v
 gem -v
 gcc -v
 g++ -v
 make -v
+
+#ruby gem packages
+#install jekyll
+#method 1
+#Follow the instructions for Ubuntu. also we can do it on other Linux like Arch Linux
+#src: https://jekyllrb.com/docs/installation/ubuntu/
 ```
