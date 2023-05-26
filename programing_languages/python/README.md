@@ -262,7 +262,7 @@ pipenv install
     * JAX
 
 * Packages for Natural language
-    * pykakasi
+    * [pykakasi](https://codeberg.org/miurahr/pykakasi)
 
 * Projects
     * [launchpad](https://dev.launchpad.net/Getting)
