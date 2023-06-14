@@ -2,6 +2,7 @@
 
 ## Overview
 
+* [When not to use shell scripts](https://tldp.org/LDP/abs/html/why-shell.html)
 * [Unix / Linux - What is Shells?](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm)
 
 * Ask our chatGPT
