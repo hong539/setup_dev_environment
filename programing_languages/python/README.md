@@ -75,7 +75,9 @@ poetry new poetry-demo
 cd pre-existing-project
 poetry init
 
-#add package
+#add package like pip
+#pip install pykakasi
+#poetry add pykakasi
 poetry add pendulum
 
 #Activating the virtual environment
