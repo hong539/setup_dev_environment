@@ -113,6 +113,14 @@ sudo vim /etc/xrdp/sesman.ini
 cp /etc/X11/xinit/xinitrc ~/.xinitrc
 vim ~/.xinitrc
 
+#Non-root user
+vim /etc/X11/Xwrapper.config
+allowed_users=anybody
+needs_root_rights=no
+
+#restart xrdp and xrdp-sesman
+sudo systemctl restart xrdp xrdp-sesman
+
 #Issues study : [ERROR] xrdp_mm_chansrv_connect: error in trans_connect chan
 #https://github.com/neutrinolabs/xrdp/issues/2211
 ```
