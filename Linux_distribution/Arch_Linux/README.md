@@ -88,6 +88,11 @@ yay -S kind
 ##Setting up remote server
 
 ```shell
+#Before start
+#Record My setting up for Arch Linux
+#Arch Linux with KDE plasma 5 desktop
+#But I remove KDE plasma 5 and insatll Xfce4 desktop and also keep Simple Desktop Display Manager (SDDM) from KDE plasma 5
+
 #xrdp
 #Arch wiki
 #https://wiki.archlinux.org/title/xrdp
@@ -98,7 +103,14 @@ sudo vim /etc/xrdp/xrdp.ini
 #The parameters used to start Xorg and Xvnc display servers can be configured in /etc/xrdp/sesman.ini.
 sudo vim /etc/xrdp/sesman.ini
 
-#After successfully starting a display server, xrdp will execute /etc/xrdp/startwm.sh by default. This script is meant to start a window manager (similar to .xinitrc) and will read from ~/.xinitrc or /etc/X11/xinit/xinitrc if they exist. It is recommended to edit ~/.xinitrc to start your desktop environment or window manager, but you can also edit /etc/xrdp/startwm.sh. 
+#After successfully starting a display server, xrdp will execute /etc/xrdp/startwm.sh by default. This script is meant to start a window manager (similar to .xinitrc) and will read from ~/.xinitrc or /etc/X11/xinit/xinitrc if they exist. It is recommended to edit ~/.xinitrc to start your desktop environment or window manager, but you can also edit /etc/xrdp/startwm.sh.
+#Hint :https://wiki.archlinux.org/title/Xinit#xinitrc
+
+cp /etc/X11/xinit/xinitrc ~/.xinitrc
+vim ~/.xinitrc
+
+#Issues study : [ERROR] xrdp_mm_chansrv_connect: error in trans_connect chan
+#https://github.com/neutrinolabs/xrdp/issues/2211
 ```
 
 ## troubleshooting or tips
