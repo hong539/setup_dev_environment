@@ -118,6 +118,11 @@ vim /etc/X11/Xwrapper.config
 allowed_users=anybody
 needs_root_rights=no
 
+#other tips?
+#https://unix.stackexchange.com/questions/532983/arch-linux-issues-with-xorgxrdp-and-xfce4-windows-manager
+sudo vim /etc/xrdp/xrdp.ini
+allow_channels=false
+
 #restart xrdp and xrdp-sesman
 sudo systemctl restart xrdp xrdp-sesman
 
