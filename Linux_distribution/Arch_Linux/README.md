@@ -93,13 +93,12 @@ yay -S kind
 #https://wiki.archlinux.org/title/xrdp
 yay -S xrdp
 
-#VNC server
-sudo pacman -S tigervnc
+#The session manager UI can be highly customized by modifying /etc/xrdp/xrdp.ini.
+sudo vim /etc/xrdp/xrdp.ini
+#The parameters used to start Xorg and Xvnc display servers can be configured in /etc/xrdp/sesman.ini.
+sudo vim /etc/xrdp/sesman.ini
 
-#booting up tigervnc after setting
-#Arch wiki
-#https://wiki.archlinux.org/title/TigerVNC#Expose_the_local_display_directly
-sudo systemctl status vncserver@:1.service
+#After successfully starting a display server, xrdp will execute /etc/xrdp/startwm.sh by default. This script is meant to start a window manager (similar to .xinitrc) and will read from ~/.xinitrc or /etc/X11/xinit/xinitrc if they exist. It is recommended to edit ~/.xinitrc to start your desktop environment or window manager, but you can also edit /etc/xrdp/startwm.sh. 
 ```
 
 ## troubleshooting or tips
