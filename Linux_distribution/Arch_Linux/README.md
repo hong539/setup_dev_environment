@@ -71,6 +71,8 @@ which kubectl
 sudo pacman -S kubie
 
 #AUR (Arch User Repository)
+#github
+#https://github.com/Jguer/yay
 #yay
 
 #install google-chrome via yay
@@ -87,10 +89,17 @@ yay -S kind
 
 ```shell
 #xrdp
+#Arch wiki
+#https://wiki.archlinux.org/title/xrdp
 yay -S xrdp
 
 #VNC server
 sudo pacman -S tigervnc
+
+#booting up tigervnc after setting
+#Arch wiki
+#https://wiki.archlinux.org/title/TigerVNC#Expose_the_local_display_directly
+sudo systemctl status vncserver@:1.service
 ```
 
 ## troubleshooting or tips
