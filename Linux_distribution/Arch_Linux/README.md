@@ -83,6 +83,16 @@ yay -S nvm
 yay -S kind
 ```
 
+##Setting up remote server
+
+```shell
+#xrdp
+yay -S xrdp
+
+#VNC server
+sudo pacman -S tigervnc
+```
+
 ## troubleshooting or tips
 
 * pacman -S packages error
