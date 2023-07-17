@@ -122,6 +122,7 @@ needs_root_rights=no
 #https://unix.stackexchange.com/questions/532983/arch-linux-issues-with-xorgxrdp-and-xfce4-windows-manager
 sudo vim /etc/xrdp/xrdp.ini
 allow_channels=false
+#This will quick turn off your RDP client ahter select Xorg or Xvnc with user and passwd to login
 
 #restart xrdp and xrdp-sesman
 sudo systemctl restart xrdp xrdp-sesman
