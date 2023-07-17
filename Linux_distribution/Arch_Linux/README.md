@@ -93,9 +93,13 @@ yay -S kind
 #Arch Linux with KDE plasma 5 desktop
 #But I remove KDE plasma 5 and insatll Xfce4 desktop and also keep Simple Desktop Display Manager (SDDM) from KDE plasma 5
 
+#Another way to comare
+#Create a VM with archinstall and install desltop Xfce to check if I'm missing to install any other packages?
+
 #xrdp
 #Arch wiki
 #https://wiki.archlinux.org/title/xrdp
+#tips for Help with xrdp setup
 yay -S xrdp
 
 #The session manager UI can be highly customized by modifying /etc/xrdp/xrdp.ini.
