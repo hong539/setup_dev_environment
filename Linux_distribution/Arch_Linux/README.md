@@ -101,8 +101,9 @@ yay -S kind
 sddm
 
 #xfce desktop
-xfce4-goodies
-xfce4
+#remove
+sudo pacman -Rc xfce4 xfce4-goodies
+rm -rf ~/.config/xfce4
 
 #gnome desktop
 sudo pacman -S gnome gnome-extra
