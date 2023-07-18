@@ -163,5 +163,8 @@ sudo pacman -S bind
 #Remove the conflicting packages using the command
 sudo pacman -Rdd package_name
 
+#Clear the package cache using the command
+sudo pacman -Scc
+
 #If the issue persists, you can try using different mirrors. Open the /etc/pacman.d/mirrorlist file as root and uncomment (remove the # symbol) from the desired mirrors. Save the file and try running the installation command again.
 ```
