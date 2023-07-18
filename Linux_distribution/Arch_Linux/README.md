@@ -96,6 +96,17 @@ yay -S kind
 #Another way to comare
 #Create a VM with archinstall and install desltop Xfce to check if I'm missing to install any other packages?
 
+#QML based X11 and Wayland display manager
+#Simple Desktop Display Manager
+sddm
+
+#xfce desktop
+xfce4-goodies
+xfce4
+
+#gnome desktop
+sudo pacman -S gnome gnome-extra
+
 #!!! given up xrdp + xrogxrdp way...
 
 #xrdp
