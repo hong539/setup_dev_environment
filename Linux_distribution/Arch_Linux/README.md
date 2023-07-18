@@ -98,7 +98,8 @@ yay -S kind
 
 #QML based X11 and Wayland display manager
 #Simple Desktop Display Manager
-sddm
+#remove
+sudo pacman -R sddm
 
 #xfce desktop
 #remove
@@ -108,7 +109,7 @@ rm -rf ~/.config/xfce4
 #gnome desktop
 sudo pacman -S gnome gnome-extra
 
-#!!! given up xrdp + xrogxrdp way...
+#!!! given up xrdp + xrogxrdp way... !!!
 
 #xrdp
 #Arch wiki
@@ -158,6 +159,9 @@ sudo pacman -Scc
 
 #Try installing the bind package again
 sudo pacman -S bind
+
+#Remove the conflicting packages using the command
+sudo pacman -Rdd package_name
 
 #If the issue persists, you can try using different mirrors. Open the /etc/pacman.d/mirrorlist file as root and uncomment (remove the # symbol) from the desired mirrors. Save the file and try running the installation command again.
 ```
