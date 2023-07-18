@@ -109,6 +109,10 @@ rm -rf ~/.config/xfce4
 #gnome desktop
 sudo pacman -S gnome gnome-extra
 
+#start gdm
+systemctl start gdm.service
+systemctl enable gdm.service
+
 #!!! given up xrdp + xrogxrdp way... !!!
 
 #xrdp
