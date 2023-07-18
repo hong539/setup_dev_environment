@@ -96,11 +96,13 @@ yay -S kind
 #Another way to comare
 #Create a VM with archinstall and install desltop Xfce to check if I'm missing to install any other packages?
 
+#!!! given up xrdp + xrogxrdp way...
+
 #xrdp
 #Arch wiki
 #https://wiki.archlinux.org/title/xrdp
 #tips for Help with xrdp setup
-yay -S xrdp
+yay -S xrdp xorgxrdp
 
 #The session manager UI can be highly customized by modifying /etc/xrdp/xrdp.ini.
 sudo vim /etc/xrdp/xrdp.ini
