@@ -118,6 +118,9 @@ systemctl enable gdm.service
 # https://moonlight-stream.org/
 # https://github.com/LizardByte/Sunshine
 
+#install AUR package 
+yay -S sunshine
+
 #!!! given up xrdp + xrogxrdp way... !!!
 
 #xrdp
