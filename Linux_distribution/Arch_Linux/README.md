@@ -121,6 +121,41 @@ systemctl enable gdm.service
 #install AUR package 
 yay -S sunshine
 
+#setup sunshine
+#https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/usage.html#linux
+
+echo 'KERNEL=="uinput", SUBSYSTEM=="misc", OPTIONS+="static_node=uinput", TAG+="uaccess"' | \
+sudo tee /etc/udev/rules.d/85-sunshine.rules
+
+vim ~/.config/systemd/user/sunshine.service
+[Unit]
+Description=Sunshine self-hosted game stream host for Moonlight.
+StartLimitIntervalSec=500
+StartLimitBurst=5
+
+[Service]
+ExecStart=/usr/bin/sunshine
+Restart=on-failure
+RestartSec=5s
+#Flatpak Only
+#ExecStop=flatpak kill dev.lizardbyte.sunshine
+
+[Install]
+WantedBy=graphical-session.target
+
+#start and enable boot options for sunshine
+systemctl --user start sunshine
+#check status
+systemctl --user status sunshine
+#Start on boot
+systemctl --user enable sunshine
+
+#Additional Setup for KMS if needed
+sudo setcap cap_sys_admin+p $(readlink -f $(which sunshine))
+
+#Reboot
+sudo reboot now
+
 #!!! given up xrdp + xrogxrdp way... !!!
 
 #xrdp
