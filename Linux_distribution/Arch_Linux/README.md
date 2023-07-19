@@ -113,6 +113,11 @@ sudo pacman -S gnome gnome-extra
 systemctl start gdm.service
 systemctl enable gdm.service
 
+#Try moonlight(try thier client) and sunshine(as server on Linux)
+# https://ivonblog.com/posts/linux-sunshine-remote-gaming/
+# https://moonlight-stream.org/
+# https://github.com/LizardByte/Sunshine
+
 #!!! given up xrdp + xrogxrdp way... !!!
 
 #xrdp
