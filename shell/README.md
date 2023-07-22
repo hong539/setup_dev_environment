@@ -28,6 +28,10 @@ echo 是 shell 內建物件
 * [man tree](https://linux.die.net/man/1/tree)
 
 ```shell
+#sha512sum Print or check SHA512 (512-bit) checksums.
+#other related tools: md5sum/sha256sum/...etc
+sha512sum -c Endeavouros_Cassini_Nova-03-2023_R2.iso.sha512sum
+
 #src: https://www.gnu.org/software/coreutils/manual/html_node/base64-invocation.html#base64-invocation
 #src: https://superuser.com/questions/120796/how-to-encode-base64-via-command-line
 #base64
