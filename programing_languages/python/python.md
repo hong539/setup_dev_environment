@@ -25,6 +25,7 @@
 * pyenv
     * controll python version
     * [https://github.com/pyenv/pyenv#automatic-installer](https://github.com/pyenv/pyenv#automatic-installer)
+    * [set-up-your-shell-environment-for-pyenv](https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv)
 * pipenv
     * controll projects packages/virtual enviroment
     * [https://pipenv.pypa.io/en/latest/#install-pipenv-today](https://pipenv.pypa.io/en/latest/)
@@ -57,6 +58,22 @@
 ```shell
 #Install pyenv
 curl https://pyenv.run | bash
+
+#add commands to your environment
+#to add to ~/.bash_profile:
+echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bash_profile
+echo 'command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bash_profile
+echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
+
+source ~/.bash_profile
+which pyenv
+pyenv
+
+#install python with versions
+pyenv install 2.7.18
+pyenv install 3.8.16
+pyenv install 3.9.17
+pyenv install 3.10.12
 
 #install poetry
 curl -sSL https://install.python-poetry.org | python3 -
