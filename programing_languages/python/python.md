@@ -55,6 +55,9 @@
 * [poetry/managing-environments](https://python-poetry.org/docs/managing-environments#managing-environments)
 
 ```shell
+#Install pyenv
+curl https://pyenv.run | bash
+
 #install poetry
 curl -sSL https://install.python-poetry.org | python3 -
 
