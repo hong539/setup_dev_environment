@@ -91,11 +91,11 @@ poetry --version
 poetry completions bash >> ~/.bash_completion
 source ~/.bash_completion
 
-#cd to the projects folder
+#setting python version for a new project
 cd ~/some_path/project_folder
 pyenv local 3.8.16
 
-#new project
+#create new project with poetry
 poetry new poetry-demo
 
 #Initialising a pre-existing project
