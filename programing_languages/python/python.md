@@ -9,6 +9,8 @@
 
 ## collects/tips for setuping up coding environment
 
+* Which Python version?
+   * 2.7/3.8/3.9/3.10/3.11
 * [Ep 40. Rust 和 PyO3：让 Python 再次伟大](https://pythonhunter.org/episodes/ep40)
 * [Ep 15. 和 PyPA 的成员聊聊 Python 开发工作流](https://pythonhunter.org/episodes/ep15)
 * [這樣的開發環境沒問題嗎？ – Tzu-ping Chung – PyCon Taiwan 2018](https://youtu.be/6Nl0IYkU0hU)
