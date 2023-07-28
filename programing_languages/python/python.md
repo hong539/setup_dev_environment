@@ -21,6 +21,7 @@
 
 * Poetry
     * [Install ](https://python-poetry.org/docs/)
+    * [installing-dependencies-only](https://python-poetry.org/docs/basic-usage/#installing-dependencies-only)
 
 * pyenv
     * controll python version
@@ -108,6 +109,9 @@ poetry add pendulum
 
 #Activating the virtual environment
 poetry shell
+
+#Installing dependencies only
+poetry install --no-root
 ```        
 
 ## Usage with pyenv+pipenv
