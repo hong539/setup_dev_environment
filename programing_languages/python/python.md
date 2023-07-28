@@ -75,13 +75,17 @@ pyenv install 3.8.16
 pyenv install 3.9.17
 pyenv install 3.10.12
 
+pyenv versions
+#for system-scope python
+pyenv global 3.8.16
+
 #install poetry
 curl -sSL https://install.python-poetry.org | python3 -
 
 #setting PATH for poetry
-vim ~/.bashrc
+vim ~/.bash_profile
 export PATH="/home/hong/.local/bin:$PATH"
-source ~/.bashrc
+source ~/.bash_profile
 poetry --version
 poetry completions bash >> ~/.bash_completion
 source ~/.bash_completion
