@@ -2,9 +2,9 @@
 
 ## basic
 
-* [JavaScript Tutorial](https://www.w3schools.com/js/)
+* [w3schools/JavaScript Tutorial](https://www.w3schools.com/js/)
 
-## frameworks or packages
+## frameworks/packages/library
 
 * [nvm](https://github.com/nvm-sh/nvm)
     * Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -13,6 +13,8 @@
     * [arch linux/node.js wiki pages](https://wiki.archlinux.org/title/node.js_)
 * [react](https://zh-hant.legacy.reactjs.org/)
 * [Next.js](https://nextjs.org/docs)
+* [jquery](https://jquery.com/)
+* [MDN/AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 
 ## setting up dev enviroment
 
