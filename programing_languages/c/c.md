@@ -19,6 +19,9 @@
 * Setting up on Ubuntu
 
 ```shell
+#setup
+sudo apt install build-essential
+
 #how to use these CLI tools?
 #gcc
 which gcc
