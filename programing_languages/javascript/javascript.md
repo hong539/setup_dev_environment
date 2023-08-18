@@ -3,6 +3,11 @@
 ## basic
 
 * [w3schools/JavaScript Tutorial](https://www.w3schools.com/js/)
+* How to run Javascript?
+    * [How To Add JavaScript to HTML](https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html)
+    * [How To Write Your First JavaScript Program](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-javascript-program)
+    * [How To Use the JavaScript Developer Console](https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-developer-console)
+    * [How To Use the Node.js REPL](https://www.digitalocean.com/community/tutorials/how-to-use-the-node-js-repl)
 
 ## frameworks/packages/library
 
