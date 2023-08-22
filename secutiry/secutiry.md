@@ -9,3 +9,6 @@
     * gdbinit (https://github.com/gdbinit/Gdbinit)
     * pwntools (https://github.com/Gallopsled/pwntools)
     * radare2 (http://www.radare.org/)
+
+* 特權提升 (Privilege escalation)
+* SQL注入 (SQL injection)
