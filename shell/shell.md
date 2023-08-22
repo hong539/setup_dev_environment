@@ -4,6 +4,9 @@
 
 * [When not to use shell scripts](https://tldp.org/LDP/abs/html/why-shell.html)
 * [Unix / Linux - What is Shells?](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm)
+* [Shell builtin](https://zh.wikipedia.org/zh-tw/%E6%AE%BC%E5%B1%A4%E5%85%A7%E5%BB%BA%E6%8C%87%E4%BB%A4)
+
+## Tips when using CLI
 
 * Ask our chatGPT
 
@@ -21,13 +24,14 @@ echo is a shell builtin
 echo 是 shell 內建物件
 ```
 
-* [Shell builtin](https://zh.wikipedia.org/zh-tw/%E6%AE%BC%E5%B1%A4%E5%85%A7%E5%BB%BA%E6%8C%87%E4%BB%A4)
-
-## Tips when using CLI
-
 * [man tree](https://linux.die.net/man/1/tree)
 
 ```shell
+#mkdir
+mkdir --help
+mkdir CI/CD_tools
+#mkdir: cannot create directory ‘CI/CD_tools’: No such file or directory
+
 #sha512sum Print or check SHA512 (512-bit) checksums.
 #other related tools: md5sum/sha256sum/...etc
 sha512sum -c Endeavouros_Cassini_Nova-03-2023_R2.iso.sha512sum
