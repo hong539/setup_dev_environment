@@ -105,6 +105,9 @@ htop
 #List information about block devices.
 lsblk
 
+df -h
+du -h
+
 #net host:port check
 ss -tpln
 

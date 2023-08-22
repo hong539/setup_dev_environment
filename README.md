@@ -4,22 +4,47 @@
 * Feel free to fork My notes. :)
 * Prepare my dev-enviroment on a Linux machine(Could be a physical or virtual machine) and use vscode with ssh plugin to connect this.
 
-## Linux distribution/languages/shell/CLI (command line tools)/skills/tools...etc?
+## Guide/Tips/Linux distribution/languages/shell/CLI (command line tools)/skills/tools...etc?
 
-* Built-in commands
-* BASH
-* C
-* C++
-* Python
-* HTML/CSS/JavaScript
-* Rust
-* Go
-* git
-* tree
-* moby
-* docker
-* Kubernetes
-* cloud computing
+* [roadmaps](https://roadmap.sh/roadmaps)
+
+```shell
+tree . -d
+#tree structure
+.
+├── android
+├── CI_and_CD_tools
+├── db
+├── k8s
+│   └── kind
+├── Linux_distribution
+│   ├── Arch_Linux
+│   └── Debian
+├── Linux_kernel
+├── markup_languages
+│   ├── html
+│   └── LaTeX
+├── network
+│   ├── http
+│   └── web
+├── programming_languages
+│   ├── c
+│   ├── c++
+│   ├── go
+│   ├── java
+│   ├── javascript
+│   ├── python
+│   ├── ruby
+│   └── rust
+├── secutiry
+├── shell
+│   └── bash
+│       └── src
+├── style_sheet_language
+│   └── css
+├── tools
+└── virtual_machine
+```
 
 ## Important!!!
 
