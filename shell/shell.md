@@ -2,6 +2,7 @@
 
 ## Overview
 
+* [Coreutils - GNU core utilities](https://www.gnu.org/software/coreutils/)
 * [When not to use shell scripts](https://tldp.org/LDP/abs/html/why-shell.html)
 * [Unix / Linux - What is Shells?](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm)
 * [Shell builtin](https://zh.wikipedia.org/zh-tw/%E6%AE%BC%E5%B1%A4%E5%85%A7%E5%BB%BA%E6%8C%87%E4%BB%A4)

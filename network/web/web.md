@@ -2,6 +2,7 @@
 
 ## guides
 
+* [MDN/Getting_started_with_the_web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 * [REST](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 * [JavaScript/Client-side_web_APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
 * [Server-side](https://developer.mozilla.org/en-US/docs/Learn/Server-side)

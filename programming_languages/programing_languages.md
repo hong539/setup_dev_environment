@@ -6,6 +6,14 @@
     * Role based Roadmaps
     * Skill based Roadmaps
 
+## Where to extend/learn your coding skills/experience?
+
+* [w3schools](https://www.w3schools.com/)
+* [codesignal](https://app.codesignal.com/)
+* [geeksforgeeks/practice](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=practice_header)
+* [bandit](https://overthewire.org/wargames/bandit/bandit0.html)
+    * Play with SSH and others.
+
 ## tools for coding
 
 * [OpenSSH](https://www.openssh.com/)
