@@ -7,12 +7,14 @@
 * interpreter implementation for python
     * CPython
 
-## basic
+## docs/news
 
 * [Global Interpreter Lock](https://wiki.python.org/moin/GlobalInterpreterLock)
 * [concurrent.futures](https://docs.python.org/3.8/library/concurrent.futures.html)
 * [ctypes](https://docs.python.org/3.8/library/ctypes.html)
 * [Coroutines and Tasks](https://docs.python.org/3.8/library/asyncio-task.html)
+* [Python預計加入Immortal Objects，可提升記憶體效率並解除平行運算限制](https://www.ithome.com.tw/news/158384)
+* [PEP 683 – Immortal Objects, Using a Fixed Refcount](https://peps.python.org/pep-0683/)
 
 ## collects/tips for setuping up coding environment
 
