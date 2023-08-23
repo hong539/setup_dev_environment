@@ -7,6 +7,13 @@
 * interpreter implementation for python
     * CPython
 
+## basic
+
+* [Global Interpreter Lock](https://wiki.python.org/moin/GlobalInterpreterLock)
+* [concurrent.futures](https://docs.python.org/3.8/library/concurrent.futures.html)
+* [ctypes](https://docs.python.org/3.8/library/ctypes.html)
+* [Coroutines and Tasks](https://docs.python.org/3.8/library/asyncio-task.html)
+
 ## collects/tips for setuping up coding environment
 
 * Which Python version?
