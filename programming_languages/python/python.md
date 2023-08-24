@@ -126,6 +126,7 @@ poetry install --no-root
 ## Usage with pyenv+pipenv
 
 * [Python: Select Interpreter](https://code.visualstudio.com/docs/python/environments)
+* [pipenv-commands](https://pipenv.pypa.io/en/latest/commands/#pipenv-commands)
 
 ```shell
 #Install pyenv
@@ -184,6 +185,13 @@ pipenv install pandas
 pipenv install "pandas>=1.5"
 pipenv install "requests>=1.4"
 pipenv install Django
+
+#if no packages are given, installs all packages from Pipfile.
+pipenv install
+pipenv install --dev
+
+#Installs all packages specified in Pipfile.lock.
+pipenv sync
 
 #Exit your python virtual environments
 exit
