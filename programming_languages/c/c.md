@@ -10,6 +10,9 @@
     * C17
     * C2x
 
+* library
+    * [microsoft C/C++ language and standard libraries reference](https://learn.microsoft.com/en-us/cpp/cpp/c-cpp-language-and-standard-libraries?view=msvc-170)
+
 * toolchain
     * compiler    
         * [gcc](https://gcc.gnu.org/)
