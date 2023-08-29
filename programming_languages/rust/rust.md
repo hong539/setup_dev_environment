@@ -19,3 +19,8 @@ mkdir -p ~/.local/share/bash-completion/completions
 rustup completions bash       > ~/.local/share/bash-completion/completions/rustup
 rustup completions bash cargo > ~/.local/share/bash-completion/completions/cargo
 ```
+
+## Any projects with Rust
+
+* [youki](https://github.com/containers/youki)
+    * A container runtime written in Rust

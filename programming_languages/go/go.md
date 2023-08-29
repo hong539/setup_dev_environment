@@ -31,3 +31,9 @@ go version
 ## Why golang CLI can't?
 
 * [proposal: bash_completions support](https://github.com/golang/go/issues/58598)
+
+## projects/tips/guides with golang
+
+* [runc](https://github.com/opencontainers/runc)
+    * CLI tool for spawning and running containers according to the OCI specification
+

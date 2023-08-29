@@ -45,6 +45,8 @@ sudo apt install clang
 
 ## projects/tips/guides with c
 
+* [crun](https://github.com/containers/crun)
+    * A fast and lightweight fully featured OCI runtime and C library for running containers
 * [李根逸博士的C語言入門](https://feis.studio/#/c)
 * [你所不知道的 C 語言](https://hackmd.io/@sysprog/c-prog/%2F%40sysprog%2Fc-programming)
 * [GNU/Linux 開發工具](https://hackmd.io/@sysprog/gnu-linux-dev/https%3A%2F%2Fhackmd.io%2Fs%2Fr1Psrf0KW)
