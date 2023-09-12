@@ -78,6 +78,11 @@ systemd-analyze blame
 #如果您想查看啟動過程的圖形化分析，可以輸入以下命令：
 systemd-analyze plot > boot.svg
 
+#systemd
+systemctl status service_name
+systemctl restart service_name
+
+
 #Check env settings
 env
 #How to check your shell is?
@@ -119,4 +124,11 @@ dmesg --help
 
 #Write the full path of COMMAND(s) to standard output.
 which --help
+
+#比較舊版的網路工具
+netstat -tpln
+
+#新版的網路工具
+ss -tpln
+ip a
 ```
