@@ -28,6 +28,8 @@
 * [conda](https://docs.conda.io/en/latest/)
 * [Python Packaging Authority](https://www.pypa.io/en/latest/)
 
+* [rye](https://github.com/mitsuhiko/rye)
+    * Rye: An Experimental Package Management Solution for Python
 * Poetry
     * [Install ](https://python-poetry.org/docs/)
     * [installing-dependencies-only](https://python-poetry.org/docs/basic-usage/#installing-dependencies-only)
