@@ -19,6 +19,7 @@ Just pick them up for your requriement!!!
 * [perf-tools](https://github.com/brendangregg/perf-tools)
 * [flamegraphs](https://www.brendangregg.com/flamegraphs.html)
 * [grafana/flame-graph](https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/flame-graph/)
+* [OpenResty XRay 分析和解决 B 站重大线上事故](https://blog.openresty.com.cn/cn/bilibili-xray-incident/)
 
 ## Which Linux_distribution I've tried?
 
