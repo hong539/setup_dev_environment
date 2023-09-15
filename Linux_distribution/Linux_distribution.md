@@ -14,6 +14,12 @@ Just pick them up for your requriement!!!
 * [系統程式設計 - Namespaces](https://hackmd.io/@0xff07/r1wCFz0ut)
 * [Namespaces in operation, part 1: namespaces overview](https://lwn.net/Articles/531114/)
 
+## Performance Part
+
+* [perf-tools](https://github.com/brendangregg/perf-tools)
+* [flamegraphs](https://www.brendangregg.com/flamegraphs.html)
+* [grafana/flame-graph](https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/flame-graph/)
+
 ## Which Linux_distribution I've tried?
 
 * For me to understand how to build your own Linux system.
