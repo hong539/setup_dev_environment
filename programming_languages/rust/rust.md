@@ -4,6 +4,7 @@
 
 * [Installation](https://doc.rust-lang.org/book/ch01-01-installation.html)
 * [how-to-complete-rustup-cargo-commands](https://stackoverflow.com/questions/72983692/how-to-complete-rustup-cargo-commands)
+* [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 ```shell
 #curl https://sh.rustup.rs -sSf | sh
