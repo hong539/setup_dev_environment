@@ -65,7 +65,9 @@
 
 ## Usage with pyenv+poetry
 
-* [poetry/managing-environments](https://python-poetry.org/docs/managing-environments#managing-environments)
+* poetry
+    * [/managing-environments](https://python-poetry.org/docs/managing-environments#managing-environments)
+    * [switching-between-environments](https://python-poetry.org/docs/managing-environments#switching-between-environments)
 
 ```shell
 #Install pyenv
@@ -105,6 +107,9 @@ source ~/.bash_completion
 #setting python version for a new project
 cd ~/some_path/project_folder
 pyenv local 3.8.16
+
+#Please choose a compatible version or loosen the python constraint specified in the pyproject.toml file.
+poetry env use 3.8.16
 
 #create new project with poetry
 poetry new poetry-demo
