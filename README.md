@@ -3,47 +3,23 @@
 * This is My experience with so many fields.
 * Feel free to fork My notes. :)
 * Prepare my dev-enviroment on a Linux machine(Could be a physical or virtual machine) and use vscode with ssh plugin to connect this.
+* mkdocs-material to render *.md files to static web site files
 
-## Guide/Tips/Linux distribution/languages/shell/CLI (command line tools)/skills/tools...etc?
+## Prerequisites
+
+* Python >= 3.11
+* [pyenv + poetry](https://github.com/hong539/setup_dev_environment/blob/main/docs/computer%20languages/programming_languages/python/python.md#usage-with-pyenvpoetry)
+* [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+
+## Quick start
 
 * [roadmaps](https://roadmap.sh/roadmaps)
 
 ```shell
-tree . -d
-#tree structure
-.
-├── android
-├── CI_and_CD_tools
-├── db
-├── k8s
-│   └── kind
-├── Linux_distribution
-│   ├── Arch_Linux
-│   └── Debian
-├── Linux_kernel
-├── markup_languages
-│   ├── html
-│   └── LaTeX
-├── network
-│   ├── http
-│   └── web
-├── programming_languages
-│   ├── c
-│   ├── c++
-│   ├── go
-│   ├── java
-│   ├── javascript
-│   ├── python
-│   ├── ruby
-│   └── rust
-├── secutiry
-├── shell
-│   └── bash
-│       └── src
-├── style_sheet_language
-│   └── css
-├── tools
-└── virtual_machine
+mkdocs new [dir-name]
+mkdocs serve
+mkdocs build
+mkdocs -h
 ```
 
 ## Important!!!
