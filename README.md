@@ -16,10 +16,15 @@
 * [roadmaps](https://roadmap.sh/roadmaps)
 
 ```shell
+poetry shell
+
 mkdocs new [dir-name]
 mkdocs serve
 mkdocs build
 mkdocs -h
+
+docker build . -t docker.io/focal1119/setup_dev_environment:prod
+docker run -d --name setup_dev_environment -p 8000:80 docker.io/focal1119/setup_dev_environment:prod
 ```
 
 ## Important!!!

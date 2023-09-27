@@ -8,7 +8,7 @@
 ## Prerequisites
 
 * Python >= 3.11
-* [pyenv + poetry](https://github.com/hong539/setup_dev_environment/blob/main/docs/computer%20languages/programming_languages/python/python.md#usage-with-pyenvpoetry)
+* [usage with pyenv and poetry](./computer%20languages/programming_languages/python/python.md#usage-with-pyenvpoetry)
 * [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 
 ## Quick start
@@ -16,8 +16,13 @@
 * [roadmaps](https://roadmap.sh/roadmaps)
 
 ```shell
+poetry shell
+
 mkdocs new [dir-name]
 mkdocs serve
 mkdocs build
 mkdocs -h
+
+docker build . -t docker.io/focal1119/setup_dev_environment:prod
+docker run -d --name setup_dev_environment -p 8000:80 docker.io/focal1119/setup_dev_environment:prod
 ```
