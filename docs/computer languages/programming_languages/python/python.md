@@ -96,9 +96,10 @@ libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-d
 
 #install python with versions
 pyenv install 2.7.18
-pyenv install 3.8.16
+pyenv install 3.8.17
 pyenv install 3.9.17
 pyenv install 3.10.12
+pyenv install 3.11.4
 
 pyenv versions
 #for system-scope python
@@ -112,8 +113,8 @@ vim ~/.bash_profile
 export PATH="/home/hong/.local/bin:$PATH"
 source ~/.bash_profile
 poetry --version
-poetry completions bash >> ~/.bash_completion
-source ~/.bash_completion
+poetry completions bash > ${BASH_COMPLETION_USER_DIR:-${XDG_DATA_HOME:-$HOME/.local/share}/bash-completion}/completions/poetry
+exec bash
 
 #setting python version for a new project
 cd ~/some_path/project_folder
@@ -133,6 +134,7 @@ poetry init
 #pip install pykakasi
 #poetry add pykakasi
 poetry add pendulum
+poetry add mkdocs-material
 
 #Activating the virtual environment
 poetry shell
