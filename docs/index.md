@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# setup_dev_environment
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+* This is My experience with so many fields.
+* Feel free to fork My notes. :)
+* Prepare my dev-enviroment on a Linux machine(Could be a physical or virtual machine) and use vscode with ssh plugin to connect this.
+* mkdocs-material to render *.md files to static web site files
 
-## Commands
+## Prerequisites
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* Python >= 3.11
+* [pyenv + poetry](https://github.com/hong539/setup_dev_environment/blob/main/docs/computer%20languages/programming_languages/python/python.md#usage-with-pyenvpoetry)
+* [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 
-## Project layout
+## Quick start
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [roadmaps](https://roadmap.sh/roadmaps)
+
+```shell
+mkdocs new [dir-name]
+mkdocs serve
+mkdocs build
+mkdocs -h
+```
