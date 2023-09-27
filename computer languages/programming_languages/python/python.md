@@ -38,6 +38,8 @@
     * controll python version
     * [https://github.com/pyenv/pyenv#automatic-installer](https://github.com/pyenv/pyenv#automatic-installer)
     * [set-up-your-shell-environment-for-pyenv](https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv)
+    * [install-python-build-dependencies](https://github.com/pyenv/pyenv#install-python-build-dependencies)
+    * [Suggested build environment](https://github.com/pyenv/pyenv/wiki#suggested-build-environment)
 * pipenv
     * controll projects packages/virtual enviroment
     * [https://pipenv.pypa.io/en/latest/#install-pipenv-today](https://pipenv.pypa.io/en/latest/)
@@ -82,6 +84,15 @@ echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
 source ~/.bash_profile
 which pyenv
 pyenv
+
+#Suggested build environment for building Python from source codes
+#Arch Linux
+pacman -S --needed base-devel openssl zlib xz tk
+
+#Ubuntu/Debian/Mint
+sudo apt update; sudo apt install build-essential libssl-dev zlib1g-dev \
+libbz2-dev libreadline-dev libsqlite3-dev curl \
+libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
 
 #install python with versions
 pyenv install 2.7.18
