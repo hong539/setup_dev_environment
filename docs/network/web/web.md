@@ -2,6 +2,8 @@
 
 ## guides
 
+* [Sphinx](https://www.sphinx-doc.org/en/master/)
+* [What’s the Difference Between GraphQL and REST?](https://aws.amazon.com/compare/the-difference-between-graphql-and-rest/?nc1=h_ls)
 * [MDN/Getting_started_with_the_web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 * [REST](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 * [JavaScript/Client-side_web_APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)

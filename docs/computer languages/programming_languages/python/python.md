@@ -279,6 +279,25 @@ pipenv install
 
 * duplicate xxx.py name with module name "xxx"
 
+* Packages for web crawler/scrapy
+    * Requests
+    * BeautifulSoup
+    * Scrapy
+    * Selenium
+    * PyQuery
+    * MechanicalSoup
+    * Lxml
+    * Pandas
+    * Pyppeteer
+    * Requests-HTML
+
+* Packages for web development
+    * Django
+    * Tornado
+    * Django REST Framework
+    * Flask
+    * FastAPI
+
 * Packages for CLI(Command-Line Interface)
     * Rich
 
@@ -298,18 +317,6 @@ pipenv install
     * pyODE
     * autograd
     * TensorFlow
-
-* Packages for web crawler
-    * Requests
-    * BeautifulSoup
-    * Scrapy
-    * Selenium
-    * PyQuery
-    * MechanicalSoup
-    * Lxml
-    * Pandas
-    * Pyppeteer
-    * Requests-HTML
 
 * Packages or framewroks for ML(Machine Learning)
     * PyTorch
