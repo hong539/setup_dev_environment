@@ -277,6 +277,7 @@ pipenv install
 
 ```
 
+* What are "seed packages: pip==23.2.1, setuptools==68.0.0, wheel==0.41.0"? shown in pipenv output
 * duplicate xxx.py name with module name "xxx"
 
 * Packages for web crawler/scrapy
