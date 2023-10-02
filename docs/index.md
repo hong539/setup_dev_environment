@@ -2,6 +2,7 @@
 
 * This is My experience with so many fields.
 * Feel free to fork My notes. :)
+    * [source codes at github](https://github.com/hong539/setup_dev_environment)
 * Prepare my dev-enviroment on a Linux machine(Could be a physical or virtual machine) and use vscode with ssh plugin to connect this.
 * mkdocs-material to render *.md files to static web site files
 

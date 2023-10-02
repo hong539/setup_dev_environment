@@ -9,6 +9,8 @@
 
 ## docs/news
 
+* [Coroutines and Tasks](https://docs.python.org/3/library/asyncio-task.html)
+* [Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
 * [Global Interpreter Lock](https://wiki.python.org/moin/GlobalInterpreterLock)
 * [concurrent.futures](https://docs.python.org/3.8/library/concurrent.futures.html)
 * [ctypes](https://docs.python.org/3.8/library/ctypes.html)

@@ -11,7 +11,10 @@
     * C2x
 
 * library
-    * [microsoft C/C++ language and standard libraries reference](https://learn.microsoft.com/en-us/cpp/cpp/c-cpp-language-and-standard-libraries?view=msvc-170)
+    * [busybox](https://busybox.net/)
+    * [musl libc](https://musl.libc.org/)
+    * [The GNU C Library (glibc)](https://www.gnu.org/software/libc/)
+    * [microsoft C/C++ language and standard libraries reference](https://learn.microsoft.com/en-us/cpp/cpp/c-cpp-language-and-standard-libraries?view=msvc-170)    
 
 * toolchain
     * compiler    

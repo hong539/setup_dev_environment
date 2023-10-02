@@ -89,6 +89,13 @@ podman pull docker.io/library/mysql:5.7
 ## git
 
 * [初次設定 Git](https://git-scm.com/book/zh-tw/v2/%E9%96%8B%E5%A7%8B-%E5%88%9D%E6%AC%A1%E8%A8%AD%E5%AE%9A-Git)
+* [Error "Fatal: Not possible to fast-forward, aborting"](https://stackoverflow.com/questions/13106179/error-fatal-not-possible-to-fast-forward-aborting)
+
+```git
+git pull --rebase
+git pull origin <branch> --rebase
+git config --global pull.rebase true
+```
 
 ## github
 
