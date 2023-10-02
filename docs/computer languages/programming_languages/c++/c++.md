@@ -30,3 +30,21 @@ int main() {
   return 0;
 } 
 ```
+
+* gcc/g++
+  * [5 C++ Implementation-Defined Behavior](https://gcc.gnu.org/onlinedocs/gcc/C_002b_002b-Implementation.html)
+* comile *.cpp source code files with g++/gcc
+
+```shell
+g++ -std=c++11 file.cpp -o output
+gcc -std=c++11 file.cpp -o output
+
+#-std
+c++98
+C++03
+C++11
+C++14
+C++17
+```
+
+* [What the hell is stdafx.h?](https://learn.microsoft.com/en-us/cpp/build/creating-precompiled-header-files?view=msvc-170)
