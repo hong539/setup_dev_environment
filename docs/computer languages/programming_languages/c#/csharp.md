@@ -1,5 +1,4 @@
-# c#
-
+# c\#
 ## Guides/tips
 
 * [ASP.NET Core Developer](https://roadmap.sh/aspnet-core)

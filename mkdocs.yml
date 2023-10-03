@@ -1,4 +1,5 @@
 site_name: setup_dev_environment
+repo_url: https://github.com/hong539/setup_dev_environment
 theme:
   name: material
   palette: 
@@ -14,3 +15,4 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+dev_addr: '127.0.0.1:10000'
