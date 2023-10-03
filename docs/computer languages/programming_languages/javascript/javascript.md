@@ -20,6 +20,8 @@
 * [Next.js](https://nextjs.org/docs)
 * [jquery](https://jquery.com/)
 * [MDN/AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+* [bluebird](http://bluebirdjs.com/docs/why-bluebird.html)
+    * promise libraries
 
 ## setting up dev enviroment
 

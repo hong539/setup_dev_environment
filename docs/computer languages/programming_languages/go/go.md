@@ -27,6 +27,7 @@ go version
 ## basic
 
 * [Documentation](https://go.dev/doc/)
+* [bregman-arie/go-exercises](https://github.com/bregman-arie/go-exercises)
 
 ## Why golang CLI can't?
 

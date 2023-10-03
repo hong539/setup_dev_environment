@@ -5,8 +5,9 @@
 * [Java Developer](https://roadmap.sh/java)
 * [Spring Boot Developer](https://roadmap.sh/spring-boot)
 
-## tools
+## SDK/tools
 
+* [JDK 8u202 and earlier](https://www.oracle.com/tw/java/technologies/javase/javase8-archive-downloads.html)
 * for UML
 * [plantuml](https://github.com/plantuml/plantuml)
     * Generate diagrams from textual description

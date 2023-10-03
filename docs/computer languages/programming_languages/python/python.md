@@ -7,8 +7,9 @@
 * interpreter implementation for python
     * CPython
 
-## docs/news
+## docs/news/guides
 
+* [bregman-arie/python-exercises](https://github.com/bregman-arie/python-exercises)
 * [Coroutines and Tasks](https://docs.python.org/3/library/asyncio-task.html)
 * [Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
 * [Global Interpreter Lock](https://wiki.python.org/moin/GlobalInterpreterLock)

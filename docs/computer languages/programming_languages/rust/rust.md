@@ -5,6 +5,8 @@
 * [Installation](https://doc.rust-lang.org/book/ch01-01-installation.html)
 * [how-to-complete-rustup-cargo-commands](https://stackoverflow.com/questions/72983692/how-to-complete-rustup-cargo-commands)
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+* [godot-rust](https://godot-rust.github.io/)
+* [short guide to get going with Rust and Godot 3.2.](https://hagsteel.com/posts/godot-rust/)
 
 ```shell
 #curl https://sh.rustup.rs -sSf | sh
