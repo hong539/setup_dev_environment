@@ -10,11 +10,14 @@
     * C17
     * C2x
 
-* library
+* library/apps
     * [busybox](https://busybox.net/)
     * [musl libc](https://musl.libc.org/)
     * [The GNU C Library (glibc)](https://www.gnu.org/software/libc/)
     * [microsoft C/C++ language and standard libraries reference](https://learn.microsoft.com/en-us/cpp/cpp/c-cpp-language-and-standard-libraries?view=msvc-170)    
+    * [ffmpeg](https://git.ffmpeg.org/ffmpeg.git)
+        * A complete, cross-platform solution to record, convert and stream audio and video.
+    * [obs-studio](https://github.com/obsproject/obs-studio)
 
 * toolchain
     * compiler    

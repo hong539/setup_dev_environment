@@ -8,6 +8,7 @@
 
 ## tips/guides/roadmap
 
+* [Standard output (cout)](https://cplusplus.com/doc/tutorial/basic_io/)
 * [C++ Developer Roadmap](https://roadmap.sh/cpp)
 * [w3schools/C++ Introduction](https://www.w3schools.com/cpp/cpp_intro.asp)
 * [Omitting Namespace](https://www.w3schools.com/cpp/cpp_syntax.asp)
@@ -48,3 +49,10 @@ C++17
 ```
 
 * [What the hell is stdafx.h?](https://learn.microsoft.com/en-us/cpp/build/creating-precompiled-header-files?view=msvc-170)
+
+## Libraries/Packages/Frameworks/Apps
+
+* [electron](https://github.com/electron/electron)
+* [srs](https://github.com/ossrs/srs)
+  * SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+* [opencv](https://github.com/opencv/opencv)
