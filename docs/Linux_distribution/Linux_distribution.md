@@ -5,6 +5,11 @@
 There are so many Linux distributions, so the question is that what is your requriement for using Linux?
 Just pick them up for your requriement!!!
 
+## Performance analysis
+
+* [perf-tools](https://github.com/brendangregg/perf-tools)
+    * Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+
 ## Linux kernel
 
 * [Linux 核心設計/實作 (Linux Kernel Internals)](http://wiki.csie.ncku.edu.tw/linux/schedule)
