@@ -8,6 +8,8 @@
 
 ## Where to extend/learn your coding skills/experience?
 
+* [Build Your Own X From Scratch Books](https://build-your-own.org/)
+* [togglebit.io/posts/learning-lang/](https://togglebit.io/posts/learning-lang/)
 * [w3schools](https://www.w3schools.com/)
 * [codesignal](https://app.codesignal.com/)
 * [geeksforgeeks/practice](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=practice_header)

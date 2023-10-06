@@ -2,6 +2,9 @@
 
 ## docs
 
+* [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+* [rustlings](https://github.com/rust-lang/rustlings/)
+    * This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
 * [Installation](https://doc.rust-lang.org/book/ch01-01-installation.html)
 * [how-to-complete-rustup-cargo-commands](https://stackoverflow.com/questions/72983692/how-to-complete-rustup-cargo-commands)
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
@@ -25,5 +28,8 @@ rustup completions bash cargo > ~/.local/share/bash-completion/completions/cargo
 
 ## Any projects with Rust
 
+* [Tokio](https://docs.rs/crate/tokio/latest)
+    * [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+    * Tokio is an event-driven, non-blocking I/O platform for writing asynchronous applications with the Rust programming language.
 * [youki](https://github.com/containers/youki)
     * A container runtime written in Rust
