@@ -3,6 +3,10 @@
 ## learning resources
 
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+    * [Reserved-Words](https://www.gnu.org/software/bash/manual/bash.html#Reserved-Words)
+    * [Conditional Constructs](https://www.gnu.org/software/bash/manual/bash.html#Conditional-Constructs)
+        * [select](https://www.gnu.org/software/bash/manual/bash.html#index-select)
+    * [read](https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html#index-read)
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 * [Bandit](https://overthewire.org/wargames/bandit/)
     * 準備好SSH客戶端之後，練習Bash/shell commands的好地方
