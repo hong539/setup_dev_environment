@@ -51,6 +51,7 @@ sudo apt install clang
 
 ## projects/tips/guides with c
 
+* [coolwanglu/BrowserHack](https://github.com/coolwanglu/BrowserHack)
 * [The GNU C Library (glibc)](https://www.gnu.org/software/libc/)
 * [crun](https://github.com/containers/crun)
     * A fast and lightweight fully featured OCI runtime and C library for running containers
