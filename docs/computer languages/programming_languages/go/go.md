@@ -35,6 +35,8 @@ go version
 
 ## projects/tips/guides with golang
 
+* [trivy](https://github.com/aquasecurity/trivy)
+    * Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more 
 * [runc](https://github.com/opencontainers/runc)
     * CLI tool for spawning and running containers according to the OCI specification
 

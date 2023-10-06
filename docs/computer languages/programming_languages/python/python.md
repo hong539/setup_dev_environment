@@ -326,6 +326,8 @@ pipenv install
     * PyTorch
     * TensorFlow
     * JAX
+    * [MLflow](https://github.com/mlflow/mlflow)
+    * [DVC](https://dvc.org/)
 
 * Packages for Natural Language Processing
     * [pykakasi](https://codeberg.org/miurahr/pykakasi)
