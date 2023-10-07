@@ -35,6 +35,7 @@ docker build . -t docker.io/focal1119/setup_dev_environment:latest -f Dockerfile
 docker run -d --name setup_dev_environment -p 8000:80 docker.io/focal1119/setup_dev_environment:latest
 
 #git comment
+update docs and test github action ci
 [skip ci] update ci.yml
 [skip actions] update docs
 ```
