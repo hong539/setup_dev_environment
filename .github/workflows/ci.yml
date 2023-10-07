@@ -27,5 +27,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile.ci
-          push: true
-          tags: user/app:latest
+          push: true          
+          tags: focal1119/setup_dev_environment:latest

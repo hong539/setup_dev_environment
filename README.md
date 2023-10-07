@@ -23,12 +23,19 @@ mkdocs serve
 mkdocs build
 mkdocs -h
 
+#manually execute
 docker build . -t docker.io/focal1119/setup_dev_environment:prod
 docker build . -t docker.io/focal1119/setup_dev_environment:test -f Dockerfile.ci
 docker run -d --name setup_dev_environment -p 8000:80 docker.io/focal1119/setup_dev_environment:prod
 
+#github actions
+#CI
+docker build . -t docker.io/focal1119/setup_dev_environment:latest -f Dockerfile.ci
+#CD
+docker run -d --name setup_dev_environment -p 8000:80 docker.io/focal1119/setup_dev_environment:latest
+
 #git comment
-[skip ci] update all
+[skip ci] update ci.yml
 [skip actions] update docs
 ```
 
