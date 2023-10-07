@@ -1,6 +1,6 @@
 #1st stage
 #pull official base image
-FROM python:3.8.18-bullseye AS builder
+FROM python:3.11-bullseye AS builder
 
 #set the working directory for any RUN, CMD, ENTRYPOINT, COPY and ADD instructions
 WORKDIR /temp
@@ -18,18 +18,19 @@ RUN curl -sSL https://install.python-poetry.org | python3 -
 ENV PATH="${PATH}:/root/.local/bin"
 RUN poetry --version
 
-#install dependencies from this Python project
+#install/build dependencies from this Python project
 COPY poetry.lock pyproject.toml /temp
-RUN poetry install
-
-#generate static web site files
-RUN poetry shell
-RUN 
+COPY mkdocs.yml /temp
+COPY /docs /temp/docs
+RUN poetry export -f requirements.txt --output requirements.txt
+RUN pip install -r requirements.txt
+RUN mkdocs --version
+RUN mkdocs build
 
 #2nd stage
 FROM nginx:mainline-alpine3.18-slim
 
-COPY /site /usr/share/nginx/html
+COPY --from=builder /temp/site /usr/share/nginx/html
 
 EXPOSE 80
 
