@@ -27,6 +27,7 @@ docker build . -t docker.io/focal1119/setup_dev_environment:prod
 docker run -d --name setup_dev_environment -p 8000:80 docker.io/focal1119/setup_dev_environment:prod
 
 #git comment
+[skip ci] update all
 [skip actions] update docs
 ```
 

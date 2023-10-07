@@ -5,6 +5,7 @@
 * [GitLab](https://gitlab.com/)
     * [runner](https://docs.gitlab.com/runner/install/)
     * [Kubernetes executor](https://docs.gitlab.com/runner/executors/kubernetes.html)
+    * [Using GitLab CI/CD with a GitHub repository](https://docs.gitlab.com/ee/ci/ci_cd_for_external_repos/github_integration.html)
 * [Jenkins](https://www.jenkins.io/)
 * [CNCF/landscape/continuous-integration-delivery](https://landscape.cncf.io/card-mode?category=continuous-integration-delivery&grouping=category)
 * [Tekton](https://tekton.dev/)
