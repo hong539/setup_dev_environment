@@ -1,5 +1,10 @@
 # tools
 
+## Flame Graphs
+
+* [flamegraphs](https://www.brendangregg.com/flamegraphs.html)
+* [interl/analyzing-hot-code-paths-using-flame-graphs](https://www.intel.com/content/www/us/en/docs/vtune-profiler/cookbook/2023-0/analyzing-hot-code-paths-using-flame-graphs.html)
+
 ## Terrform
 
 * [terraform](https://www.terraform.io/)
