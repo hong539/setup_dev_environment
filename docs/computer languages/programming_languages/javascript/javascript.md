@@ -2,12 +2,21 @@
 
 ## basic
 
+* [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [w3schools/JavaScript Tutorial](https://www.w3schools.com/js/)
 * How to run Javascript?
     * [How To Add JavaScript to HTML](https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html)
     * [How To Write Your First JavaScript Program](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-javascript-program)
     * [How To Use the JavaScript Developer Console](https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-developer-console)
     * [How To Use the Node.js REPL](https://www.digitalocean.com/community/tutorials/how-to-use-the-node-js-repl)
+* Standard
+    * ECMAScript 2015 or ES6
+* JavaScript engine
+    * [wikipedia/JavaScript engine](https://en.wikipedia.org/wiki/JavaScript_engine)
+    * [v8](https://chromium.googlesource.com/v8/v8)
+    * [SpiderMonkey](https://spidermonkey.dev/)
+        * [Building and testing SpiderMonkey](https://firefox-source-docs.mozilla.org/js/build.html)
+    * [WebKit](https://webkit.org/)
 
 ## frameworks/packages/library
 
