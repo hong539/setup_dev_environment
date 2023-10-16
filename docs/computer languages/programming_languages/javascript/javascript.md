@@ -37,6 +37,11 @@
 * [bluebird](http://bluebirdjs.com/docs/why-bluebird.html)
     * promise libraries
 
+* jcubic/jquery.terminal: A JavaScript library for creating web-based terminals with custom commands.
+* satnaing/terminal-portfolio: A terminal-style portfolio website built with React, TypeScript, and Styled-Components.
+* asrvd/AshTerm: A terminal-styled portfolio website made with React and TypeScript.
+* Kielx/terminal-portfolio: An ideal portfolio website for showcasing software developer projects.
+
 ## setting up dev enviroment
 
 * setting up on Arch Linux
