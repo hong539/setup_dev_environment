@@ -1,6 +1,6 @@
 # Kubernetes
 
-## overview
+## Guides/Tips/Misc...etc
 
 * [kubespray](https://github.com/kubernetes-sigs/kubespray)
     * Deploy a Production Ready Kubernetes Cluster
@@ -13,6 +13,8 @@
 * Troubleshooting
     * [Safely Drain a Node](https://kubernetes.io/docs/tasks/administer-cluster/safely-drain-node/)
     * [Migrating the workloads](https://cloud.google.com/kubernetes-engine/docs/tutorials/migrating-node-pool#step_4_migrate_the_workloads)
+* [Kubernetes 101, part I, the fundamentals](https://dev.to/leandronsp/kubernetes-101-part-i-the-fundamentals-23a1)
+* [Spring Cloud for Microservices Compared to Kubernetes](https://developers.redhat.com/blog/2016/12/09/spring-cloud-for-microservices-compared-to-kubernetes)
 
 ```shell
 #當使用GKE的k8s時，如果需要擴增node pool，但原先舊有node pool已有的deployment已掛載了PersistentVolumeClaim，執行kubectl drain遇到錯誤，該如何處理?
@@ -32,3 +34,5 @@ kubectl patch pvc <pvc-name> -p '{"spec":{"storageClassName":"<new-storage-class
 * [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
 * [kind](https://kind.sigs.k8s.io/)
     * kind is a tool for running local Kubernetes clusters using Docker container “nodes”. kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
+    * [docs/design/initial](https://kind.sigs.k8s.io/docs/design/initial/)
+* [剖析 KIND(Kubernetes IN Docker) 的實作原理 - HungWei Chiu](https://hackmd.io/TvUa7q52R4a8HG9lPu-rVw)
