@@ -15,6 +15,7 @@
     * [Migrating the workloads](https://cloud.google.com/kubernetes-engine/docs/tutorials/migrating-node-pool#step_4_migrate_the_workloads)
 * [Kubernetes 101, part I, the fundamentals](https://dev.to/leandronsp/kubernetes-101-part-i-the-fundamentals-23a1)
 * [Spring Cloud for Microservices Compared to Kubernetes](https://developers.redhat.com/blog/2016/12/09/spring-cloud-for-microservices-compared-to-kubernetes)
+* [Here's what to know about changes to kubectl authentication coming in GKE v1.26](https://cloud.google.com/blog/products/containers-kubernetes/kubectl-auth-changes-in-gke)
 
 ```shell
 #當使用GKE的k8s時，如果需要擴增node pool，但原先舊有node pool已有的deployment已掛載了PersistentVolumeClaim，執行kubectl drain遇到錯誤，該如何處理?
