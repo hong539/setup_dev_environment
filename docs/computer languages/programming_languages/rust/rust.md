@@ -10,6 +10,7 @@
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 * [godot-rust](https://godot-rust.github.io/)
 * [short guide to get going with Rust and Godot 3.2.](https://hagsteel.com/posts/godot-rust/)
+* [歡迎參加 Comprehensive Rust 🦀 課程](https://google.github.io/comprehensive-rust/zh-TW/index.html)
 
 ```shell
 #curl https://sh.rustup.rs -sSf | sh

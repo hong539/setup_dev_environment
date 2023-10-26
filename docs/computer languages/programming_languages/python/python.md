@@ -7,7 +7,7 @@
 * interpreter implementation for python
     * CPython
 
-## docs/news/guides
+## docs/news/guides/tips
 
 * [bregman-arie/python-exercises](https://github.com/bregman-arie/python-exercises)
 * [Coroutines and Tasks](https://docs.python.org/3/library/asyncio-task.html)
@@ -18,6 +18,8 @@
 * [Coroutines and Tasks](https://docs.python.org/3.8/library/asyncio-task.html)
 * [Python預計加入Immortal Objects，可提升記憶體效率並解除平行運算限制](https://www.ithome.com.tw/news/158384)
 * [PEP 683 – Immortal Objects, Using a Fixed Refcount](https://peps.python.org/pep-0683/)
+* [How to Build a Search Engine from Scratch in Python — Part 1](https://medium.com/@deangela.neves/how-to-build-a-search-engine-from-scratch-in-python-part-1-96eb240f9ecb)
+    * [TEDFinder](https://github.com/deangelacgn/TEDFinder/)
 
 ## collects/tips for setuping up coding environment
 
@@ -288,10 +290,12 @@ pipenv install
     * BeautifulSoup
     * Scrapy
     * Selenium
+        * [Install a Selenium library](https://www.selenium.dev/documentation/webdriver/getting_started/install_library/)
     * PyQuery
     * MechanicalSoup
     * Lxml
-    * Pandas
+    * [Pandas](https://pandas.pydata.org/)
+        * [Installation](https://pandas.pydata.org/docs/getting_started/install.html)
     * Pyppeteer
     * Requests-HTML
 
@@ -334,6 +338,13 @@ pipenv install
 
 * Projects
     * [launchpad](https://dev.launchpad.net/Getting)
+    * [µchan – Fast anonymous imageboard software](https://github.com/floens/uchan/tree/master)
+    * [odoo](https://www.odoo.com/)
+        * Odoo is a suite of open source business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc.
+        * [odoo/16.0/administration/install](https://www.odoo.com/documentation/16.0/administration/install.html)
+        * [github.com/odoo/odoo](https://github.com/odoo/odoo)
+        * [library_app](https://github.com/cam-studio/library_app/tree/main)
+            * Odoo modules for library management
 
 * [roadmap/Python Developer](https://roadmap.sh/python)
 * [w3schools/Python Tutorial](https://www.w3schools.com/python/default.asp)
@@ -347,3 +358,4 @@ pipenv install
 
 if __name__ == "__main__":
     main()
+```

@@ -3,7 +3,11 @@
 ## roadmap/guides/tips/...etc
 
 * [Java Developer](https://roadmap.sh/java)
+* [The Java™ Tutorials ](https://docs.oracle.com/javase/tutorial/)
 * [Spring Boot Developer](https://roadmap.sh/spring-boot)
+* [minecraft/Tutorials/Setting up a server](https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server)
+    * [Minecraft：Java server](https://www.minecraft.net/zh-hant/download/server)
+    * [Plugin_Tutorial_(Eclipse)](https://bukkit.fandom.com/wiki/Plugin_Tutorial_(Eclipse))
 
 ## SDK/tools
 

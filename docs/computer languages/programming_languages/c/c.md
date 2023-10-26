@@ -51,6 +51,7 @@ sudo apt install clang
 
 ## projects/tips/guides with c
 
+* [Fun With Cmatrix in Linux](https://itsfoss.com/using-cmatrix/)
 * [coolwanglu/BrowserHack](https://github.com/coolwanglu/BrowserHack)
 * [The GNU C Library (glibc)](https://www.gnu.org/software/libc/)
 * [crun](https://github.com/containers/crun)
