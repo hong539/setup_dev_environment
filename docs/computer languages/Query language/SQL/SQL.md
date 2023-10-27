@@ -3,6 +3,7 @@
 ## guides/tips/docs...etc
 
 * PostgreSQL
+    * [PostgreSQL 巧用 array 處理 tags](https://hackmd.io/@pgsql-tw/rJSOHh8zT)
     * [PostgreSQL 15 手冊翻譯](https://docs.postgresql.tw/v/15/)
     * [Design Tools](https://wiki.postgresql.org/wiki/Design_Tools)
     * [FAQ/zh-hant](https://wiki.postgresql.org/wiki/FAQ/zh-hant)
