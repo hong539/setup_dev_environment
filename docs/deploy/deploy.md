@@ -2,8 +2,11 @@
 
 ## Guides/Tips/misc...etc
 
+* [CNCF/landscape](https://landscape.cncf.io/)
 * [free-for.dev](https://github.com/ripienaar/free-for-dev)
-
+* [firecracker](https://github.com/firecracker-microvm/firecracker)
+* [bpftrace](https://github.com/iovisor/bpftrace)
+* [kubectl-trace](https://github.com/iovisor/kubectl-trace)
 * frontend/backend separation
 * With VMs
 
@@ -11,3 +14,10 @@
 * With k8s
 
     ![1 VPC with k8s](./java_microservices_k8s.png)
+
+## serverless
+
+* [deep-dive-serverless](https://aws.amazon.com/tw/getting-started/deep-dive-serverless/)
+* [Cloudflare Workers](https://workers.cloudflare.com/)
+    * [Workers Status Page](https://workers.cloudflare.com/built-with/projects/status-page)
+* [firecracker]    

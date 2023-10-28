@@ -2,6 +2,11 @@
 
 ## guides/tips/misc...etcs
 
+* ssh
+* SSHFS
+* [dnstwist](https://github.com/elceef/dnstwist)
+* [dnsrecon](https://salsa.debian.org/pkg-security-team/dnsrecon)
+* [hackingtool](https://github.com/Z4nzu/hackingtool)
 * [netlab: a Virtual Networking Labbing Tool](https://netlab.tools/#)
     * [ipspace/netlab](https://github.com/ipspace/netlab)
 * [ip-api](https://ip-api.com/)

@@ -21,6 +21,10 @@ Just pick them up for your requriement!!!
 
 ## Performance Part
 
+* Linux製圖工具
+    * [gnuplot](https://hackmd.io/@sysprog/gnu-linux-dev/https%3A%2F%2Fhackmd.io%2Fs%2FSkwp-alOg)
+* Linux效能分析工具
+    * [安裝](https://hackmd.io/@sysprog/gnu-linux-dev/https%3A%2F%2Fhackmd.io%2Fs%2FB11109rdg#%E5%AE%89%E8%A3%9D)
 * [perf-tools](https://github.com/brendangregg/perf-tools)
 * [flamegraphs](https://www.brendangregg.com/flamegraphs.html)
 * [grafana/flame-graph](https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/flame-graph/)
