@@ -22,4 +22,8 @@
 
 * MongoDB
     * [MongoDB Atlas Database](https://www.mongodb.com/atlas/database)
+    * [Docker and MongoDB](https://www.mongodb.com/compatibility/docker)
+    * [MongoDB 6.0.5 Compatibility Issue with Ryzen 5 5500U on Ubuntu](https://www.mongodb.com/community/forums/t/mongodb-6-0-5-compatibility-issue-with-ryzen-5-5500u-on-ubuntu/218282/4)
+    * [Mongo DB 5.0 not install](https://forum.proxmox.com/threads/mongo-db-5-0-not-install.95857/#post-440005)
+    * [promox/How do I enable AVX on my server?](https://www.reddit.com/r/homelab/comments/yvo4jm/how_do_i_enable_avx_on_my_server/)
 * Elasticsearch
