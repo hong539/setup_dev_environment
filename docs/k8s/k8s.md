@@ -2,6 +2,7 @@
 
 ## Guides/Tips/Misc...etc
 
+* [How do you connect Kubernetes clusters located in different data centres?](https://learnk8s.io/bite-sized/connecting-multiple-kubernetes-clusters)
 * [kubespray](https://github.com/kubernetes-sigs/kubespray)
     * Deploy a Production Ready Kubernetes Cluster
 * [need-some-explaination-of-kubectl-stdin-and-pipe](https://stackoverflow.com/questions/54032336/need-some-explaination-of-kubectl-stdin-and-pipe)

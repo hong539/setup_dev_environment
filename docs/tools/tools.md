@@ -1,5 +1,9 @@
 # tools
 
+##  hackingtool
+
+* [hackingtool](https://github.com/Z4nzu/hackingtool)
+
 ## Flame Graphs
 
 * [flamegraphs](https://www.brendangregg.com/flamegraphs.html)

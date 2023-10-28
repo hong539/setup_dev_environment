@@ -2,6 +2,8 @@
 
 ## Guides/Tips/Tutorials/Misc...etc
 
+* [Oxylabs](https://oxylabs.io/)
+    * Collect public data at scale with industry-leading web scraping solutions and the world’s largest ethical proxy network.
 * [20 Websites to Practice Automation Testing (UI, API, Mobile)](https://ultimateqa.com/dummy-automation-websites/)
 * [drogon](https://drogon.org/)
     * [drogonframework/drogon](https://github.com/drogonframework/drogon)
@@ -30,6 +32,7 @@
 * [Server-side](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
 * Python web servers, frameworks, and applications:
     * [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/)
+        * [Uvicorn is an ASGI web server implementation for Python.](https://www.uvicorn.org/)
     * [Python/Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
     * [Django Tutorial: The Local Library website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)
         * [django-locallibrary-tutorial](https://github.com/mdn/django-locallibrary-tutorial)

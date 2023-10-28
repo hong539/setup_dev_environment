@@ -12,6 +12,7 @@
 * [C++ Developer Roadmap](https://roadmap.sh/cpp)
 * [w3schools/C++ Introduction](https://www.w3schools.com/cpp/cpp_intro.asp)
 * [Omitting Namespace](https://www.w3schools.com/cpp/cpp_syntax.asp)
+* [SRS4.0源码分析-序言 - 弦外之音](https://www.xianwaizhiyin.net/?p=947)
 
 ```c++
 #include <iostream>
