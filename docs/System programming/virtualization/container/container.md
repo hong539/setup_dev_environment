@@ -2,6 +2,7 @@
 
 ## Guides/Tips/...etc
 
+* [Visual Studio Code Dev Containers extension](https://code.visualstudio.com/docs/devcontainers/containers)
 * container
 * [containers](https://github.com/containers/)
 * [LXC](https://linuxcontainers.org/)
