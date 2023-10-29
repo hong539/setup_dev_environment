@@ -11,8 +11,9 @@
 * [Installing Ansible on Arch Linux](https://wiki.archlinux.org/title/Ansible#Installation)
 * [ansible_roadmap_index](https://docs.ansible.com/ansible/latest/roadmap/ansible_roadmap_index.html)
 * [ansible](https://github.com/ansible/ansible)
-* [ansible-completion](https://github.com/dysosmus/ansible-completion)
+* [dysosmus/ansible-completion](https://github.com/dysosmus/ansible-completion)
 * [ansible_community](https://docs.ansible.com/ansible_community.html)
+* [Adding Ansible command shell completion](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#adding-ansible-command-shell-completion)
 
 ```shell
 #If using Arch Linux
@@ -30,9 +31,6 @@ ansible --version
 #確保已經安裝了 bash-completion 套件：
 sudo pacman -S bash-completion
 
-#下載 Ansible 的自動完成腳本：
-sudo curl https://raw.githubusercontent.com/dysosmus/ansible-bash-completion/master/ansible -o /usr/share/bash-completion/completions/ansible
-
-#重新啟動終端機或者載入 bash-completion：
-source /usr/share/bash-completion/bash_completion
+#If you chose the pip installation instructions:
+python3 -m pip install --user argcomplete
 ```
