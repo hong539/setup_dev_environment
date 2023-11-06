@@ -1,8 +1,10 @@
 # automation
 
-## Guides/Tips/misc...
+## Tools/Guides/Tips/misc...
 
+* [OpenKore](https://github.com/OpenKore/openkore)
 * [terraform](https://www.terraform.io/)
+    * [Install Terraform](https://developer.hashicorp.com/terraform/downloads)
 * [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
 
 ## ansible

@@ -11,6 +11,9 @@
 * [godot-rust](https://godot-rust.github.io/)
 * [short guide to get going with Rust and Godot 3.2.](https://hagsteel.com/posts/godot-rust/)
 * [歡迎參加 Comprehensive Rust 🦀 課程](https://google.github.io/comprehensive-rust/zh-TW/index.html)
+* [rustup-components-history](https://rust-lang.github.io/rustup-components-history/)
+* [reddit/rust/The Binder Linux driver is being rewritten in Rust](https://www.reddit.com/r/rust/comments/17lzdwt/the_binder_linux_driver_is_being_rewritten_in_rust)
+* [x.ai/career](https://x.ai/career/)
 
 ```shell
 #curl https://sh.rustup.rs -sSf | sh
