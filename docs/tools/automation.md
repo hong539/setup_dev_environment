@@ -15,4 +15,5 @@
 * [Installing and upgrading Ansible with pip](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-and-upgrading-ansible-with-pip)
 * [Installing Ansible on Arch Linux](https://wiki.archlinux.org/title/Ansible#Installation)
 * [Adding Ansible command shell completion](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#adding-ansible-command-shell-completion)
+* [Building Ansible inventories](https://docs.ansible.com/ansible/latest/inventory_guide/index.html)
 * [github.com/hong539/ansible-crashed-lab](https://github.com/hong539/ansible-crashed-lab)
