@@ -16,4 +16,6 @@
 * [Installing Ansible on Arch Linux](https://wiki.archlinux.org/title/Ansible#Installation)
 * [Adding Ansible command shell completion](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#adding-ansible-command-shell-completion)
 * [Building Ansible inventories](https://docs.ansible.com/ansible/latest/inventory_guide/index.html)
+    * [Connecting to hosts: behavioral inventory parameters](https://docs.ansible.com/ansible/latest/inventory_guide/intro_inventory.html#connecting-to-hosts-behavioral-inventory-parameters)
+* [Connection methods and details](https://docs.ansible.com/ansible/latest/inventory_guide/connection_details.html)
 * [github.com/hong539/ansible-crashed-lab](https://github.com/hong539/ansible-crashed-lab)
