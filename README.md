@@ -16,6 +16,8 @@
 * [roadmaps](https://roadmap.sh/roadmaps)
 
 ```shell
+git clone git@github.com:hong539/setup_dev_environment.git
+cd setup_dev_environment
 poetry shell
 
 mkdocs new [dir-name]
@@ -30,7 +32,9 @@ docker run -d --name setup_dev_environment -p 8000:80 docker.io/focal1119/setup_
 
 #github actions
 #CI
+docker login
 docker build . -t docker.io/focal1119/setup_dev_environment:latest -f Dockerfile.ci
+docker push
 #CD
 docker run -d --name setup_dev_environment -p 8000:80 docker.io/focal1119/setup_dev_environment:latest
 
