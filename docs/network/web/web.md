@@ -2,6 +2,7 @@
 
 ## Guides/Tips/Tutorials/Misc...etc
 
+* [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock)
 * [Oxylabs](https://oxylabs.io/)
     * Collect public data at scale with industry-leading web scraping solutions and the world’s largest ethical proxy network.
 * [20 Websites to Practice Automation Testing (UI, API, Mobile)](https://ultimateqa.com/dummy-automation-websites/)

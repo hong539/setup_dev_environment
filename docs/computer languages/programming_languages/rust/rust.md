@@ -2,6 +2,7 @@
 
 ## docs
 
+* [Generators are dead, long live coroutines, generators are back](https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html)
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 * [rustlings](https://github.com/rust-lang/rustlings/)
     * This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
