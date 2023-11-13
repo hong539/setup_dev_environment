@@ -18,6 +18,7 @@
 
 ## tools for coding
 
+* [Sentry helps over 4M developers and 90K organizations see what actually matters, solve errors and performance issues quicker, and learn continuously about their application health - from the frontend to the backend.](https://sentry.io/welcome/)
 * [OpenSSH](https://www.openssh.com/)
   * OpenSSH is the premier connectivity tool for remote login with the SSH protocol. It encrypts all traffic to eliminate eavesdropping, connection hijacking, and other attacks. In addition, OpenSSH provides a large suite of secure tunneling capabilities, several authentication methods, and sophisticated configuration options. 
   * setup ssh for github/gitlab/...etc git as service platform.

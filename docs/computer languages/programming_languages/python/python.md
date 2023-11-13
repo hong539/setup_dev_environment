@@ -7,8 +7,10 @@
 * interpreter implementation for python
     * CPython
 
-## docs/news/guides/tips
+## docs/news/guides/tips/misc...
 
+* [Django 2.0*/實戰：留言板](https://hackmd.io/@dreamer/B1lAjxHRH/https%3A%2F%2Fhackmd.io%2FNlW4ubx7QKu4IeFkygSpQA)
+* [ruff: An extremely fast Python linter and code formatter, written in Rust. ](https://github.com/astral-sh/ruff)
 * [bregman-arie/python-exercises](https://github.com/bregman-arie/python-exercises)
 * [Coroutines and Tasks](https://docs.python.org/3/library/asyncio-task.html)
 * [Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)

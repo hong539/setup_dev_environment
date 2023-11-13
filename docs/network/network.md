@@ -2,6 +2,8 @@
 
 ## guides/tips/misc...etcs
 
+* [Wireshark](https://www.wireshark.org/)
+* [Netcat](https://nc110.sourceforge.io/)
 * ssh
 * SSHFS
 * [dnstwist](https://github.com/elceef/dnstwist)
