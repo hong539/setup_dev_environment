@@ -2,6 +2,8 @@
 
 ## Guides/Tips/Tutorials/Misc...etc
 
+* message board
+    * [python写一个简单的留言板](https://bbotte.github.io/python_project/python-write-a-simple-message-board.html)
 * [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock)
 * [Oxylabs](https://oxylabs.io/)
     * Collect public data at scale with industry-leading web scraping solutions and the world’s largest ethical proxy network.
