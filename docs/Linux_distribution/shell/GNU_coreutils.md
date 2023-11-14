@@ -19,4 +19,6 @@ for f in *; do touch "${f}_"; done
 for (( i = 1 ; i <= num ; ++i )) ; do
     touch /tmp/pages/$i.txt
 done
+
+tar -czvf file.tar.gz directory
 ```

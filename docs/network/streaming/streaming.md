@@ -2,6 +2,7 @@
 
 ## Guides/Tips...etc
 
+* [OpenResty XRay 分析和解决 B 站重大线上事故](https://blog.openresty.com.cn/cn/bilibili-xray-incident/)
 * [open-webrtc-toolkit/owt-server](https://github.com/open-webrtc-toolkit/owt-server)
 * [github/ossrs/srs](https://github.com/ossrs/srs)
 * [协程原理：函数调用过程、参数和寄存器](https://mp.weixin.qq.com/s/2TsYSiV8ysyLrELHdlHtjg)
