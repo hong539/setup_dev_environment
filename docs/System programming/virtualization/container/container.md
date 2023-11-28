@@ -17,7 +17,7 @@
     * [moby](https://github.com/moby/moby)
     * [docker engine](https://docs.docker.com/engine/)
     * [Reverse Engineer Docker Images into Dockerfiles](https://gcore.com/learning/reverse-engineer-docker-images-into-dockerfiles-with-dedockify/)
-    * [How to generate a Dockerfile from an image?](https://stackoverflow.com/questions/19104847/how-to-generate-a-dockerfile-from-an-image)
+    * [How to generate a Dockerfile from an image?](https://stackoverflow.com/questions/19104847/how-to-generate-a-dockerfile-from-an-image)    
 * podman
     * [podman](https://podman.io/)
     * [Getting Started with Podman](https://podman.io/getting-started/)
