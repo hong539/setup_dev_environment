@@ -24,4 +24,6 @@ pvs
 lvs
 #Resize LV and filesystem
 lvextend -r pvs_name/lvs_name /dev/sda2
+#reboot?
+sudo reboot now
 ```
