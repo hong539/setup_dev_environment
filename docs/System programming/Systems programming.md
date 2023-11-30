@@ -2,6 +2,7 @@
 
 ## Guides/Tips/misc...
 
+* [BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc/)
 * [sysprog21](https://github.com/sysprog21)
 * [lkmpg](https://github.com/sysprog21/lkmpg)
 * [Compact and Efficient RISC-V RV32I[MACF] emulator](https://github.com/sysprog21/rv32emu)
