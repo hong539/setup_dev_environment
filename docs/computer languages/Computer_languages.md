@@ -2,6 +2,7 @@
 
 ## Guides/Misc...etc
 
+* [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 * [vscode](https://code.visualstudio.com/)
 * [vscode github](https://github.com/microsoft/vscode)
 * cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.

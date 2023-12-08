@@ -2,6 +2,8 @@
 
 ## Guides/Tips/Misc...etc
 
+* [Harvester](https://harvesterhci.io/)
+    * [github/harvester](https://github.com/harvester/harvester)
 * [How do you connect Kubernetes clusters located in different data centres?](https://learnk8s.io/bite-sized/connecting-multiple-kubernetes-clusters)
 * [kubespray](https://github.com/kubernetes-sigs/kubespray)
     * Deploy a Production Ready Kubernetes Cluster
