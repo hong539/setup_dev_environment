@@ -35,6 +35,8 @@
     * [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/)
         * [Uvicorn is an ASGI web server implementation for Python.](https://www.uvicorn.org/)
     * [Python/Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+    * [網頁應用框架Django 5.0添加多項新功能強化資料庫操作](https://www.ithome.com.tw/news/160213)
+    * [Django 5.0 release notes](https://docs.djangoproject.com/en/5.0/releases/5.0/)
     * [Django Tutorial: The Local Library website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)
         * [django-locallibrary-tutorial](https://github.com/mdn/django-locallibrary-tutorial)
     * automation
