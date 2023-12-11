@@ -3,6 +3,7 @@
 ## Guides/Tips/Misc...etc
 
 * AWS
+    * [AWS Pricing Calculator](https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html)
     * [What is AWS Database Migration Service?](https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html)
     * [What is Amazon Aurora?](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)
     * [High availability for Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Concepts.AuroraHighAvailability.html)
@@ -10,7 +11,10 @@
     * [s3/storage-classes](https://aws.amazon.com/s3/storage-classes/)
     * [Transferring large quantities of data from S3 bucket with direct connect](https://stackoverflow.com/questions/65939747/transferring-large-quantities-of-data-from-s3-bucket-with-direct-connect)
     * [Amazon Aurora Pricing](https://aws.amazon.com/rds/aurora/pricing/)
+        * Snapshot or cluster export costs
+        * Example using snapshot or cluster export
     * [Exporting DB cluster data to Amazon S3](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/export-cluster-data.html)
+    * [How do I view the total storage used for my Amazon Aurora MySQL DB cluster?](https://repost.aws/knowledge-center/view-storage-aurora-cluster)
 
 * Amazon RDS
 
