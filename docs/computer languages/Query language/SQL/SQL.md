@@ -8,6 +8,7 @@
 * [RocksDB](https://rocksdb.org/)
 * Amazon DynamoDB
 * PostgreSQL
+    * [正規化探討](https://hackmd.io/@pgsql-tw/BJZrBWU86)
     * [PostgreSQL 巧用 array 處理 tags](https://hackmd.io/@pgsql-tw/rJSOHh8zT)
     * [PostgreSQL 15 手冊翻譯](https://docs.postgresql.tw/v/15/)
         * [26. 備份及還原](https://docs.postgresql.tw/v/15/server-administration/backup-and-restore)
@@ -24,3 +25,5 @@
 * [TiDB](https://www.pingcap.com/)
 * Spider
 * [Spider Storage Engine Overview](https://mariadb.com/kb/en/spider-storage-engine-overview/)
+* [Introduction to noSQL](https://tritonho.kktix.cc/events/2023-q4)
+* [Introduction to Data Analysis WITHOUT RDBMS](https://tritonho.kktix.cc/events/2024-q1)

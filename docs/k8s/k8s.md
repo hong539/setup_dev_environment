@@ -2,6 +2,7 @@
 
 ## Guides/Tips/Misc...etc
 
+* [Amazon EKS Anywhere](https://anywhere.eks.amazonaws.com/docs/)
 * [Harvester](https://harvesterhci.io/)
     * [github/harvester](https://github.com/harvester/harvester)
 * [How do you connect Kubernetes clusters located in different data centres?](https://learnk8s.io/bite-sized/connecting-multiple-kubernetes-clusters)

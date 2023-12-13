@@ -2,6 +2,8 @@
 
 ## Guides/Tips/misc...etc
 
+* [[Feature Request] - Run Amazon Linux 2023 as a virtual machine on premises](https://github.com/amazonlinux/amazon-linux-2023/issues/102)
+* [No-cost Red Hat Enterprise Linux Individual Developer Subscription: FAQs](https://setup_dev_environment.ootori.dev/Linux_distribution/Red%20Hat/redhat/)
 * [鳥哥/伺服器架設篇 - RockyLinux 9/第四章、網路基礎學習](https://linux.vbird.org/linux_server/rocky9/0150networking.php)
 * [鳥哥/伺服器架設篇 - RockyLinux 9/第五章、建立與檢查網路連線](https://linux.vbird.org/linux_server/rocky9/0160setnetwork.php)
 * [鳥哥/伺服器架設篇 - RockyLinux 9/第八章、領域名稱伺服器 DNS 服務](https://linux.vbird.org/linux_server/rocky9/0210dns.php)

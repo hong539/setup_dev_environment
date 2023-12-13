@@ -55,4 +55,7 @@ Just pick them up for your requriement!!!
 
 ## Others
 
+* [Nix](https://nixos.org/)
 * [[閒聊] Linux發行版的選擇](https://www.ptt.cc/bbs/Linux/M.1680031201.A.A70.html)
+* [Open Enterprise Linux Association](https://openela.org/)
+* [SUSE Linux Enterprise Server](https://www.suse.com/products/server/)

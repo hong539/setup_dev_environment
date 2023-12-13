@@ -2,11 +2,20 @@
 
 ## Guides/Tips...etc
 
+* [github/mermaid](https://github.com/mermaid-js/mermaid)
+    * [mermaid](https://mermaid.js.org/)
+* [github/diagrams](https://github.com/mingrammer/diagrams)
+    * [diagrams](https://diagrams.mingrammer.com/)
+* [excalidraw](https://github.com/excalidraw/excalidraw)
+* [github/tldraw](https://github.com/tldraw/tldraw)
+    * [tldraw](https://www.tldraw.com/)
 * [design-system](https://roadmap.sh/design-system)
 * [software-design-architecture](https://roadmap.sh/software-design-architecture)
 * [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [wikipedia/Separation of content and presentation](https://en.wikipedia.org/wiki/Separation_of_content_and_presentation)
+* Upstream (software development)
+* Downstream (software development)
 
 ## projects tracing or manage
 
