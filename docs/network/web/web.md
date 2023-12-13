@@ -39,6 +39,7 @@
     * [Django 5.0 release notes](https://docs.djangoproject.com/en/5.0/releases/5.0/)
     * [Django Tutorial: The Local Library website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)
         * [django-locallibrary-tutorial](https://github.com/mdn/django-locallibrary-tutorial)
+    * [wagtail](https://github.com/wagtail/wagtail)
     * automation
         * Selenium
         * Playwright
