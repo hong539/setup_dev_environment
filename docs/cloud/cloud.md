@@ -3,6 +3,7 @@
 ## Guides/Tips/Misc...etc
 
 * AWS
+    * [災難復原 (DR) 目標](https://docs.aws.amazon.com/zh_tw/wellarchitected/latest/reliability-pillar/disaster-recovery-dr-objectives.html)
     * [AWS Pricing Calculator](https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html)
     * [What is AWS Database Migration Service?](https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html)
     * [What is Amazon Aurora?](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)
