@@ -19,6 +19,8 @@
     * [Announcing Amazon Relational Database Service (RDS) Snapshot Export to S3](https://aws.amazon.com/about-aws/whats-new/2020/01/announcing-amazon-relational-database-service-snapshot-export-to-s3/)
     * [Restoring Parquet snapshot to a local version of mysql](https://community.zenduty.com/t/restoring-parquet-snapshot-to-a-local-version-of-mysql/536)
     * [Restoring offline RDS backup](https://repost.aws/questions/QURz9CEECqQtef24xykUo_IQ/restoring-offline-rds-backup)
+    * load balancer before rds aurora
+    * [Hyperscaling Aurora MySQL-Compatible to handle sudden traffic growth](https://docs.aws.amazon.com/prescriptive-guidance/latest/hyperscale-aurora-mysql/manage-connections.html)
 
 * Amazon RDS
 
