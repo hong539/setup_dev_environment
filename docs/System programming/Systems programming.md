@@ -2,6 +2,7 @@
 
 ## Guides/Tips/misc...
 
+* [Advent of Code](https://en.wikipedia.org/wiki/Advent_of_Code)
 * Interactive kiosk 販賣亭
 * [AWS/OLAP 和 OLTP 有什麼區別？](https://aws.amazon.com/tw/compare/the-difference-between-olap-and-oltp/)
 * [BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc/)

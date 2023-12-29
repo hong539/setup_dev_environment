@@ -2,6 +2,8 @@
 
 ## Guides/Tips/Misc...etc
 
+* GCP
+    * [Migrating from Amazon Aurora MySQL without SUPERUSER privileges](https://cloud.google.com/database-migration/docs/mysql/aurora-no-superuser)
 * AWS
     * [災難復原 (DR) 目標](https://docs.aws.amazon.com/zh_tw/wellarchitected/latest/reliability-pillar/disaster-recovery-dr-objectives.html)
     * [AWS Pricing Calculator](https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html)
