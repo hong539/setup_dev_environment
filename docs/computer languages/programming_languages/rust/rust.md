@@ -2,6 +2,9 @@
 
 ## docs
 
+* HTTP/3
+    * [quinn-rs/quinn](https://github.com/quinn-rs/quinn)
+    * [cloudflare/quiche](https://github.com/cloudflare/quiche)
 * [Announcing general availability of the AWS SDK for Rust](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/)
 * [Generators are dead, long live coroutines, generators are back](https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html)
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
