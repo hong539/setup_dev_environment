@@ -2,6 +2,7 @@
 
 ## Guides/Tips/misc...etc
 
+* [rocket.chat/Deploy with Docker & Docker Compose](https://docs.rocket.chat/deploy/deploy-rocket.chat/deploy-with-docker-and-docker-compose)
 * [CNCF/landscape](https://landscape.cncf.io/)
 * [free-for.dev](https://github.com/ripienaar/free-for-dev)
 * [firecracker](https://github.com/firecracker-microvm/firecracker)
