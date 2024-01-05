@@ -2,6 +2,8 @@
 
 ## Guides/Tips/Tutorials/Misc...etc
 
+* [toogether-backend](https://github.com/hong539/toogether-backend)
+* [Implement production website with Docker & CI/CD #1 - Image, Container, Volume, Network & Compose](https://blog.zjzhang.org/post/Auth-with-JWT-in-React-and-Django-part3)
 * [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock)
 * [Oxylabs](https://oxylabs.io/)
     * Collect public data at scale with industry-leading web scraping solutions and the world’s largest ethical proxy network.
@@ -36,6 +38,7 @@
         * [Uvicorn is an ASGI web server implementation for Python.](https://www.uvicorn.org/)
     * [Python/Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
     * [網頁應用框架Django 5.0添加多項新功能強化資料庫操作](https://www.ithome.com.tw/news/160213)
+    * [Django REST framework](https://www.django-rest-framework.org/)
     * [Django 5.0 release notes](https://docs.djangoproject.com/en/5.0/releases/5.0/)
     * [Django Tutorial: The Local Library website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)
         * [django-locallibrary-tutorial](https://github.com/mdn/django-locallibrary-tutorial)
