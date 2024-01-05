@@ -2,6 +2,9 @@
 
 ## Guides/Tips/misc...
 
+* [Celery - Distributed Task Queue](https://docs.celeryq.dev/en/stable/index.html)
+* [container2wasm](https://github.com/ktock/container2wasm)
+* [v86/x86 PC emulator and x86-to-wasm JIT, running in the browser](https://github.com/copy/v86)
 * [Advent of Code](https://en.wikipedia.org/wiki/Advent_of_Code)
 * Interactive kiosk 販賣亭
 * [AWS/OLAP 和 OLTP 有什麼區別？](https://aws.amazon.com/tw/compare/the-difference-between-olap-and-oltp/)
