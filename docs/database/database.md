@@ -2,6 +2,11 @@
 
 ## guides/tips/misc...etcs
 
+* [Taiwan PostgreSQL User Group](https://github.com/pgsql-tw)
+* [關於Trigger的使用與設計](https://drive.google.com/drive/folders/1FN_Zo08mOCjtob9_K-cZ9Ij38gFwl93j)
+* [資料庫的四大問題分類](https://medium.com/pgsql-tw/%E8%B3%87%E6%96%99%E5%BA%AB%E7%9A%84%E5%9B%9B%E5%A4%A7%E5%95%8F%E9%A1%8C%E5%88%86%E9%A1%9E-88b020819be4)
+* [資料治理，從打造隨選資料流開始](https://medium.com/pgsql-tw/%E8%B3%87%E6%96%99%E6%B2%BB%E7%90%86-%E5%BE%9E%E6%89%93%E9%80%A0%E9%9A%A8%E9%81%B8%E8%B3%87%E6%96%99%E6%B5%81%E9%96%8B%E5%A7%8B-c24a2d5fb98d)
+* [備援，不是備位充數](https://medium.com/pgsql-tw/%E5%82%99%E6%8F%B4-%E4%B8%8D%E6%98%AF%E5%82%99%E4%BD%8D%E5%85%85%E6%95%B8-fb026442c828)
 * [docker compose/PostgreSQL samples](https://docs.docker.com/samples/postgres/)
 * [donnemartin/system-design-primer#database](https://github.com/donnemartin/system-design-primer#database)
 * [youtube:AWS re:Invent 2019: [REPEAT] Scaling up to your first 10 million users (ARC211-R)](https://youtu.be/kKjm4ehYiMs)
