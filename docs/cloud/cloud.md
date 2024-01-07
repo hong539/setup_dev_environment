@@ -5,6 +5,7 @@
 * GCP
     * [Migrating from Amazon Aurora MySQL without SUPERUSER privileges](https://cloud.google.com/database-migration/docs/mysql/aurora-no-superuser)
 * AWS
+    * [Run Amazon Linux 2 as a virtual machine on premises](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-linux-2-virtual-machine.html)
     * [災難復原 (DR) 目標](https://docs.aws.amazon.com/zh_tw/wellarchitected/latest/reliability-pillar/disaster-recovery-dr-objectives.html)
     * [AWS Pricing Calculator](https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html)
     * [What is AWS Database Migration Service?](https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html)
