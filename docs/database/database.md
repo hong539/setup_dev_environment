@@ -2,6 +2,8 @@
 
 ## guides/tips/misc...etcs
 
+* EDB
+    * [Backup](https://github.com/EnterpriseDB/cloudnative-pg/blob/main/docs/src/backup.md)
 * [Taiwan PostgreSQL User Group](https://github.com/pgsql-tw)
 * [關於Trigger的使用與設計](https://drive.google.com/drive/folders/1FN_Zo08mOCjtob9_K-cZ9Ij38gFwl93j)
 * [資料庫的四大問題分類](https://medium.com/pgsql-tw/%E8%B3%87%E6%96%99%E5%BA%AB%E7%9A%84%E5%9B%9B%E5%A4%A7%E5%95%8F%E9%A1%8C%E5%88%86%E9%A1%9E-88b020819be4)
@@ -15,7 +17,8 @@
     * [美國電信巨頭將 100TB 資料從 Oracle 遷移至開源的 EDB Postgres](https://www.omniwaresoft.com.tw/usecase/edb-usecase/edb-postgresql-wirelesscarrier/)
         * 分割資料表 (partitioning)
         * 異質資料庫連結（heterogeneous database links)
-* PostgreSQL    
+* PostgreSQL
+    * [16/24.3. 字元集支援](https://docs.postgresql.tw/server-administration/localization/character-set-support)
     * [正規化探討](https://hackmd.io/@pgsql-tw/BJZrBWU86)
     * [PostgreSQL 巧用 array 處理 tags](https://hackmd.io/@pgsql-tw/rJSOHh8zT)
     * version 15
@@ -37,6 +40,9 @@
 * [w3schools/sql](https://www.w3schools.com/sql/)
 * [Triton Ho/slides](https://github.com/TritonHo/slides/tree/master)
 * MySQL
+    * [MySQL User Group Taiwan](https://www.facebook.com/groups/taiwanmysqlusergroup/)
+    * [MySQL Query Performance Optimize](https://mybaseball52.medium.com/mysql-query-performance-optimization-tips-7a4f7f781ee5)
+    * [MySQL Query Optimizer 研究](https://mybaseball52.medium.com/researching-on-mysql-query-optimizer-a6316bcf8c66)
     * [MySQL](https://www.mysql.com/)
     * [5.7](https://dev.mysql.com/doc/refman/5.7/en/default-privileges.html)
     * [How to find the latest binlog file name and position in slave mysql?](https://stackoverflow.com/questions/76990896/how-to-find-the-latest-binlog-file-name-and-position-in-slave-mysql)
