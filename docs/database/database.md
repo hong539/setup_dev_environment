@@ -2,6 +2,8 @@
 
 ## guides/tips/misc...etcs
 
+* [donnemartin/system-design-primer#database](https://github.com/donnemartin/system-design-primer#database)
+* [youtube:AWS re:Invent 2019: [REPEAT] Scaling up to your first 10 million users (ARC211-R)](https://youtu.be/kKjm4ehYiMs)
 * PostgreSQL
     * [正規化探討](https://hackmd.io/@pgsql-tw/BJZrBWU86)
     * [PostgreSQL 巧用 array 處理 tags](https://hackmd.io/@pgsql-tw/rJSOHh8zT)
