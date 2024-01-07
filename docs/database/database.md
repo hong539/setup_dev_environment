@@ -4,7 +4,12 @@
 
 * [donnemartin/system-design-primer#database](https://github.com/donnemartin/system-design-primer#database)
 * [youtube:AWS re:Invent 2019: [REPEAT] Scaling up to your first 10 million users (ARC211-R)](https://youtu.be/kKjm4ehYiMs)
-* PostgreSQL
+* [enterprisedb/docs](https://www.enterprisedb.com/docs/)
+    * [This section describes how to test a PostgreSQL cluster on your laptop/computer using CloudNativePG on a local Kubernetes cluster in Kind or Minikube.](https://github.com/EnterpriseDB/cloudnative-pg/blob/main/docs/src/quickstart.md)
+    * [美國電信巨頭將 100TB 資料從 Oracle 遷移至開源的 EDB Postgres](https://www.omniwaresoft.com.tw/usecase/edb-usecase/edb-postgresql-wirelesscarrier/)
+        * 分割資料表 (partitioning)
+        * 異質資料庫連結（heterogeneous database links)
+* PostgreSQL    
     * [正規化探討](https://hackmd.io/@pgsql-tw/BJZrBWU86)
     * [PostgreSQL 巧用 array 處理 tags](https://hackmd.io/@pgsql-tw/rJSOHh8zT)
     * version 15
