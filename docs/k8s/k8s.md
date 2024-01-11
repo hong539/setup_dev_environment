@@ -2,6 +2,8 @@
 
 ## Guides/Tips/Misc...etc
 
+* [What is DC/OS?](https://dcos.io/)
+* [DC/OS vs Kubernetes: What are the differences?](https://stackshare.io/stackups/dcos-vs-kubernetes)
 * [Spring Cloud 和 Kubernetes](https://youtu.be/_xMgDF8_mKY)
 * [Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc... ](https://github.com/spring-cloud/spring-cloud-kubernetes)
 * [當 Spring Cloud 遇上 Kubernetes](https://medium.com/brobridge/%E7%95%B6-spring-cloud-%E9%81%87%E4%B8%8A-kubernetes-5bc9e6ce602f)

@@ -2,6 +2,11 @@
 
 ## guides/tips/misc...etcs
 
+* [wikipedia/Partition (database)](https://en.wikipedia.org/wiki/Partition_(database))
+* [wikipedia/Shard (database architecture)](https://en.wikipedia.org/wiki/Shard_(database_architecture))
+* ProxySQL
+    * [使用 ProxySQL 來簡化 MySQL 的讀寫分離](https://blog.yowko.com/proxysql/)
+    * [ProxySQL](https://proxysql.com/)
 * EDB
     * [Backup](https://github.com/EnterpriseDB/cloudnative-pg/blob/main/docs/src/backup.md)
 * [Taiwan PostgreSQL User Group](https://github.com/pgsql-tw)

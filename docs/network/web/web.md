@@ -2,6 +2,7 @@
 
 ## Guides/Tips/Tutorials/Misc...etc
 
+* [gatus/Automated developer-oriented status page](https://github.com/TwiN/gatus)
 * [toogether-backend](https://github.com/hong539/toogether-backend)
 * [Implement production website with Docker & CI/CD #1 - Image, Container, Volume, Network & Compose](https://blog.zjzhang.org/post/Auth-with-JWT-in-React-and-Django-part3)
 * [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock)

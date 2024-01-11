@@ -26,6 +26,7 @@
 
 ## collects/tips for setuping up coding environment
 
+* [loguru/Python logging made (stupidly) simple ](https://github.com/Delgan/loguru)
 * Which Python version?
    * 2.7/3.8/3.9/3.10/3.11
 * [Ep 40. Rust 和 PyO3：让 Python 再次伟大](https://pythonhunter.org/episodes/ep40)

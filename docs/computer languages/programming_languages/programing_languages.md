@@ -8,6 +8,7 @@
 
 ## Where to extend/learn your coding skills/experience?
 
+* stack trace
 * [Build Your Own X From Scratch Books](https://build-your-own.org/)
 * [togglebit.io/posts/learning-lang/](https://togglebit.io/posts/learning-lang/)
 * [w3schools](https://www.w3schools.com/)
