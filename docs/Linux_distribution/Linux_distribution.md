@@ -48,6 +48,9 @@ Just pick them up for your requriement!!!
 * RPM-based
     * [CentOS](https://www.centos.org/)
     * [Rocky Linux](https://rockylinux.org/zh_TW/)
+    * [Amazon Linux 2 images](https://cdn.amazonlinux.com/os-images/2.0.20240109.0/)
+    * [Download Amazon Linux 2023 images for use with KVM and VMware](https://docs.aws.amazon.com/linux/al2023/ug/outside-ec2-download.html)
+    * [Amazon Linux 2023 images](https://cdn.amazonlinux.com/al2023/os-images/2023.3.20240108.0/)
 
 * Pacman-based
     * [Arch Linux](https://archlinux.org/)
