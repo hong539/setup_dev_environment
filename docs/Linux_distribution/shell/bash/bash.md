@@ -2,6 +2,8 @@
 
 ## learning resources
 
+* [Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
+* [How to add a timestamp to bash script log?](https://serverfault.com/questions/310098/how-to-add-a-timestamp-to-bash-script-log)
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
     * [Reserved-Words](https://www.gnu.org/software/bash/manual/bash.html#Reserved-Words)
     * [Conditional Constructs](https://www.gnu.org/software/bash/manual/bash.html#Conditional-Constructs)
