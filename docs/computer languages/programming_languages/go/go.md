@@ -35,6 +35,7 @@ go version
 
 ## projects/tips/guides with golang
 
+* [worker-pools](https://gobyexample.com/worker-pools)
 * [trivy](https://github.com/aquasecurity/trivy)
     * Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more 
 * [runc](https://github.com/opencontainers/runc)

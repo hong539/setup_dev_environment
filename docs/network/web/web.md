@@ -2,6 +2,7 @@
 
 ## Guides/Tips/Tutorials/Misc...etc
 
+* [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages)
 * [gatus/Automated developer-oriented status page](https://github.com/TwiN/gatus)
 * [toogether-backend](https://github.com/hong539/toogether-backend)
 * [Implement production website with Docker & CI/CD #1 - Image, Container, Volume, Network & Compose](https://blog.zjzhang.org/post/Auth-with-JWT-in-React-and-Django-part3)

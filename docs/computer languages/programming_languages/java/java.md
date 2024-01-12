@@ -2,6 +2,7 @@
 
 ## roadmap/guides/tips/...etc
 
+* [practical-tutorials/project-based-learning#java](https://github.com/practical-tutorials/project-based-learning#java)
 * [Java Developer](https://roadmap.sh/java)
 * [The Java™ Tutorials ](https://docs.oracle.com/javase/tutorial/)
 * [Spring Boot Developer](https://roadmap.sh/spring-boot)
