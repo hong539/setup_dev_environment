@@ -14,10 +14,11 @@
 
 ## SDK/tools
 
+* [apache/plugins/maven-jar-plugin/usage](https://maven.apache.org/plugins/maven-jar-plugin/usage.html)
 * [JDK 8u202 and earlier](https://www.oracle.com/tw/java/technologies/javase/javase8-archive-downloads.html)
 * for UML
 * [plantuml](https://github.com/plantuml/plantuml)
     * Generate diagrams from textual description
 * [StarUML](https://staruml.io/)
     * [staruml-python](https://github.com/niklauslee/staruml-python)
-        * StarUML Extension for Python Code Generation    
+        * StarUML Extension for Python Code Generation
