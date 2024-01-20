@@ -52,6 +52,9 @@
     * [5.7](https://dev.mysql.com/doc/refman/5.7/en/default-privileges.html)
     * [How to find the latest binlog file name and position in slave mysql?](https://stackoverflow.com/questions/76990896/how-to-find-the-latest-binlog-file-name-and-position-in-slave-mysql)
     * [4.5.8 mysqlslap — A Load Emulation Client](https://dev.mysql.com/doc/refman/5.7/en/mysqlslap.html)
+    * [MySQL Backup and Recovery](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/)
+    * [1.5.1 Point-in-Time Recovery Using Binary Log](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/point-in-time-recovery-binlog.html)
+    * [1.5.2 Point-in-Time Recovery Using Event Positions](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/point-in-time-recovery-positions.html)
 * [MariaDB](https://mariadb.com/)
     * [connectors](https://mariadb.com/kb/en/connectors/)
 * SQL/mysqlslap
