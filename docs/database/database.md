@@ -2,6 +2,11 @@
 
 ## guides/tips/misc...etcs
 
+* [wikipedia/List_of_relational_database_management_systems](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+* [build-and-automate-your-python-etl-pipeline-with-airflow](https://morioh.com/a/7c5f74462887/build-and-automate-your-python-etl-pipeline-with-airflow)
+    * [automate_etl_with_airflow.py](https://github.com/hnawaz007/pythondataanalysis/blob/main/ETL%20Pipeline/automate_etl_with_airflow.py)
+* Entity–attribute–value model EAV
+* [Best way to extend information on a relational database](https://stackoverflow.com/questions/42259052/best-way-to-extend-information-on-a-relational-database)
 * [wikipedia/Partition (database)](https://en.wikipedia.org/wiki/Partition_(database))
 * [wikipedia/Shard (database architecture)](https://en.wikipedia.org/wiki/Shard_(database_architecture))
 * ProxySQL
@@ -52,6 +57,7 @@
     * [5.7](https://dev.mysql.com/doc/refman/5.7/en/default-privileges.html)
     * [How to find the latest binlog file name and position in slave mysql?](https://stackoverflow.com/questions/76990896/how-to-find-the-latest-binlog-file-name-and-position-in-slave-mysql)
     * [4.5.8 mysqlslap — A Load Emulation Client](https://dev.mysql.com/doc/refman/5.7/en/mysqlslap.html)
+    * [Why use GTIDs in MySQL replication?](https://stackoverflow.com/questions/23485871/why-use-gtids-in-mysql-replication)
     * [MySQL Backup and Recovery](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/)
     * [1.5.1 Point-in-Time Recovery Using Binary Log](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/point-in-time-recovery-binlog.html)
     * [1.5.2 Point-in-Time Recovery Using Event Positions](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/point-in-time-recovery-positions.html)
