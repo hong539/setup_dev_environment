@@ -22,6 +22,10 @@
     * [No way to restore a backup that was exported from RDS to S3?](https://www.reddit.com/r/aws/comments/ivt9p6/no_way_to_restore_a_backup_that_was_exported_from/)
     
 * Amazon RDS
+    * User Guide for Aurora
+        * [Replication between Aurora and MySQL or between Aurora and another Aurora DB cluster (binary log replication)](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.MySQL.html)
+
+* SQL scripts
 
 ```SQL
 SELECT pid, datname, query, extract(epoch from now()) - extract(epoch from xact_start) AS duration, 
