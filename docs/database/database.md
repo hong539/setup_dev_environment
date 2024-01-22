@@ -49,7 +49,7 @@
         * [9.7. Pattern Matching](https://www.postgresql.org/docs/15/functions-matching.html)
 * [w3schools/sql](https://www.w3schools.com/sql/)
 * [Triton Ho/slides](https://github.com/TritonHo/slides/tree/master)
-* MySQL
+* MySQL/MariaDB
     * [MySQL User Group Taiwan](https://www.facebook.com/groups/taiwanmysqlusergroup/)
     * [MySQL Query Performance Optimize](https://mybaseball52.medium.com/mysql-query-performance-optimization-tips-7a4f7f781ee5)
     * [MySQL Query Optimizer 研究](https://mybaseball52.medium.com/researching-on-mysql-query-optimizer-a6316bcf8c66)
@@ -61,7 +61,8 @@
     * [MySQL Backup and Recovery](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/)
     * [1.5.1 Point-in-Time Recovery Using Binary Log](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/point-in-time-recovery-binlog.html)
     * [1.5.2 Point-in-Time Recovery Using Event Positions](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/point-in-time-recovery-positions.html)
-* [MariaDB](https://mariadb.com/)
+    * [Limiting the number of records from mysqldump?](https://stackoverflow.com/questions/135835/limiting-the-number-of-records-from-mysqldump)
+    * [MariaDB](https://mariadb.com/)
     * [stackoverflow/amazon-aurora and mariadb](https://stackoverflow.com/questions/tagged/amazon-aurora%2bmariadb?tab=newest&page=1&pagesize=15)
     * [MariaDB versus MySQL: Compatibility](https://mariadb.com/kb/en/mariadb-vs-mysql-compatibility/)
     * [MariaDB vs. MySQL](https://mariadb.com/database-topics/mariadb-vs-mysql/)
