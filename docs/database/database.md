@@ -62,6 +62,12 @@
     * [1.5.1 Point-in-Time Recovery Using Binary Log](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/point-in-time-recovery-binlog.html)
     * [1.5.2 Point-in-Time Recovery Using Event Positions](https://dev.mysql.com/doc/mysql-backup-excerpt/5.7/en/point-in-time-recovery-positions.html)
 * [MariaDB](https://mariadb.com/)
+    * [stackoverflow/amazon-aurora and mariadb](https://stackoverflow.com/questions/tagged/amazon-aurora%2bmariadb?tab=newest&page=1&pagesize=15)
+    * [MariaDB versus MySQL: Compatibility](https://mariadb.com/kb/en/mariadb-vs-mysql-compatibility/)
+    * [MariaDB vs. MySQL](https://mariadb.com/database-topics/mariadb-vs-mysql/)
+    * [MySQL 5.7 EOL: Move to MariaDB Server with 11 Easy Commands](https://mariadb.com/resources/blog/mysql-5-7-eol-move-to-mariadb-server-with-11-easy-commands/)
+    * [Migrate to MariaDB Server from MySQL 5.7 using a single command](https://mariadb.com/resources/blog/migrate-to-mariadb-server-from-mysql-5-7-using-a-single-command/)
+    * [How can I migrate MariaDB to Aurora](https://stackoverflow.com/questions/60413246/how-can-i-migrate-mariadb-to-aurora)
     * [connectors](https://mariadb.com/kb/en/connectors/)
 * SQL/mysqlslap
 ```sql
