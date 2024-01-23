@@ -67,6 +67,7 @@
     * [MariaDB versus MySQL: Compatibility](https://mariadb.com/kb/en/mariadb-vs-mysql-compatibility/)
     * [MariaDB vs. MySQL](https://mariadb.com/database-topics/mariadb-vs-mysql/)
     * [Troubleshooting Row Size Too Large Errors with InnoDB](https://mariadb.com/kb/en/troubleshooting-row-size-too-large-errors-with-innodb/)
+    * [Error Code: 1118. Row size too large (> 8126). Changing some columns to TEXT or BLOB may help. In current row format,](https://stackoverflow.com/questions/43938849/error-code-1118-row-size-too-large-8126-changing-some-columns-to-text-or)
     * [innodb_page_size](https://mariadb.com/kb/en/innodb-system-variables/#innodb_page_size)
     * [Overflow Pages with the DYNAMIC Row Format](https://mariadb.com/kb/en/innodb-dynamic-row-format/#overflow-pages-with-the-dynamic-row-format)
     * [MySQL 5.7 EOL: Move to MariaDB Server with 11 Easy Commands](https://mariadb.com/resources/blog/mysql-5-7-eol-move-to-mariadb-server-with-11-easy-commands/)
@@ -75,6 +76,8 @@
     * [connectors](https://mariadb.com/kb/en/connectors/)
 * SQL/mysqlslap
 ```sql
+ALTER TABLE LargeTable ENGINE = InnoDB ROW_FORMAT = DYNAMIC;
+
 show proccesslist;
 
 # 单线程测试。测试做了什么。
