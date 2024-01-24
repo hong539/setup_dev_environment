@@ -50,6 +50,10 @@
 * [w3schools/sql](https://www.w3schools.com/sql/)
 * [Triton Ho/slides](https://github.com/TritonHo/slides/tree/master)
 * MySQL/MariaDB
+    * [8.4.7 Limits on Table Column Count and Row Size](https://dev.mysql.com/doc/refman/5.7/en/column-count-limit.html)
+        * ERROR 1118 (42000): Row size too large (> 8126). Changing some columns to TEXT or BLOB or using
+ROW_FORMAT=DYNAMIC or ROW_FORMAT=COMPRESSED may help. In current row format, BLOB prefix of 768
+bytes is stored inline.
     * [MySQL User Group Taiwan](https://www.facebook.com/groups/taiwanmysqlusergroup/)
     * [MySQL Query Performance Optimize](https://mybaseball52.medium.com/mysql-query-performance-optimization-tips-7a4f7f781ee5)
     * [MySQL Query Optimizer 研究](https://mybaseball52.medium.com/researching-on-mysql-query-optimizer-a6316bcf8c66)
