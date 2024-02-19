@@ -2,6 +2,7 @@
 
 ## guides/tips/misc...etcs
 
+* [The C10K problem](http://www.kegel.com/c10k.html)
 * [smallnest/network_benchmark](https://github.com/smallnest/network_benchmark)
 * [Wireshark](https://www.wireshark.org/)
 * [Netcat](https://nc110.sourceforge.io/)
