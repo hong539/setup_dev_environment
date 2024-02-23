@@ -2,6 +2,9 @@
 
 ## Guides/Tips/Misc...etc
 
+* [Translate a Docker Compose File to Kubernetes Resources](https://kubernetes.io/docs/tasks/configure-pod-container/translate-compose-kubernetes/)
+* [K3s](https://docs.k3s.io/installation)
+* [Rancher](https://ranchermanager.docs.rancher.com/getting-started/overview)
 * [What is DC/OS?](https://dcos.io/)
 * [DC/OS vs Kubernetes: What are the differences?](https://stackshare.io/stackups/dcos-vs-kubernetes)
 * [Spring Cloud 和 Kubernetes](https://youtu.be/_xMgDF8_mKY)
