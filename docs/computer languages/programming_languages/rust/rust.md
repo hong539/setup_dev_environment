@@ -19,6 +19,9 @@
 * [rustup-components-history](https://rust-lang.github.io/rustup-components-history/)
 * [reddit/rust/The Binder Linux driver is being rewritten in Rust](https://www.reddit.com/r/rust/comments/17lzdwt/the_binder_linux_driver_is_being_rewritten_in_rust)
 * [x.ai/career](https://x.ai/career/)
+* [How Turborepo is porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust)
+* [Why Turborepo is migrating from Go to Rust](https://vercel.com/blog/turborepo-migration-go-rust)
+* [surrealdb](https://github.com/surrealdb/surrealdb)
 
 ```shell
 #curl https://sh.rustup.rs -sSf | sh

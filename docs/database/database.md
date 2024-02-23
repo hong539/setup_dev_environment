@@ -50,10 +50,23 @@
 * [w3schools/sql](https://www.w3schools.com/sql/)
 * [Triton Ho/slides](https://github.com/TritonHo/slides/tree/master)
 * MySQL/MariaDB
+    * [Setting up MariaDB Galera Cluster on Kubernetes for High Availability](https://www.pulumi.com/ai/conversations/)
+    * [Galera Cluster / Using Docker](https://galeracluster.com/library/documentation/docker.html)
+    * [GKE/MariaDB Galera Cluster](https://console.cloud.google.com/marketplace/details/google/mariadb-galera?project=arched-vigil-312811)
+    * [MariaDB replication using containers](https://mariadb.org/mariadb-replication-using-containers/)
+    * [MariaDB & K8s: How to replicate MariaDB in K8s](https://mariadb.org/mariadb-k8s-how-to-replicate-mariadb-in-k8s/)
+    * [mariadb-operator / Run and operate MariaDB in a cloud native way](https://github.com/mariadb-operator/mariadb-operator)
+    * [MariaDB Galera Cluster](https://mariadb.com/kb/en/galera-cluster/)
+    * [](https://github.com/GoogleCloudPlatform/click-to-deploy/blob/master/k8s/mariadb-galera/README.md)
+    * [Chapter 21 MySQL NDB Cluster 7.5 and NDB Cluster 7.6](https://dev.mysql.com/doc/refman/5.7/en/mysql-cluster.html)
+    * [mysql-operator / MySQL Operator for Kubernetes](https://github.com/mysql/mysql-operator)
+    * [MySQL Cluster](https://dev.mysql.com/doc/index-cluster.html)
+        * [Deploy a stateful MySQL cluster on GKE](https://cloud.google.com/kubernetes-engine/docs/tutorials/stateful-workloads/mysql)
+        * [Docker Compose Setup for InnoDB Cluster](https://dev.mysql.com/blog-archive/docker-compose-setup-for-innodb-cluster/)
+            * [github/innodb-cluster](https://github.com/neumayer/mysql-docker-compose-examples/tree/master/innodb-cluster)
     * [8.4.7 Limits on Table Column Count and Row Size](https://dev.mysql.com/doc/refman/5.7/en/column-count-limit.html)
-        * ERROR 1118 (42000): Row size too large (> 8126). Changing some columns to TEXT or BLOB or using
-ROW_FORMAT=DYNAMIC or ROW_FORMAT=COMPRESSED may help. In current row format, BLOB prefix of 768
-bytes is stored inline.
+        * ERROR 1118 (42000): Row size too large (> 8126). Changing some columns to TEXT or BLOB or using ROW_FORMAT=DYNAMIC or ROW_FORMAT=COMPRESSED may help. In current row format, BLOB prefix of 768
+        bytes is stored inline.
     * [MySQL User Group Taiwan](https://www.facebook.com/groups/taiwanmysqlusergroup/)
     * [MySQL Query Performance Optimize](https://mybaseball52.medium.com/mysql-query-performance-optimization-tips-7a4f7f781ee5)
     * [MySQL Query Optimizer 研究](https://mybaseball52.medium.com/researching-on-mysql-query-optimizer-a6316bcf8c66)
@@ -79,38 +92,6 @@ bytes is stored inline.
     * [How can I migrate MariaDB to Aurora](https://stackoverflow.com/questions/60413246/how-can-i-migrate-mariadb-to-aurora)
     * [connectors](https://mariadb.com/kb/en/connectors/)
 * SQL/mysqlslap
-```sql
-ALTER TABLE LargeTable ENGINE = InnoDB ROW_FORMAT = DYNAMIC;
-
-show proccesslist;
-
-# 单线程测试。测试做了什么。
-mysqlslap -a -uroot -p123456
- 
-# 多线程测试。使用–concurrency来模拟并发连接。
-mysqlslap -a -c 100 -uroot -p123456
- 
-# 迭代测试。用于需要多次执行测试得到平均值。
-mysqlslap -a -i 10 -uroot -p123456
- 
-mysqlslap ---auto-generate-sql-add-autoincrement -a -uroot -p123456
-mysqlslap -a --auto-generate-sql-load-type=read -uroot -p123456
-mysqlslap -a --auto-generate-secondary-indexes=3 -uroot -p123456
-mysqlslap -a --auto-generate-sql-write-number=1000 -uroot -p123456
-mysqlslap --create-schema world -q "select count(*) from City" -uroot -p123456
-mysqlslap -a -e innodb -uroot -p123456
-mysqlslap -a --number-of-queries=10 -uroot -p123456
- 
-# 测试同时不同的存储引擎的性能进行对比：
-mysqlslap -a --concurrency=50,100 --number-of-queries 1000 --iterations=5 --engine=myisam,innodb --debug-info -uroot -p123456
- 
-# 执行一次测试，分别50和100个并发，执行1000次总查询：
-mysqlslap -a --concurrency=50,100 --number-of-queries 1000 --debug-info -uroot -p123456
- 
-# 50和100个并发分别得到一次测试结果(Benchmark)，并发数越多，执行完所有查询的时间越长。为了准确起见，可以多迭代测试几次:
-mysqlslap -a --concurrency=50,100 --number-of-queries 1000 --iterations=5 --debug-info -uroot -p123456
-```
-
 * replication
     * [5.7/4.5.4 mysqldump — A Database Backup Program](https://dev.mysql.com/doc/refman/5.7/en/mysqldump.html)
 * [w3schools/sql](https://www.w3schools.com/sql/)

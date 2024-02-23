@@ -12,8 +12,10 @@
 * [Brandon416Jr/Homework_02](https://github.com/Brandon416Jr/Homework_02)
 * java Decimal
 
-## SDK/tools
+## SDK/libraries/frameworks/tools
 
+* [Apache Tomcat](https://tomcat.apache.org/tomcat-4.1-doc/index.html)
+* [Jakarta Project](https://en.wikipedia.org/wiki/Jakarta_Project)
 * [apache/plugins/maven-jar-plugin/usage](https://maven.apache.org/plugins/maven-jar-plugin/usage.html)
 * [JDK 8u202 and earlier](https://www.oracle.com/tw/java/technologies/javase/javase8-archive-downloads.html)
 * for UML

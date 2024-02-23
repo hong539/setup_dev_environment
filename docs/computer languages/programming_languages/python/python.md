@@ -24,7 +24,7 @@
 * [How to Build a Search Engine from Scratch in Python — Part 1](https://medium.com/@deangela.neves/how-to-build-a-search-engine-from-scratch-in-python-part-1-96eb240f9ecb)
     * [TEDFinder](https://github.com/deangelacgn/TEDFinder/)
 
-## collects/tips for setuping up coding environment
+## collects/tips/tools/libraries/frameworks for setuping up coding environment
 
 * [loguru/Python logging made (stupidly) simple ](https://github.com/Delgan/loguru)
 * Which Python version?
@@ -33,10 +33,8 @@
 * [Ep 15. 和 PyPA 的成员聊聊 Python 开发工作流](https://pythonhunter.org/episodes/ep15)
 * [這樣的開發環境沒問題嗎？ – Tzu-ping Chung – PyCon Taiwan 2018](https://youtu.be/6Nl0IYkU0hU)
 * [Python Tools for Managing Virtual Environments](https://dev.to/bowmanjd/python-tools-for-managing-virtual-environments-3bko#howto)
-
 * [conda](https://docs.conda.io/en/latest/)
 * [Python Packaging Authority](https://www.pypa.io/en/latest/)
-
 * [rye](https://github.com/mitsuhiko/rye)
     * Rye: An Experimental Package Management Solution for Python
 * Poetry
@@ -73,6 +71,8 @@
     * timeit
     * big_o
     * pyperf
+
+* [Shioaji](https://sinotrade.github.io/zh_TW/)
 
 ## Usage with pyenv+poetry
 
