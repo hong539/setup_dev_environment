@@ -50,6 +50,13 @@
 * [w3schools/sql](https://www.w3schools.com/sql/)
 * [Triton Ho/slides](https://github.com/TritonHo/slides/tree/master)
 * MySQL/MariaDB
+    * [16.1.6.4 Binary Logging Options and Variables](https://dev.mysql.com/doc/refman/5.7/en/replication-options-binary-log.html)
+    * [--enforce-gtid-consistency](https://dev.mysql.com/doc/mysql-replication-excerpt/5.7/en/replication-options-gtids.html)
+    * [架設 HA 高可用性：MySQL Cluster 叢集 – 7.4.11(5.6.29)](https://shazi.info/%E6%9E%B6%E8%A8%AD-ha-%E9%AB%98%E5%8F%AF%E7%94%A8%E6%80%A7%EF%BC%9Amysql-cluster-%E5%8F%A2%E9%9B%86-7-4-115-6-29/)
+    * [MySQL Benchmark Tool ](https://dev.mysql.com/downloads/benchmarks.html)
+    * [MySQL InnoDB Cluster建置&架構說明](https://www.odin-info.com.tw/post/mysql-innodb-cluster-construction-architecture-instructions)
+    * [4.2.2.2 Using Option Files](https://dev.mysql.com/doc/refman/5.7/en/option-files.html)
+    * [Replication and auto-failover made easy with MySQL Utilities](https://dev.mysql.com/blog-archive/replication-and-auto-failover-made-easy-with-mysql-utilities/)
     * [Setting up MariaDB Galera Cluster on Kubernetes for High Availability](https://www.pulumi.com/ai/conversations/)
     * [Galera Cluster / Using Docker](https://galeracluster.com/library/documentation/docker.html)
     * [GKE/MariaDB Galera Cluster](https://console.cloud.google.com/marketplace/details/google/mariadb-galera?project=arched-vigil-312811)
