@@ -111,6 +111,17 @@
 * greenplum
 * Timescale
 * PostGIS
+* Books
+    * [MySQL 故障排除與效能調校完全攻略 (上) ](https://www.tenlong.com.tw/products/9789864349586)
+    * [MySQL 故障排除與效能調校完全攻略 (下) ](https://www.tenlong.com.tw/products/9789864349593)
+* Backup Tools
+    * mysqldump
+    * mysqlbinlog
+    * [MyDumper](https://github.com/mydumper/mydumper)
+        * mydumper
+        * myloader
+* AWS/AWS Prescriptive Guidance
+    * [MyDumper](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-large-mysql-mariadb-databases/mydumper.html)    
 * AWS RDS Aurora
     * [Replication between Aurora and MySQL or between Aurora and another Aurora DB cluster (binary log replication)](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.MySQL.html#AuroraMySQL.Replication.MySQL.EnableReplication)
     * [Announcing Amazon Relational Database Service (RDS) Snapshot Export to S3](https://aws.amazon.com/about-aws/whats-new/2020/01/announcing-amazon-relational-database-service-snapshot-export-to-s3/)

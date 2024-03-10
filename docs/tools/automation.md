@@ -19,3 +19,7 @@
     * [Connecting to hosts: behavioral inventory parameters](https://docs.ansible.com/ansible/latest/inventory_guide/intro_inventory.html#connecting-to-hosts-behavioral-inventory-parameters)
 * [Connection methods and details](https://docs.ansible.com/ansible/latest/inventory_guide/connection_details.html)
 * [github.com/hong539/ansible-crashed-lab](https://github.com/hong539/ansible-crashed-lab)
+
+## Salt
+
+* [The Salt install guide](https://docs.saltproject.io/salt/install-guide/en/latest/)
