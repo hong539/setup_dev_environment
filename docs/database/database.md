@@ -50,6 +50,11 @@
 * [w3schools/sql](https://www.w3schools.com/sql/)
 * [Triton Ho/slides](https://github.com/TritonHo/slides/tree/master)
 * MySQL/MariaDB
+    * MySQL InnoDB Cluster
+        * [5.7/ Chapter 20 InnoDB Cluster](https://dev.mysql.com/doc/refman/5.7/en/mysql-innodb-cluster-introduction.html)
+        * [5.7/ Chapter 21 MySQL NDB Cluster 7.5 and NDB Cluster 7.6](https://dev.mysql.com/doc/refman/5.7/en/mysql-cluster.html)
+    * MariaDB Galrera Cluster
+        * [MariaDB Galera Cluster](https://mariadb.com/kb/en/galera-cluster/)
     * [16.1.6.4 Binary Logging Options and Variables](https://dev.mysql.com/doc/refman/5.7/en/replication-options-binary-log.html)
     * [--enforce-gtid-consistency](https://dev.mysql.com/doc/mysql-replication-excerpt/5.7/en/replication-options-gtids.html)
     * [架設 HA 高可用性：MySQL Cluster 叢集 – 7.4.11(5.6.29)](https://shazi.info/%E6%9E%B6%E8%A8%AD-ha-%E9%AB%98%E5%8F%AF%E7%94%A8%E6%80%A7%EF%BC%9Amysql-cluster-%E5%8F%A2%E9%9B%86-7-4-115-6-29/)
@@ -133,6 +138,9 @@
 * Object Relational Mapping (ORM)
     * [wikipedia/Comparison of object–relational mapping software](https://en.wikipedia.org/wiki/Comparison_of_object%E2%80%93relational_mapping_software)
 * [wikipedia/Java Database Connectivity (JDBC)](https://en.wikipedia.org/wiki/Java_Database_Connectivity)
+* TiDB
+    * [TiDB Architecture](https://docs.pingcap.com/tidb/stable/tidb-architecture)
+
 
 ## NoSQL databases
 
