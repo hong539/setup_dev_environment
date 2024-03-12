@@ -2,6 +2,8 @@
 
 ## Guides/Tips/Misc...etc
 
+* [Cloud Native Live: Securing Your Cluster with Cilium Network Policies](https://youtu.be/huBnEI_wW2U)
+* [Introduction to Cilium & Hubble](https://docs.cilium.io/en/latest/overview/intro/)
 * [Translate a Docker Compose File to Kubernetes Resources](https://kubernetes.io/docs/tasks/configure-pod-container/translate-compose-kubernetes/)
 * [K3s](https://docs.k3s.io/installation)
 * [Rancher](https://ranchermanager.docs.rancher.com/getting-started/overview)
