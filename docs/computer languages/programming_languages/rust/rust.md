@@ -2,6 +2,7 @@
 
 ## docs
 
+* [C vs. Rust](http://www-verimag.imag.fr/~mounier/Enseignement/Software_Security/19RustVsC.pdf)
 * HTTP/3
     * [quinn-rs/quinn](https://github.com/quinn-rs/quinn)
     * [cloudflare/quiche](https://github.com/cloudflare/quiche)
