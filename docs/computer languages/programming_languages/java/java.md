@@ -14,6 +14,8 @@
 
 ## SDK/libraries/frameworks/tools
 
+* [nacos开启权限认证后报错403](https://github.com/alibaba/nacos/issues/4588)
+* [nacos版本说明](https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E)
 * [Apache Tomcat](https://tomcat.apache.org/tomcat-4.1-doc/index.html)
 * [Jakarta Project](https://en.wikipedia.org/wiki/Jakarta_Project)
 * [apache/plugins/maven-jar-plugin/usage](https://maven.apache.org/plugins/maven-jar-plugin/usage.html)
