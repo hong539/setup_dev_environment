@@ -50,6 +50,8 @@
 * [w3schools/sql](https://www.w3schools.com/sql/)
 * [Triton Ho/slides](https://github.com/TritonHo/slides/tree/master)
 * MySQL/MariaDB
+    * [Employees Sample Database](https://dev.mysql.com/doc/employee/en/)
+    * [14.4 InnoDB Architecture](https://dev.mysql.com/doc/refman/5.7/en/innodb-architecture.html)
     * MySQL InnoDB Cluster
         * [5.7/ Chapter 20 InnoDB Cluster](https://dev.mysql.com/doc/refman/5.7/en/mysql-innodb-cluster-introduction.html)
         * [5.7/ Chapter 21 MySQL NDB Cluster 7.5 and NDB Cluster 7.6](https://dev.mysql.com/doc/refman/5.7/en/mysql-cluster.html)
