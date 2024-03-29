@@ -129,6 +129,12 @@
         * myloader
 * AWS/AWS Prescriptive Guidance
     * [MyDumper](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-large-mysql-mariadb-databases/mydumper.html)    
+* AWS RDS
+    * [AWS RDS connection limits](https://serverfault.com/questions/862387/aws-rds-connection-limits)
+        * The current RDS MySQL max_connections setting is default by {DBInstanceClassMemory/12582880}, if you use t2.micro with 512MB RAM, the max_connections could be (512*1024*1024)/12582880 ~= 40, and so on.
+    ```shell
+    SHOW GLOBAL VARIABLES LIKE 'max_connections';
+    ```        
 * AWS RDS Aurora
     * [Replication between Aurora and MySQL or between Aurora and another Aurora DB cluster (binary log replication)](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.MySQL.html#AuroraMySQL.Replication.MySQL.EnableReplication)
     * [Announcing Amazon Relational Database Service (RDS) Snapshot Export to S3](https://aws.amazon.com/about-aws/whats-new/2020/01/announcing-amazon-relational-database-service-snapshot-export-to-s3/)
