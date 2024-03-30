@@ -2,6 +2,14 @@
 
 ## guides/tips/misc...etcs
 
+* SQL GUI tools
+    * [HeidiSQL](https://www.heidisql.com/)
+    * [DBeaver](https://dbeaver.io/)
+    * [MySQL workbench](https://www.mysql.com/products/workbench/)
+    * [navicat premium](https://www.navicat.com/cht/products/navicat-premium)
+    * [vscode sql extensions](https://marketplace.visualstudio.com/search?term=tag%3Amysql&target=VSCode&category=All%20categories&sortBy=Relevance)
+        * [SQLTools](https://github.com/mtxr/vscode-sqltools)
+        * MySQL Shell for VS Code
 * [wikipedia/List_of_relational_database_management_systems](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
 * [build-and-automate-your-python-etl-pipeline-with-airflow](https://morioh.com/a/7c5f74462887/build-and-automate-your-python-etl-pipeline-with-airflow)
     * [automate_etl_with_airflow.py](https://github.com/hnawaz007/pythondataanalysis/blob/main/ETL%20Pipeline/automate_etl_with_airflow.py)
@@ -130,12 +138,14 @@
 * AWS/AWS Prescriptive Guidance
     * [MyDumper](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-large-mysql-mariadb-databases/mydumper.html)    
 * AWS RDS
+    * [Questions tagged with Amazon Relational Database Service](https://repost.aws/tags/questions/TAsibBK6ZeQYihN9as4S_psg?view=all&search=mysql&sort=relevant)
     * [AWS RDS connection limits](https://serverfault.com/questions/862387/aws-rds-connection-limits)
         * The current RDS MySQL max_connections setting is default by {DBInstanceClassMemory/12582880}, if you use t2.micro with 512MB RAM, the max_connections could be (512*1024*1024)/12582880 ~= 40, and so on.
     ```shell
     SHOW GLOBAL VARIABLES LIKE 'max_connections';
     ```        
 * AWS RDS Aurora
+    * [Analyzing DB load by wait events](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_PerfInsights.UsingDashboard.AnalyzeDBLoad.html)
     * [Replication between Aurora and MySQL or between Aurora and another Aurora DB cluster (binary log replication)](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.MySQL.html#AuroraMySQL.Replication.MySQL.EnableReplication)
     * [Announcing Amazon Relational Database Service (RDS) Snapshot Export to S3](https://aws.amazon.com/about-aws/whats-new/2020/01/announcing-amazon-relational-database-service-snapshot-export-to-s3/)
     * [Restoring Parquet snapshot to a local version of mysql](https://community.zenduty.com/t/restoring-parquet-snapshot-to-a-local-version-of-mysql/536)

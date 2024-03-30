@@ -2,6 +2,7 @@
 
 ## Guides/Misc...etc
 
+* [The Raft Consensus Algorithm](https://raft.github.io/)
 * [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 * [vscode](https://code.visualstudio.com/)
 * [vscode github](https://github.com/microsoft/vscode)

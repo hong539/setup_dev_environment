@@ -3,12 +3,16 @@
 ## Tools/Guides/Tips/misc...
 
 * [OpenKore](https://github.com/OpenKore/openkore)
+* [pulumi](https://www.pulumi.com)
+    * [github/pulumi](https://github.com/pulumi/pulumi)
+    * [install](https://www.pulumi.com/docs/install/)
 * [terraform](https://www.terraform.io/)
     * [Install Terraform](https://developer.hashicorp.com/terraform/downloads)
 * [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
 
 ## ansible
 
+* [ansible.builtin.sudo become – Substitute User DO](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/sudo_become.html#ansible-builtin-sudo-become-substitute-user-do)
 * [github.com/ansible](https://github.com/ansible/ansible)
 * [Ansible community documentation](https://docs.ansible.com/index.html)
 * [ansible_roadmap_index](https://docs.ansible.com/ansible/latest/roadmap/ansible_roadmap_index.html)
