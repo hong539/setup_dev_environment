@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+    setup_dev_environment:
+        hostname: setup_dev_environment
+        container_name: setup_dev_environment
+        image: focal1119/setup_dev_environment:latest
+        restart: always
+        # entrypoint: tail -f /dev/null
+        ports:
+          - "8000:80"
+        # network_mode: "host"
