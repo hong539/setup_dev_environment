@@ -11,6 +11,8 @@
     * [Plugin_Tutorial_(Eclipse)](https://bukkit.fandom.com/wiki/Plugin_Tutorial_(Eclipse))
 * [Brandon416Jr/Homework_02](https://github.com/Brandon416Jr/Homework_02)
 * java Decimal
+* [Gathering Metrics from Spring Boot on Kubernetes with Prometheus and Grafana](https://spring.academy/guides/spring-spring-prometheus)
+* [spring-prometheus-demo](https://github.com/BrianMMcClain/spring-prometheus-demo)
 
 ## SDK/libraries/frameworks/tools
 
