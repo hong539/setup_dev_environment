@@ -145,14 +145,37 @@
     SHOW GLOBAL VARIABLES LIKE 'max_connections';
     ```        
 * AWS RDS Aurora
+    * 異地
+    * 跨帳號
+    * 備援
+    * 複製    
+    * [Connecting to Aurora DB clusters with the AWS drivers](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Connecting.html#Aurora.Connecting.Drivers)
+    * [aws-advanced-jdbc-wrapper/docs/GettingStarted.md](https://github.com/aws/aws-advanced-jdbc-wrapper/blob/main/docs/GettingStarted.md)
+        * [Failover Plugin](https://github.com/aws/aws-advanced-jdbc-wrapper/blob/main/docs/using-the-jdbc-driver/using-plugins/UsingTheFailoverPlugin.md)
+    * [Configuring and managing a Multi-AZ deploymen](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html)
+        * one standby or two standby DB instances
+        * Multi-AZ DB instance deployment
+        * Multi-AZ DB cluster deployment    
     * [Analyzing DB load by wait events](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_PerfInsights.UsingDashboard.AnalyzeDBLoad.html)
     * [Replication between Aurora and MySQL or between Aurora and another Aurora DB cluster (binary log replication)](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.MySQL.html#AuroraMySQL.Replication.MySQL.EnableReplication)
+        * Setting up replication with MySQL or another Aurora DB cluster
+            * 2.Retain binary logs on the replication source until no longer needed 
+                * You can retain binlog files on an Aurora MySQL DB cluster for up to 90 days.
+                * The maximum value for Aurora MySQL version 2.11.0 and higher and version 3 is 2160 (90 days).
+            * 7.Monitor your replica
+                * You can also monitor how far the replica target is behind the replication source by connecting to the replica target and running the SHOW SLAVE STATUS (Aurora MySQL version 2) or SHOW REPLICA STATUS (Aurora MySQL version 3) command. In the command output, the Seconds Behind Master field tells you how far the replica target is behind the source.
+        * Synchronizing passwords between replication source and target
+            * If you use the AWS Management Console, the AWS CLI, or the RDS API to change the master password on the replication source, those changes are not automatically replicated to the replication target. If you want to synchronize the master user and master password between the source and target systems, you must make the same change on the replication target yourself.
+        * Optimizing binary log replication
+            * Multithreaded binary log replication
     * [Announcing Amazon Relational Database Service (RDS) Snapshot Export to S3](https://aws.amazon.com/about-aws/whats-new/2020/01/announcing-amazon-relational-database-service-snapshot-export-to-s3/)
     * [Restoring Parquet snapshot to a local version of mysql](https://community.zenduty.com/t/restoring-parquet-snapshot-to-a-local-version-of-mysql/536)
     * [Restoring offline RDS backup](https://repost.aws/questions/QURz9CEECqQtef24xykUo_IQ/restoring-offline-rds-backup)
     * load balancer before rds aurora?
     * [Hyperscaling Aurora MySQL-Compatible to handle sudden traffic growth](https://docs.aws.amazon.com/prescriptive-guidance/latest/hyperscale-aurora-mysql/manage-connections.html)
-    * [mysql.rds_set_external_master_with_auto_position (Aurora MySQL version 2)](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/mysql-stored-proc-replicating.html#mysql_rds_set_external_master_with_auto_position)    
+    * [mysql.rds_set_external_master_with_auto_position (Aurora MySQL version 2)](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/mysql-stored-proc-replicating.html#mysql_rds_set_external_master_with_auto_position)
+    * [Troubleshooting workload issues for Aurora MySQL databases](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-mysql-troubleshooting-workload.html)
+    * [Troubleshooting query performance for Aurora MySQL databases](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-mysql-troubleshooting-query.html)
 * Object Relational Mapping (ORM)
     * [wikipedia/Comparison of object–relational mapping software](https://en.wikipedia.org/wiki/Comparison_of_object%E2%80%93relational_mapping_software)
 * [wikipedia/Java Database Connectivity (JDBC)](https://en.wikipedia.org/wiki/Java_Database_Connectivity)
