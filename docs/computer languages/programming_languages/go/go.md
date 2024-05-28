@@ -41,4 +41,3 @@ go version
     * Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more 
 * [runc](https://github.com/opencontainers/runc)
     * CLI tool for spawning and running containers according to the OCI specification
-
