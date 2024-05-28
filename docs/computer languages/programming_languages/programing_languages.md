@@ -32,6 +32,7 @@
    * [1.6 開始 - 初次設定 Git](https://git-scm.com/book/zh-tw/v2/%E9%96%8B%E5%A7%8B-%E5%88%9D%E6%AC%A1%E8%A8%AD%E5%AE%9A-Git)
 * [make](https://www.gnu.org/software/make/)
     * GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files.
+    * [Make 命令教程](http://www.ruanyifeng.com/blog/2015/02/make.html)
 * [cloc](https://github.com/AlDanial/cloc)
     * cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 * [Libre and Portable Reverse Engineering Framework](https://www.radare.org/n/)
