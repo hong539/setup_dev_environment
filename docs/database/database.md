@@ -145,6 +145,8 @@
     SHOW GLOBAL VARIABLES LIKE 'max_connections';
     ```        
 * AWS RDS Aurora
+    * [Cross-account cloning with AWS RAM and Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Managing.Clone.html#Aurora.Managing.Clone.Cross-Account)
+    * [Upgrading the major version of an Amazon Aurora MySQL DB cluster](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Updates.MajorVersionUpgrade.html)
     * 異地
     * 跨帳號
     * 備援
