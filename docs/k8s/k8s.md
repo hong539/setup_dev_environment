@@ -2,6 +2,9 @@
 
 ## Guides/Tips/Misc...etc
 
+* [grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes?tab=readme-ov-file)
+* [Announcing AWS Observability Accelerator to configure comprehensive observability for Amazon EKS](https://aws.amazon.com/blogs/mt/announcing-aws-observability-accelerator-to-configure-comprehensive-observability-for-amazon-eks/)
+* [grafana/EKS Pods by Node Kubernetes / Compute Resources / Node (Pods)](https://grafana.com/grafana/dashboards/17289-kubernetes-compute-resources-node-pods/)
 * [gatus](https://github.com/TwiN/gatus/blob/master/.examples/kubernetes/gatus.yaml)
 * [Cloud Native Live: Securing Your Cluster with Cilium Network Policies](https://youtu.be/huBnEI_wW2U)
 * [Introduction to Cilium & Hubble](https://docs.cilium.io/en/latest/overview/intro/)
