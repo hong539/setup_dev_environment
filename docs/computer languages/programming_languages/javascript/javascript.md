@@ -21,6 +21,7 @@
 
 ## runtime/engine/frameworks/packages/library
 
+* [vue:dockerize-vuejs-app](https://v2.vuejs.org/v2/cookbook/dockerize-vuejs-app)
 * [nvm](https://github.com/nvm-sh/nvm)
     * Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 * [nodejs](https://nodejs.org/en)

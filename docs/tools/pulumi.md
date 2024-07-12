@@ -8,3 +8,4 @@
 * [import](https://www.pulumi.com/docs/using-pulumi/adopting-pulumi/import/)
 * [AWS Classic](https://www.pulumi.com/registry/packages/aws/#aws-classic)
 * [AWS Native](https://www.pulumi.com/registry/packages/aws-native/)
+* [pulumi Docker Build](https://www.pulumi.com/registry/packages/docker-build/)
