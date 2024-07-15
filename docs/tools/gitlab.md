@@ -2,6 +2,9 @@
 
 ## Gitlab CI/CD
 
+* [synchronize-two-gitlab-ce-servers](https://forum.gitlab.com/t/synchronize-two-gitlab-ce-servers/27951)
+* [Push options for GitLab CI/CD](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#push-options-for-gitlab-cicd)
+* [Override a defined CI/CD variable](https://docs.gitlab.com/ee/ci/variables/#override-a-defined-cicd-variable)
 * [Pipeline architecture](https://docs.gitlab.com/ee/ci/pipelines/pipeline_architectures.html)
 * [spec](https://docs.gitlab.com/ee/ci/yaml/#spec)
 * [inputs#array-type](https://docs.gitlab.com/ee/ci/yaml/inputs.html#array-type)
