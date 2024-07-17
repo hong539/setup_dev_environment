@@ -42,6 +42,7 @@ rustup completions bash cargo > ~/.local/share/bash-completion/completions/cargo
 
 ## Any projects with Rust
 
+* [ReVanced APKs download application](https://github.com/revanced-apks/revanced-apks.github.io/tree/main)
 * [Tokio](https://docs.rs/crate/tokio/latest)
     * [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
     * Tokio is an event-driven, non-blocking I/O platform for writing asynchronous applications with the Rust programming language.

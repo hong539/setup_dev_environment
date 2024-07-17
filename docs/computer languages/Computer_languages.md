@@ -2,6 +2,7 @@
 
 ## Guides/Misc...etc
 
+* [Call_graph](https://en.wikipedia.org/wiki/Call_graph)
 * [The Raft Consensus Algorithm](https://raft.github.io/)
 * [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 * [vscode](https://code.visualstudio.com/)

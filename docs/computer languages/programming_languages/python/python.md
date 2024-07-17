@@ -9,6 +9,7 @@
 
 ## docs/news/guides/tips/misc...
 
+* [pylint](https://pypi.org/project/pylint/)
 * [installing-python](https://realpython.com/installing-python/)
 * [pypy](https://github.com/pypy/pypy)
 * [Django 2.0*/實戰：留言板](https://hackmd.io/@dreamer/B1lAjxHRH/https%3A%2F%2Fhackmd.io%2FNlW4ubx7QKu4IeFkygSpQA)
