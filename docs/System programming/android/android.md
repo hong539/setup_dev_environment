@@ -8,6 +8,7 @@
 ## tips or other guides
 
 * [Run apps on a hardware device](https://developer.android.com/studio/run/device)
+* [ReVanced Manager](https://revanced.app/download)
 * [ReVanced](https://github.com/ReVanced)
 * [Revanced APKs Automated builds and distribution of ReVanced apps (unofficial)](https://github.com/revanced-apks)
 * [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
