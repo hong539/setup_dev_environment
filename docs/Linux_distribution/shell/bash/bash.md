@@ -22,3 +22,5 @@
 cat ./-
 cat "some other spaces"
 ```
+
+* [bash#conditionals](https://devhints.io/bash#conditionals)
