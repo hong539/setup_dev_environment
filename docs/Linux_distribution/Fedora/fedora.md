@@ -1,4 +1,4 @@
-# Fedora/CentOS/Red Hat Enterprise Linux/Rocky Linux/AlmaLinux/Oracle Linux/Amazon Linux
+# Fedora
 
 ## Guides/Tips/misc...etc
 

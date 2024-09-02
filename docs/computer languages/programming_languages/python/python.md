@@ -9,6 +9,12 @@
 
 ## docs/news/guides/tips/misc...
 
+* [roadmap/Python Developer](https://roadmap.sh/python)
+* [class](https://www.geeksforgeeks.org/python-classes-and-objects/)
+* [3.8/tutorial/classes](https://docs.python.org/3.8/tutorial/classes.html)
+* [Python Packaging User Guide/Packaging Python Projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+* [3.12/6. Modules](https://docs.python.org/3/tutorial/modules.html)
+* [geeksforgeeks/Python Modules](https://www.geeksforgeeks.org/python-modules/)
 * [pylint](https://pypi.org/project/pylint/)
 * [installing-python](https://realpython.com/installing-python/)
 * [pypy](https://github.com/pypy/pypy)
@@ -352,10 +358,9 @@ pipenv install
         * [library_app](https://github.com/cam-studio/library_app/tree/main)
             * Odoo modules for library management
 
-* [roadmap/Python Developer](https://roadmap.sh/python)
+
 * [w3schools/Python Tutorial](https://www.w3schools.com/python/default.asp)
-* [class](https://www.geeksforgeeks.org/python-classes-and-objects/)
-* [3.8/tutorial/classes](https://docs.python.org/3.8/tutorial/classes.html)
+
 
 ```python
 #在 Python 語言中，當一個 .py 程式檔案被執行時，Python 直譯器會建立一個名為 __main__ 的模組，並執行該模組中的所有程式碼。如果這個程式檔案是被當作模組（module）import 到別的程式檔案中，則 __name__ 變數的值就會是模組的名稱，而不是 __main__。
