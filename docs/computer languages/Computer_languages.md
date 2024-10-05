@@ -2,6 +2,7 @@
 
 ## Guides/Misc...etc
 
+* [wikipedia/Foreign function interface FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)
 * [Call_graph](https://en.wikipedia.org/wiki/Call_graph)
 * [The Raft Consensus Algorithm](https://raft.github.io/)
 * [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)

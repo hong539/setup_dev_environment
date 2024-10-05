@@ -42,6 +42,9 @@ rustup completions bash cargo > ~/.local/share/bash-completion/completions/cargo
 
 ## Any projects with Rust
 
+* [uniffi-rs](https://github.com/mozilla/uniffi-rs)
+* [bindgen](https://github.com/rust-lang/rust-bindgen)
+* [sccache](https://github.com/mozilla/sccache)
 * [ReVanced APKs download application](https://github.com/revanced-apks/revanced-apks.github.io/tree/main)
 * [Tokio](https://docs.rs/crate/tokio/latest)
     * [tokio-rs/tokio](https://github.com/tokio-rs/tokio)
