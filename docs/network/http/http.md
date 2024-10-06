@@ -7,3 +7,4 @@
     * [CloudFlare/HTTP/2 與 HTTP/1.1 的比較：其如何影響 Web 效能？](https://www.cloudflare.com/zh-tw/learning/performance/http2-vs-http1.1/)
 * [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 * [nghttp2 - HTTP/2 C Library and tools ](https://github.com/nghttp2/nghttp2)
+* [Trace Context](https://www.w3.org/TR/trace-context/)
