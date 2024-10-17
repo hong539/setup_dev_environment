@@ -13,6 +13,8 @@
 * [w3schools/C++ Introduction](https://www.w3schools.com/cpp/cpp_intro.asp)
 * [Omitting Namespace](https://www.w3schools.com/cpp/cpp_syntax.asp)
 * [SRS4.0源码分析-序言 - 弦外之音](https://www.xianwaizhiyin.net/?p=947)
+* [rathena](https://github.com/rathena/rathena/tree/master)
+  * rAthena is an open-source cross-platform MMORPG server. 
 
 ```c++
 #include <iostream>

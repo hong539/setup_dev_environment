@@ -1,6 +1,6 @@
 # virtual_machine
 
-## hypervisors/container rumtime/container engine/micro-VM
+## hypervisors/container rumtime/container engine/micro-VM/...etc
 
 * Proxmox VE
 * QEMU-KVM 
@@ -8,6 +8,8 @@
 * Vagrant
 * VirtualBox
 * [orbstack](https://docs.orbstack.dev/architecture)
+* [openvmm](https://github.com/microsoft/openvmm)
+    [openvmm.dev/](https://openvmm.dev/)
 
 ## tips or guides
 
