@@ -42,6 +42,8 @@ rustup completions bash cargo > ~/.local/share/bash-completion/completions/cargo
 
 ## Any projects with Rust
 
+* [hyperswitch](https://github.com/juspay/hyperswitch)
+    * hyperswitch: An open source payments switch written in Rust to make payments fast, reliable and affordable 
 * [uniffi-rs](https://github.com/mozilla/uniffi-rs)
 * [bindgen](https://github.com/rust-lang/rust-bindgen)
 * [sccache](https://github.com/mozilla/sccache)

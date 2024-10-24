@@ -2,6 +2,7 @@
 
 ## Guides/Tips/Tutorials/Misc...etc
 
+* [seleniumbase/webdriver_installation](https://seleniumbase.io/help_docs/webdriver_installation/)
 * [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages)
 * [gatus/Automated developer-oriented status page](https://github.com/TwiN/gatus)
 * [toogether-backend](https://github.com/hong539/toogether-backend)

@@ -2,6 +2,9 @@
 
 ## Guides/Tips/Misc...etc
 
+* [vscode/extentions/Kubernetes Templates](https://marketplace.visualstudio.com/items?itemName=lunuan.kubernetes-templates)
+* [k8s/docs/cluster-administration/logging](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
+* [Exporting Kubernetes Logs to Elasticsearch Using Fluent Bit](https://medium.com/kubernetes-tutorials/exporting-kubernetes-logs-to-elasticsearch-using-fluent-bit-758e8de606af)
 * [grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes?tab=readme-ov-file)
 * [Announcing AWS Observability Accelerator to configure comprehensive observability for Amazon EKS](https://aws.amazon.com/blogs/mt/announcing-aws-observability-accelerator-to-configure-comprehensive-observability-for-amazon-eks/)
 * [grafana/EKS Pods by Node Kubernetes / Compute Resources / Node (Pods)](https://grafana.com/grafana/dashboards/17289-kubernetes-compute-resources-node-pods/)
