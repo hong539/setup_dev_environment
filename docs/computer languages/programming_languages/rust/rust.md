@@ -1,7 +1,8 @@
 # Rust
 
-## docs
+## docs/guides/misc...etc
 
+* [2022 Review | The adoption of Rust in Business](https://rustmagazine.org/issue-1/2022-review-the-adoption-of-rust-in-business/)
 * [RustPython](https://rustpython.github.io/)
 * [C vs. Rust](http://www-verimag.imag.fr/~mounier/Enseignement/Software_Security/19RustVsC.pdf)
 * HTTP/3
@@ -42,6 +43,7 @@ rustup completions bash cargo > ~/.local/share/bash-completion/completions/cargo
 
 ## Any projects with Rust
 
+* [bottlerocket-os](https://github.com/bottlerocket-os/bottlerocket)
 * [hyperswitch](https://github.com/juspay/hyperswitch)
     * hyperswitch: An open source payments switch written in Rust to make payments fast, reliable and affordable 
 * [uniffi-rs](https://github.com/mozilla/uniffi-rs)

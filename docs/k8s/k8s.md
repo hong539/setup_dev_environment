@@ -2,6 +2,8 @@
 
 ## Guides/Tips/Misc...etc
 
+* [MutatingWebhookConfiguration](https://kubernetes.io/docs/reference/kubernetes-api/extend-resources/mutating-webhook-configuration-v1/)
+* [cloud-controller](https://kubernetes.io/docs/concepts/architecture/cloud-controller/)
 * [vscode/extentions/Kubernetes Templates](https://marketplace.visualstudio.com/items?itemName=lunuan.kubernetes-templates)
 * [k8s/docs/cluster-administration/logging](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
 * [Exporting Kubernetes Logs to Elasticsearch Using Fluent Bit](https://medium.com/kubernetes-tutorials/exporting-kubernetes-logs-to-elasticsearch-using-fluent-bit-758e8de606af)
