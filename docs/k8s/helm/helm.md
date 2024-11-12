@@ -1,6 +1,12 @@
 # helm
 
-## tips
+## Docs/Guides/tips...etc
+
+* [helm_install](https://helm.sh/docs/helm/helm_install/)
+```
+You can specify the '--values'/'-f' flag multiple times. The priority will be given to the last (right-most) file specified.
+```
+
 
 ```
 curl https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash
