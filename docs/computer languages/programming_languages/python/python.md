@@ -9,6 +9,7 @@
 
 ## docs/news/guides/tips/misc...
 
+* [VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.](https://github.com/gaogaotiantian/viztracer)
 * [roadmap/Python Developer](https://roadmap.sh/python)
 * [class](https://www.geeksforgeeks.org/python-classes-and-objects/)
 * [3.8/tutorial/classes](https://docs.python.org/3.8/tutorial/classes.html)

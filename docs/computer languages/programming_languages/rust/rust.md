@@ -43,6 +43,7 @@ rustup completions bash cargo > ~/.local/share/bash-completion/completions/cargo
 
 ## Any projects with Rust
 
+* [vector: A high-performance observability data pipeline.](https://vector.dev/)
 * [bottlerocket-os](https://github.com/bottlerocket-os/bottlerocket)
 * [hyperswitch](https://github.com/juspay/hyperswitch)
     * hyperswitch: An open source payments switch written in Rust to make payments fast, reliable and affordable 

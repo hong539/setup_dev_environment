@@ -7,6 +7,7 @@
 You can specify the '--values'/'-f' flag multiple times. The priority will be given to the last (right-most) file specified.
 ```
 
+* [Subcharts and Global Values](https://helm.sh/docs/chart_template_guide/subcharts_and_globals/)
 
 ```
 curl https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash

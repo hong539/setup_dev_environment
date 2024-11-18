@@ -2,6 +2,7 @@
 
 ## Guides/Tips/misc...
 
+* [Yocto Project Quick Build](https://docs.yoctoproject.org/brief-yoctoprojectqs/index.html)
 * [Celery - Distributed Task Queue](https://docs.celeryq.dev/en/stable/index.html)
 * [container2wasm](https://github.com/ktock/container2wasm)
 * [v86/x86 PC emulator and x86-to-wasm JIT, running in the browser](https://github.com/copy/v86)

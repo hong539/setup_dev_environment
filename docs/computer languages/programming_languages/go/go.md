@@ -26,6 +26,7 @@ go version
 
 ## basic
 
+* [golang](https://roadmap.sh/golang)
 * [Documentation](https://go.dev/doc/)
 * [bregman-arie/go-exercises](https://github.com/bregman-arie/go-exercises)
 
@@ -35,6 +36,9 @@ go version
 
 ## projects/tips/guides with golang
 
+* [ptt/pttweb](https://github.com/ptt/pttweb)
+* [Cobra](https://github.com/spf13/cobra)
+* [urfave/cli](https://github.com/urfave/cli)
 * [Go kit/A toolkit for microservices](https://gokit.io/)
 * [worker-pools](https://gobyexample.com/worker-pools)
 * [trivy](https://github.com/aquasecurity/trivy)

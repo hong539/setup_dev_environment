@@ -21,6 +21,7 @@
 
 ## runtime/engine/frameworks/packages/library/...etc
 
+* [discordjs.guide/sharding/#when-to-shard](https://discordjs.guide/sharding/#when-to-shard)
 * [pm2](https://github.com/Unitech/pm2)
 * [vue:dockerize-vuejs-app](https://v2.vuejs.org/v2/cookbook/dockerize-vuejs-app)
 * [nvm](https://github.com/nvm-sh/nvm)

@@ -12,6 +12,9 @@
 
 ## tips
 
+* [Is getting Ansible to work with Pulumi possible?](https://stackoverflow.com/questions/68081282/is-getting-ansible-to-work-with-pulumi-possible)
+* [Dynamic resource providers](https://www.pulumi.com/docs/iac/concepts/resources/dynamic-providers/)
+
 ```
 iam --> vpc --> ec2 
             --> eks
