@@ -5,6 +5,11 @@
 There are so many Linux distributions, so the question is that what is your requriement for using Linux?
 Just pick them up for your requriement!!!
 
+## Basic
+
+* [Linux Roadmap](https://roadmap.sh/linux)
+* [鳥哥的首頁/這裡是鳥哥的網站！有 Linux 學習、伺服器學習，還有環工學習喔！](https://linux.vbird.org/)
+
 ## Performance analysis
 
 * [perf-tools](https://github.com/brendangregg/perf-tools)

@@ -1,4 +1,4 @@
-# Observability
+# OpenTelemetry
 
 ## OpenTelemetry
 
