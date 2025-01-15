@@ -12,6 +12,7 @@
 
 ## ansible
 
+* [ansible-core support matrix](https://docs.ansible.com/ansible/latest/reference_appendices/release_and_maintenance.html#ansible-core-support-matrix)
 * [ansible.builtin.iptables module – Modify iptables rules](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/iptables_module.html)
 * [ansible.builtin.sudo become – Substitute User DO](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/sudo_become.html#ansible-builtin-sudo-become-substitute-user-do)
 * [github.com/ansible](https://github.com/ansible/ansible)
