@@ -20,6 +20,11 @@
 
 ## UML relateds
 
+* Use Case Diagram
+* Sequence Diagram
+* Activity Diagram
+* Class-responsibility-collaboration card
+* [sequence-diagram](https://docs.staruml.io/working-with-uml-diagrams/sequence-diagram)
 * [Mermaid](https://mermaid.js.org/)
 * [StarUML](https://staruml.io/)
     * [staruml-python](https://github.com/niklauslee/staruml-python)

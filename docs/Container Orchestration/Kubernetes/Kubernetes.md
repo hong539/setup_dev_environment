@@ -2,6 +2,7 @@
 
 ## Guides/Tips/Misc...etc
 
+* [K8sGPT](https://k8sgpt.ai/)
 * [MutatingWebhookConfiguration](https://kubernetes.io/docs/reference/kubernetes-api/extend-resources/mutating-webhook-configuration-v1/)
 * [cloud-controller](https://kubernetes.io/docs/concepts/architecture/cloud-controller/)
 * [vscode/extentions/Kubernetes Templates](https://marketplace.visualstudio.com/items?itemName=lunuan.kubernetes-templates)
