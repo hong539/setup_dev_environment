@@ -7,6 +7,29 @@
 * interpreter implementation for python
     * CPython
 
+## Q&A
+
+1. What is a key difference between multi-threading and multi-processing in Python?
+A. Multi-threading uses multiple CPUs, while multi-processing uses a single CPU.
+B. Multi-threading is limited by the GIL, while multi-processing bypasses it.
+C. Multi-threading is faster for CPU-bound tasks, while multi-processing is faster for I/O-...
+
+Answer:
+It should be B. Multi-threading is limited by the GIL, while multi-processing bypasses it.
+
+From Python docs:
+
+* [Python docs/3.13.1/threading — Thread-based parallelism](https://docs.python.org/3.13/library/threading.html)
+    * CPython implementation detail: In CPython, due to the Global Interpreter Lock, only one thread can execute Python code at once (even though certain performance-oriented libraries might overcome this limitation). If you want your application to make better use of the computational resources of multi-core machines, you are advised to use multiprocessing or concurrent.futures.ProcessPoolExecutor. However, threading is still an appropriate model if you want to run multiple I/O-bound tasks simultaneously.
+
+* [Python docs/3.13.1/multiprocessing — Process-based parallelism](https://docs.python.org/3/library/multiprocessing.html)
+    * multiprocessing is a package that supports spawning processes using an API similar to the threading module. The multiprocessing package offers both local and remote concurrency, effectively side-stepping the Global Interpreter Lock by using subprocesses instead of threads. Due to this, the multiprocessing module allows the programmer to fully leverage multiple processors on a given machine. It runs on both POSIX and Windows.
+
+* [Python docs/GIL global interpreter lock](https://docs.python.org/3/glossary.html#term-global-interpreter-lock)
+    * The mechanism used by the CPython interpreter to assure that only one thread executes Python bytecode at a time. ...
+    * More details, please click all of these URL links or do somtheing coding test to prove these ideas.
+
+
 ## docs/news/guides/tips/misc...
 
 * [VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.](https://github.com/gaogaotiantian/viztracer)
