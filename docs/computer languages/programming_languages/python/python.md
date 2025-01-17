@@ -30,6 +30,29 @@ From Python docs:
     * More details, please click all of these URL links or do somtheing coding test to prove these ideas.
 
 
+2. Why are virtual environments used in Python projects?
+A. To improve code execution speed.
+B. To isolate project dependencies.
+C. To simplify syntax.
+D. To reduce memory usage.
+
+Answer: It should be B. To isolate project dependencies.
+
+For My Python coding experience, I would use pyenv + poetry to lock a python interpreter version and manage project dependencies.
+Or from this meme comic: [Python Environment](https://xkcd.com/1987/)
+![Python Environment](https://imgs.xkcd.com/comics/python_environment.png)
+
+3. What is the output of the following code snippet?
+x = (1, 2, 3)
+x[0] = 10
+
+A. (10, 2, 3)
+B. TypeError: 'tuple' object does not support item assignment
+C. (1, 2, 3)
+D. None
+
+Answer: It should be To B. TypeError: 'tuple' object does not support item assignment
+
 ## docs/news/guides/tips/misc...
 
 * [VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.](https://github.com/gaogaotiantian/viztracer)
@@ -58,6 +81,16 @@ From Python docs:
 
 ## collects/tips/tools/libraries/frameworks for setuping up coding environment
 
+* pyenv
+    * manage python interpreter version
+    * [https://github.com/pyenv/pyenv#automatic-installer](https://github.com/pyenv/pyenv#automatic-installer)
+    * [set-up-your-shell-environment-for-pyenv](https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv)
+    * [install-python-build-dependencies](https://github.com/pyenv/pyenv#install-python-build-dependencies)
+    * [Suggested build environment](https://github.com/pyenv/pyenv/wiki#suggested-build-environment)
+* Poetry
+    * manage projects packages/virtual enviroment
+    * [Install ](https://python-poetry.org/docs/)
+    * [installing-dependencies-only](https://python-poetry.org/docs/basic-usage/#installing-dependencies-only)
 * [loguru/Python logging made (stupidly) simple ](https://github.com/Delgan/loguru)
 * Which Python version?
    * 2.7/3.8/3.9/3.10/3.11
@@ -69,18 +102,8 @@ From Python docs:
 * [Python Packaging Authority](https://www.pypa.io/en/latest/)
 * [rye](https://github.com/mitsuhiko/rye)
     * Rye: An Experimental Package Management Solution for Python
-* Poetry
-    * [Install ](https://python-poetry.org/docs/)
-    * [installing-dependencies-only](https://python-poetry.org/docs/basic-usage/#installing-dependencies-only)
-
-* pyenv
-    * controll python version
-    * [https://github.com/pyenv/pyenv#automatic-installer](https://github.com/pyenv/pyenv#automatic-installer)
-    * [set-up-your-shell-environment-for-pyenv](https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv)
-    * [install-python-build-dependencies](https://github.com/pyenv/pyenv#install-python-build-dependencies)
-    * [Suggested build environment](https://github.com/pyenv/pyenv/wiki#suggested-build-environment)
 * pipenv
-    * controll projects packages/virtual enviroment
+    * manage projects packages/virtual enviroment
     * [https://pipenv.pypa.io/en/latest/#install-pipenv-today](https://pipenv.pypa.io/en/latest/)
     * [shell-completion](https://pipenv.pypa.io/en/latest/advanced/#shell-completion)
     * [pipenv install throws --system is intended to be used for pre-existing Pipfile installation #5052](https://github.com/pypa/pipenv/issues/5052)
