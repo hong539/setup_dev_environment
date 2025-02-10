@@ -33,6 +33,7 @@
 * Yarn
     * Yarn is a package manager that doubles down as project manager.
     * [yarn/Installation](https://yarnpkg.com/getting-started/install)
+* [commitlint](https://commitlint.js.org/)
 * [husky](https://typicode.github.io/husky/)
 * [tauri](https://tauri.app/)
 * [react](https://react.dev/)

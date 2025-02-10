@@ -40,6 +40,7 @@ go version
 * [Cobra](https://github.com/spf13/cobra)
 * [urfave/cli](https://github.com/urfave/cli)
 * [Go kit/A toolkit for microservices](https://gokit.io/)
+* [gin](https://github.com/gin-gonic/gin)
 * [worker-pools](https://gobyexample.com/worker-pools)
 * [trivy](https://github.com/aquasecurity/trivy)
     * Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more 
