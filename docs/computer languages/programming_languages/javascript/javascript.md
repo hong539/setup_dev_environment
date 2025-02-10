@@ -33,8 +33,12 @@
 * Yarn
     * Yarn is a package manager that doubles down as project manager.
     * [yarn/Installation](https://yarnpkg.com/getting-started/install)
-* [react](https://zh-hant.legacy.reactjs.org/)
+* [husky](https://typicode.github.io/husky/)
+* [tauri](https://tauri.app/)
+* [react](https://react.dev/)
 * [Next.js](https://nextjs.org/docs)
+* [angular](https://angular.dev/)
+* [vue](https://vuejs.org/)
 * [jquery](https://jquery.com/)
 * [MDN/AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 * [bluebird](http://bluebirdjs.com/docs/why-bluebird.html)
