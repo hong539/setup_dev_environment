@@ -2,6 +2,8 @@
 
 ## Guides/Tips/Misc...etc
 
+* [github.com/kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+* [github.com/kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [K8sGPT](https://k8sgpt.ai/)
 * [MutatingWebhookConfiguration](https://kubernetes.io/docs/reference/kubernetes-api/extend-resources/mutating-webhook-configuration-v1/)
 * [cloud-controller](https://kubernetes.io/docs/concepts/architecture/cloud-controller/)

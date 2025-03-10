@@ -3,6 +3,11 @@
 
 ## Docs/Guides/...etc
 
+* [Ansible Collection for Prometheus](https://github.com/prometheus-community/ansible)
+* [docs/prometheus/latest/installation/#installation](https://prometheus.io/docs/prometheus/latest/installation/#installation)
+* [Thanos](https://thanos.io/)
+    * Open source, highly available Prometheus setup with long term storage capabilities.
+    * [Table of Contents](https://thanos.io/tip/components/query.md/)
 * [Version 2.53/Configuration](https://prometheus.io/docs/prometheus/2.53/configuration/configuration/)
 
 ```
