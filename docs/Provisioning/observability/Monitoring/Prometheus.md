@@ -3,6 +3,10 @@
 
 ## Docs/Guides/...etc
 
+* [Exporters and integrations](https://prometheus.io/docs/instrumenting/exporters/)
+* [mktxp](https://github.com/akpw/mktxp)
+    * Prometheus Exporter for Mikrotik RouterOS devices
+* [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
 * [Ansible Collection for Prometheus](https://github.com/prometheus-community/ansible)
 * [docs/prometheus/latest/installation/#installation](https://prometheus.io/docs/prometheus/latest/installation/#installation)
 * [Thanos](https://thanos.io/)

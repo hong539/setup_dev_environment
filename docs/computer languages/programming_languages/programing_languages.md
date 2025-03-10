@@ -8,6 +8,7 @@
 
 ## Where to extend/learn your coding skills/experience?
 
+* [使用浮點數最最基本的觀念 冼鏡光](https://pages.mtu.edu/~shene/FORUM/Taiwan-Forum/ComputerScience/001-Accuracy/Accuracy.html)
 * stack trace
 * [Build Your Own X From Scratch Books](https://build-your-own.org/)
 * [togglebit.io/posts/learning-lang/](https://togglebit.io/posts/learning-lang/)
