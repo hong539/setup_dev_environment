@@ -2,6 +2,8 @@
 
 ## Guides/Tips/Misc...etc
 
+* [k0s](https://k0sproject.io/)
+    * k0s is the simple, solid & certified Kubernetes distribution that works on any infrastructure: bare-metal, on-premises, edge, IoT, public & private clouds. It's 100% open source & free.
 * [github.com/kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
 * [github.com/kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [K8sGPT](https://k8sgpt.ai/)

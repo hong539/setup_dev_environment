@@ -2,6 +2,8 @@
 
 ## guides/tips/misc...etcs
 
+* [k6](https://grafana.com/docs/k6/latest/)
+    * Grafana k6 is an open-source, developer-friendly, and extensible load testing tool. k6 allows you to prevent performance issues and proactively improve reliability.
 * [netlab: a Virtual Networking Labbing Tool with Python](https://netlab.tools/)
     * [github.com/ipspace/netlab](https://github.com/ipspace/netlab)
 * [AWS/What’s the Difference Between a Proxy and a VPN?](https://aws.amazon.com/compare/the-difference-between-proxy-and-vpn/)
