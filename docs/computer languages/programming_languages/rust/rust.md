@@ -2,6 +2,7 @@
 
 ## docs/guides/misc...etc
 
+* [github.com/hong539/rust-101](https://github.com/hong539/rust-101)
 * [Why the future of the cloud will be built on Rust - Oliver Gould, Buoyant](https://youtu.be/BWL4889RKhU)
 * [hong539/rust-101](https://github.com/hong539/rust-101)
 * [2022 Review | The adoption of Rust in Business](https://rustmagazine.org/issue-1/2022-review-the-adoption-of-rust-in-business/)
@@ -27,6 +28,7 @@
 * [How Turborepo is porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust)
 * [Why Turborepo is migrating from Go to Rust](https://vercel.com/blog/turborepo-migration-go-rust)
 * [surrealdb](https://github.com/surrealdb/surrealdb)
+* [黑暗執行緒/YT 筆記 - Rust 程式語言在 JavaScript 生態圈的角色](https://blog.darkthread.net/blog/rust-in-js-ecosystem/)
 
 ```shell
 #curl https://sh.rustup.rs -sSf | sh

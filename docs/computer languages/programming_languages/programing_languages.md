@@ -17,6 +17,7 @@
 * [geeksforgeeks/practice](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=practice_header)
 * [bandit](https://overthewire.org/wargames/bandit/bandit0.html)
     * Play with SSH and others.
+* [如何读懂火焰图？ Flamegraph](https://www.ruanyifeng.com/blog/2017/09/flame-graph.html)    
 
 ## tools for coding
 
