@@ -1,5 +1,6 @@
 FROM nginx:mainline-alpine3.18-slim
 
+COPY robots.txt /usr/share/nginx/html/robots.txt
 COPY /site /usr/share/nginx/html
 
 EXPOSE 80

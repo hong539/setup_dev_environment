@@ -31,6 +31,7 @@ RUN mkdocs build
 #2nd stage
 FROM nginx:mainline-alpine3.18-slim
 
+COPY robots.txt /usr/share/nginx/html/robots.txt
 COPY --from=builder /temp/site /usr/share/nginx/html
 
 EXPOSE 80
