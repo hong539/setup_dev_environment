@@ -3,6 +3,7 @@
 ## Guides/Tips/Misc...etc
 
 * GCP
+    * [Compare AWS and Azure services to Google Cloud](https://cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison)
     * [Migrating from Amazon Aurora MySQL without SUPERUSER privileges](https://cloud.google.com/database-migration/docs/mysql/aurora-no-superuser)
 * AWS
     * [Run Amazon Linux 2 as a virtual machine on premises](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-linux-2-virtual-machine.html)
