@@ -2,6 +2,13 @@
 
 ## roadmap/guides/tips/...etc
 
+* Java 8
+    * [Java Virtual Machine Technology](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/index.html)
+    * [JDK Tools and Utilities](https://docs.oracle.com/javase/8/docs/technotes/tools/index.html#scripting)
+    * [Java Platform Standard Edition 8 Documentation](https://docs.oracle.com/javase/8/docs/index.html)
+    * [Oracle/Trail: Learning the Java Language](https://docs.oracle.com/javase/tutorial/java/index.html)
+    * [Oracle/The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
+        * The Java Tutorials have been written for JDK 8. Examples and practices described in this page don't take advantage of improvements introduced in later releases and might use technology no longer available.
 * [practical-tutorials/project-based-learning#java](https://github.com/practical-tutorials/project-based-learning#java)
 * [Java Developer](https://roadmap.sh/java)
 * [The Java™ Tutorials ](https://docs.oracle.com/javase/tutorial/)

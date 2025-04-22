@@ -2,6 +2,7 @@
 
 ## Guides/Tips/Misc...etc
 
+* [Spring Cloud for Microservices Compared to Kubernetes](https://developers.redhat.com/blog/2016/12/09/spring-cloud-for-microservices-compared-to-kubernetes)
 * [k0s](https://k0sproject.io/)
     * k0s is the simple, solid & certified Kubernetes distribution that works on any infrastructure: bare-metal, on-premises, edge, IoT, public & private clouds. It's 100% open source & free.
 * [github.com/kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
@@ -23,7 +24,6 @@
 * [Rancher](https://ranchermanager.docs.rancher.com/getting-started/overview)
 * [What is DC/OS?](https://dcos.io/)
 * [DC/OS vs Kubernetes: What are the differences?](https://stackshare.io/stackups/dcos-vs-kubernetes)
-* [Spring Cloud for Microservices Compared to Kubernetes](https://developers.redhat.com/blog/2016/12/09/spring-cloud-for-microservices-compared-to-kubernetes)
 * [Spring Cloud 和 Kubernetes](https://youtu.be/_xMgDF8_mKY)
 * [Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc... ](https://github.com/spring-cloud/spring-cloud-kubernetes)
 * [當 Spring Cloud 遇上 Kubernetes](https://medium.com/brobridge/%E7%95%B6-spring-cloud-%E9%81%87%E4%B8%8A-kubernetes-5bc9e6ce602f)
