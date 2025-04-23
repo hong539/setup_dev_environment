@@ -2,6 +2,9 @@
 
 ## roadmap/guides/tips/...etc
 
+* [github.com/hong539/java-101](https://github.com/hong539/java-101)
+* [SDKMAN](https://sdkman.io/)
+    * effortlessly managing multiple Software Development Kits on Unix systems
 * Java 8
     * [Java Virtual Machine Technology](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/index.html)
     * [JDK Tools and Utilities](https://docs.oracle.com/javase/8/docs/technotes/tools/index.html#scripting)
