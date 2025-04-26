@@ -2,6 +2,7 @@
 
 ## guides/tips/misc...etcs
 
+* [grpc.io](https://grpc.io/)
 * [k6](https://grafana.com/docs/k6/latest/)
     * Grafana k6 is an open-source, developer-friendly, and extensible load testing tool. k6 allows you to prevent performance issues and proactively improve reliability.
 * [netlab: a Virtual Networking Labbing Tool with Python](https://netlab.tools/)

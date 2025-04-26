@@ -2,6 +2,9 @@
 
 ## Docs/Tips/MISC...etc
 
+* [www.elastic.co/guide/index.html](https://www.elastic.co/guide/index.html)
+* [www.elastic.co/docs/deploy-manage/deploy/cloud-enterprise/ece-hardware-prereq](https://www.elastic.co/docs/deploy-manage/deploy/cloud-enterprise/ece-hardware-prereq)
+* [artifacthub.io/packages/helm/bitnami/elasticsearch](https://artifacthub.io/packages/helm/bitnami/elasticsearch)
 * [Installing the Elastic Stack](https://www.elastic.co/guide/en/elastic-stack/current/installing-elastic-stack.html)
     * [Elasticsearch 8.10](https://www.elastic.co/guide/en/elasticsearch/reference/8.10/index.html)
     * [Logstash 8.10](https://www.elastic.co/guide/en/logstash/8.10/index.html)
