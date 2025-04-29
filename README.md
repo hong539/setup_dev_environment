@@ -2,7 +2,7 @@
 
 * This is My experience with so many fields.
 * Feel free to fork My notes. :)
-* Prepare my dev-enviroment on a Linux machine(Could be a physical or virtual machine) and use vscode with ssh plugin to connect this.
+* Prepare my dev-enviroment on a Unix-like machine(Could be a physical or virtual machine) and use vscode with ssh plugin to connect this.
 * mkdocs-material to render *.md files to static web site files
 
 ## Prerequisites
