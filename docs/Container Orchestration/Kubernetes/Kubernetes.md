@@ -2,6 +2,10 @@
 
 ## Guides/Tips/Misc...etc
 
+* KEDA
+    * KEDA is a Kubernetes-based Event Driven Autoscaler.
+    * [keda.sh](https://keda.sh/)
+* [github.com/hong539/k8s_lab/tree/main](https://github.com/hong539/k8s_lab/tree/main)
 * [kubernetes.io/docs/setup/production-environment/container-runtimes/](https://kubernetes.io/docs/setup/production-environment/container-runtimes/)
 * [Spring Cloud for Microservices Compared to Kubernetes](https://developers.redhat.com/blog/2016/12/09/spring-cloud-for-microservices-compared-to-kubernetes)
 * [k0s](https://k0sproject.io/)

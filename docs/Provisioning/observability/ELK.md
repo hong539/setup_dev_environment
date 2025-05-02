@@ -9,4 +9,10 @@
     * [Elasticsearch 8.10](https://www.elastic.co/guide/en/elasticsearch/reference/8.10/index.html)
     * [Logstash 8.10](https://www.elastic.co/guide/en/logstash/8.10/index.html)
     * [Kibana 8.10](https://www.elastic.co/guide/en/kibana/8.10/index.html)
+    * Filebeat
+        * Filebeat is a lightweight shipper for forwarding and centralizing log data.
+        * [www.elastic.co/docs/reference/beats/filebeat/](https://www.elastic.co/docs/reference/beats/filebeat/)
+        * [www.elastic.co/docs/reference/beats/filebeat/filebeat-installation-configuration](https://www.elastic.co/docs/reference/beats/filebeat/filebeat-installation-configuration)
 * [Resilience in small clusters](https://www.elastic.co/docs/deploy-manage/production-guidance/availability-and-resilience/resilience-in-small-clusters)
+* [github.com/jertel/elastalert2](https://github.com/jertel/elastalert2)
+* [喬叔的 Elastic Stack 專業教育訓練](https://training.onedoggo.com/)
