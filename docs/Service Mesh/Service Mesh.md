@@ -7,4 +7,5 @@
     * [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy)
     * [Adding non-Kubernetes workloads to your mesh](https://linkerd.io/2.17/tasks/adding-non-kubernetes-workloads/)
 * Istio
+    * [istio.io/latest/docs/setup/getting-started/](https://istio.io/latest/docs/setup/getting-started/)
 * Envoy

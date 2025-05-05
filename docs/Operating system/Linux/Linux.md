@@ -11,3 +11,4 @@
 * [github.com/systemd/systemd](https://github.com/systemd/systemd)
 * [github.com/uutils/coreutils](https://github.com/uutils/coreutils)
     * Cross-platform Rust rewrite of the GNU coreutils
+* [forum.endeavouros.com/t/matrix-rain/32892](https://forum.endeavouros.com/t/matrix-rain/32892)
