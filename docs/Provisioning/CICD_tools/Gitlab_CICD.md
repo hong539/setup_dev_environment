@@ -3,6 +3,11 @@
 ## Guides/tips...etc
 
 * Issue Study:
+    * docker cli tools in .gitlab-ci.yml:
+        * [Enable Docker commands in your CI/CD jobs](https://docs.gitlab.com/ci/docker/using_docker_build/#enable-docker-commands-in-your-cicd-jobs)
+            * The shell executor
+            * Docker-in-Docker
+            * Docker socket binding
     * Java CI task in Gitlab CI:
         * 如何加速maven建置流程?
             * cache
