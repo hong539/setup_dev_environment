@@ -7,6 +7,7 @@
 * Time serise data
 
 * [netdata](https://github.com/netdata/netdata)
+* LGTM stack, Grafana Labs’ opinionated observability stack which includes: Loki-for logs, Grafana - for dashboards and visualization, Tempo - for traces, and Mimir - for metrics.
 * [prometheus](https://prometheus.io/)
 * [grafana](https://grafana.com/)
     * [Amazon CloudWatch data source](https://grafana.com/docs/grafana/latest/datasources/aws-cloudwatch/)

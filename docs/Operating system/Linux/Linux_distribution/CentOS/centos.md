@@ -9,3 +9,4 @@
 * [Could not resolve host: mirrorlist.centos.org Centos 7](https://serverfault.com/questions/904304/could-not-resolve-host-mirrorlist-centos-org-centos-7)
 * [如何在 CentOS 7 EOL 後繼續存取官方套件庫？](https://becoder.org/centos7-repo-after-eol/)
 * [CentOS Vault Mirror](https://vault.centos.org/)
+* [基礎學習篇目錄 - for CentOS 7](https://linux.vbird.org/linux_basic/centos7/)

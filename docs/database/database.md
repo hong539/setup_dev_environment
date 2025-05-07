@@ -2,6 +2,7 @@
 
 ## guides/tips/misc...etcs
 
+* [en.wikipedia.org/wiki/Replication_(computing)](https://en.wikipedia.org/wiki/Replication_(computing))
 * SQL GUI tools
     * [HeidiSQL](https://www.heidisql.com/)
     * [DBeaver](https://dbeaver.io/)

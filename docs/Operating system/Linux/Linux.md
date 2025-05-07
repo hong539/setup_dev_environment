@@ -4,6 +4,8 @@
 
 * POSIX Portable Operating System Interface (IEEE 1003)
     * [en.wikipedia.org/wiki/POSIX](https://en.wikipedia.org/wiki/POSIX)
+* [https://zh.wikipedia.org/zh-tw/殼層內建指令](https://zh.wikipedia.org/zh-tw/%E6%AE%BC%E5%B1%A4%E5%85%A7%E5%BB%BA%E6%8C%87%E4%BB%A4)
+* [www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html](https://www.gnu.org/software/bash/manual/html_node/Shell-Builtin-Commands.html)
 * Filesystem Hierarchy Standard
     * [en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 * [LINUX Signals](https://faculty.cs.niu.edu/~hutchins/csci480/signals.htm)
