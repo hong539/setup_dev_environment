@@ -2,6 +2,10 @@
 
 ## guides/tips/...etc
 
+* issues: 
+    * java服務Dockerfile/Docker compose優化:
+        * 避免服務無法優雅地關閉，甚至本身的程式碼實作沒有將服務的狀態寫回去RDBMS，暫時先用手動SQL紀錄服務的狀態，避免重新啟動時，服務無法正常運作。
+
 * [docker-architecture](https://docs.docker.com/guides/docker-overview/#docker-architecture)
 * [github.com/moby/moby](https://github.com/moby/moby)
 * [github.com/docker/cli](https://github.com/docker/cli)
