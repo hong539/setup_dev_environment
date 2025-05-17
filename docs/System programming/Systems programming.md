@@ -2,6 +2,7 @@
 
 ## Guides/Tips/misc...
 
+* [sysprog/並行程式設計: 概念](https://hackmd.io/@sysprog/concurrency/%2F%40sysprog%2Fconcurrency-concepts)
 * [Yocto Project Quick Build](https://docs.yoctoproject.org/brief-yoctoprojectqs/index.html)
 * [Celery - Distributed Task Queue](https://docs.celeryq.dev/en/stable/index.html)
 * [container2wasm](https://github.com/ktock/container2wasm)
