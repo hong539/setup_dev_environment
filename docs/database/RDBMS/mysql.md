@@ -2,6 +2,8 @@
 
 ## Guides/tips/...etc
 
+* [bugs.mysql.com/bug.php?id=11472](https://bugs.mysql.com/bug.php?id=11472)
+    * Triggers not executed following foreign key updates/deletes
 * [MySQL version 5.7/4.6.7 mysqlbinlog — Utility for Processing Binary Log Files](https://dev.mysql.com/doc/refman/5.7/en/mysqlbinlog.html)
 * [GCP/mysql/backup](https://cloud.google.com/mysql/backup)
 * For High availability (HA):
