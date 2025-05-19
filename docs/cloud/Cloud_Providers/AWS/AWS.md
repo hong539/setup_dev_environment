@@ -2,6 +2,7 @@
 
 ## Guides/Tips...etc
 
+* [github.com/hong539/aws-101](https://github.com/hong539/aws-101)
 * [Stephane Maarek/AWS Certifications Courses & Practice Exams](https://courses.datacumulus.com/)
 * [EC2/instances.vantage.sh/?region=ap-northeast-1](https://instances.vantage.sh/?region=ap-northeast-1)
 * [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
