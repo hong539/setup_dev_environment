@@ -2,6 +2,9 @@
 
 ## guides/tips/misc...etcs
 
+* [blog.cloudflare.com/pingora-open-source/](https://blog.cloudflare.com/pingora-open-source/)
+    * [github.com/cloudflare/pingora](https://github.com/cloudflare/pingora)
+* TTFB (time-to-first-byte)
 * [grpc.io](https://grpc.io/)
 * [k6](https://grafana.com/docs/k6/latest/)
     * Grafana k6 is an open-source, developer-friendly, and extensible load testing tool. k6 allows you to prevent performance issues and proactively improve reliability.

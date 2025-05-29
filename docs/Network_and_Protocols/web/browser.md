@@ -16,3 +16,7 @@ Browser
 * [Getting Set Up To Work On The Firefox Codebase](https://firefox-source-docs.mozilla.org/setup/index.html)
 * [writing-rust-code](https://firefox-source-docs.mozilla.org/writing-rust-code/index.html)
 * [wiki mozilla/Quantum](https://wiki.mozilla.org/Quantum)
+* [mozilla.github.io/mozregression/](https://mozilla.github.io/mozregression/)
+  * mozregression is an interactive regression range finder for Firefox and other Mozilla products. It uses a binary search algorithm for quickly determining a changeset range corresponding to when a problem was introduced.
+* [bugzilla.mozilla.org/show_bug.cgi?id=1968876](https://bugzilla.mozilla.org/show_bug.cgi?id=1968876)
+  * screen corruption on multi-monitor setup when playing 60fps video on second monitor
