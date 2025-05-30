@@ -7,7 +7,6 @@
         * Webpack
         * [rspack.dev](https://rspack.dev/)
         * Vite
-        * 
 
 * [mdn web docs/Web/API/Window/localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 * [mdn web docs/Web/API/File_System_API/Origin_private_file_system](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system)
