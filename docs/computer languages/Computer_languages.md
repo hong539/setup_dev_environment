@@ -2,6 +2,9 @@
 
 ## Guides/Misc...etc
 
+* [sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
+    * solutions to "Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein.
+    * [atekihcan.github.io/CLRS/01/P01-01/](https://atekihcan.github.io/CLRS/01/P01-01/)
 * [wikipedia/Foreign function interface FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)
 * [Call_graph](https://en.wikipedia.org/wiki/Call_graph)
 * [The Raft Consensus Algorithm](https://raft.github.io/)

@@ -2,6 +2,11 @@
 
 ## Guides/Tips/...etc
 
+* [pve.proxmox.com/wiki/Qemu-guest-agent#Linux](https://pve.proxmox.com/wiki/Qemu-guest-agent#Linux)
+* [forum.proxmox.com/threads/kernel-panic-after-resizing-a-clone.93738/](https://forum.proxmox.com/threads/kernel-panic-after-resizing-a-clone.93738/)
+* [pve.proxmox.com/wiki/Downloads](https://pve.proxmox.com/wiki/Downloads)
+* [pve.proxmox.com/pve-docs/pve-admin-guide.html#sysadmin_no_subscription_repo](https://pve.proxmox.com/pve-docs/pve-admin-guide.html#sysadmin_no_subscription_repo)
+* [forum.proxmox.com/threads/how-to-upgrade-from-8-2-8-8-3.157897/](https://forum.proxmox.com/threads/how-to-upgrade-from-8-2-8-8-3.157897/)
 * [forum.proxmox.com/threads/proxmox-deployment-of-debian-via-cloud-init.163546/](https://forum.proxmox.com/threads/proxmox-deployment-of-debian-via-cloud-init.163546/)
 * [Downloads](https://pve.proxmox.com/wiki/Downloads)
 * [PCI(e) Passthrough](https://pve.proxmox.com/wiki/PCI%28e%29_Passthrough)
