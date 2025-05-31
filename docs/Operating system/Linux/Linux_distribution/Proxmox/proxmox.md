@@ -1,7 +1,8 @@
 # proxmox
 
-* Guides/Tips/...etc
+## Guides/Tips/...etc
 
+* [forum.proxmox.com/threads/proxmox-deployment-of-debian-via-cloud-init.163546/](https://forum.proxmox.com/threads/proxmox-deployment-of-debian-via-cloud-init.163546/)
 * [Downloads](https://pve.proxmox.com/wiki/Downloads)
 * [PCI(e) Passthrough](https://pve.proxmox.com/wiki/PCI%28e%29_Passthrough)
 * [Open_vSwitch](https://pve.proxmox.com/wiki/Open_vSwitch)

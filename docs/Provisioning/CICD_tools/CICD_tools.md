@@ -2,6 +2,9 @@
 
 ## Guides/tips/Landscape...etc
 
+* Python CI/CD
+    * [github.com/buildbot/buildbot](https://github.com/buildbot/buildbot)
+    * [buildbot.python.org/#/](https://buildbot.python.org/#/)
 * CNCF 
     * [CNCF/landscape/continuous-integration-delivery](https://landscape.cncf.io/card-mode?category=continuous-integration-delivery&grouping=category)
 * Moby
