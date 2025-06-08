@@ -13,23 +13,21 @@ ENV PYTHONUNBUFFERED=1
 RUN apt-get update && \
     apt-get install -y curl
 
-#install dependencies manager poetry
-RUN curl -sSL https://install.python-poetry.org | python3 -
+#install dependencies manager uv
+RUN curl -LsSf https://astral.sh/uv/install.sh | sh
 ENV PATH="${PATH}:/root/.local/bin"
 RUN poetry --version
 RUN poetry self add poetry-plugin-export
 
 #install/build dependencies from this Python project
-COPY poetry.lock pyproject.toml /temp
+COPY uv.lock pyproject.toml /temp
 COPY mkdocs.yml /temp
 COPY /docs /temp/docs
-RUN poetry export -f requirements.txt --output requirements.txt
-RUN pip install -r requirements.txt
-RUN mkdocs --version
-RUN mkdocs build
+RUN uv sync --locked
+RUN uv mkdocs build --config-file mkdocs.yml
 
 #2nd stage
-FROM nginx:mainline-alpine3.18-slim
+FROM nginx:mainline-alpine3.20-slim
 
 #For watchtower
 # LABEL com.centurylinklabs.watchtower.enable="true"

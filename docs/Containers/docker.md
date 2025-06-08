@@ -9,8 +9,10 @@
 * Dockerfile lint
     * [github.com/hadolint/hadolint](https://github.com/hadolint/hadolint)
         * [github.com/hadolint/hadolint/wiki/DL3059](https://github.com/hadolint/hadolint/wiki/DL3059)
-* [github.com/containrrr/watchtower](https://github.com/containrrr/watchtower)
-    * A process for automating Docker container base image updates.
+* watchtower
+    * [containrrr.dev/watchtower/usage-overview/](https://containrrr.dev/watchtower/usage-overview/)
+    * [github.com/containrrr/watchtower](https://github.com/containrrr/watchtower)
+        * A process for automating Docker container base image updates.
 * [docker-architecture](https://docs.docker.com/guides/docker-overview/#docker-architecture)
 * [github.com/moby/moby](https://github.com/moby/moby)
 * [github.com/docker/cli](https://github.com/docker/cli)
