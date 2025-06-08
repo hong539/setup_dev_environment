@@ -13,8 +13,6 @@
 
 ## Quick start
 
-* [roadmaps](https://roadmap.sh/roadmaps)
-
 ```shell
 git clone git@github.com:hong539/setup_dev_environment.git
 cd setup_dev_environment
