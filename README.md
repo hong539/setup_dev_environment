@@ -42,8 +42,12 @@ docker push
 #CD
 docker run -d --name setup_dev_environment -p 8000:80 docker.io/focal1119/setup_dev_environment:latest
 
+#docker compose
+docker compose up -d
+
 #git comment
-update docs and test github action ci
+#update docs and test github action ci
+#skip ci
 [skip ci] update scripts
 [skip ci] update docs
 [skip ci] update ci.yml
