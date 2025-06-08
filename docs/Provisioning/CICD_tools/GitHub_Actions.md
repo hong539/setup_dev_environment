@@ -15,3 +15,4 @@
         * [publishing-packages/publishing-docker-images#introduction](https://docs.github.com/en/actions/publishing-packages/publishing-docker-images#introduction)
         * [publishing-images-to-docker-hub](https://docs.github.com/en/actions/publishing-packages/publishing-docker-images#publishing-images-to-docker-hub)
         * [runner](https://github.com/actions/runner)
+        * [Example: Using concurrency and the default behavior](https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/control-the-concurrency-of-workflows-and-jobs#example-using-concurrency-and-the-default-behavior)
