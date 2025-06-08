@@ -1,0 +1,23 @@
+name: deploy
+
+on:
+  workflow_dispatch:       # 手動執行
+  # 或者：
+  # push:
+  #   tags:
+  #     - 'v*.*.*'
+
+jobs:
+  deploy-to-ubuntu-vm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v0.1.7
+        with:
+          host: ${{ secrets.CD_HOST }}
+          username: ${{ secrets.CD_USER }}
+          key: ${{ secrets.CD_SSH_KEY }}
+          script: |
+            cd ~/repos/setup_dev_environment
+            # 拉取對應的 tag（你也可以手動填，或用 UI 輸入）
+            bash scripts/start.sh ${{ github.event.inputs.tag || 'latest' }}
