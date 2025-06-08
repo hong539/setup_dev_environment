@@ -22,6 +22,7 @@ RUN uv --version
 COPY pyproject.toml /temp
 COPY uv.lock  /temp
 COPY mkdocs.yml /temp
+COPY README.md /temp
 COPY /docs /temp/docs
 RUN uv sync --locked
 RUN uv mkdocs build --config-file mkdocs.yml
