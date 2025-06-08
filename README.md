@@ -18,7 +18,7 @@
 ```shell
 git clone git@github.com:hong539/setup_dev_environment.git
 cd setup_dev_environment
-poetry shell
+uv venv
 
 mkdocs new [dir-name]
 mkdocs serve

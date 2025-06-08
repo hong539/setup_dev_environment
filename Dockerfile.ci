@@ -25,7 +25,7 @@ COPY mkdocs.yml /temp
 COPY README.md /temp
 COPY /docs /temp/docs
 RUN uv sync --locked --no-install-project  \
-    && uvx mkdocs build --config-file mkdocs.yml --site-dir site
+    && uv run mkdocs build
 
 #2nd stage
 FROM nginx:mainline-alpine3.20-slim
