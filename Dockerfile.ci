@@ -19,7 +19,8 @@ ENV PATH="${PATH}:/root/.local/bin"
 RUN uv --version
 
 #install/build dependencies from this Python project
-COPY uv.lock pyproject.toml /temp
+COPY pyproject.toml /temp
+COPY uv.lock  /temp
 COPY mkdocs.yml /temp
 COPY /docs /temp/docs
 RUN uv sync --locked
