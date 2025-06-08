@@ -12,13 +12,18 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  docker:
+  build-and-push:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+
+      - name: Set build timestamp
+        run: |
+          BUILD_TS=$(date -u '+%Y-%m-%d-%H-%M')
+          echo "BUILD_TIMESTAMP=$BUILD_TS" >> $GITHUB_ENV
 
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
@@ -38,32 +43,23 @@ jobs:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
-      - name: Restore build cache
-        uses: actions/cache@v3
-        with:
-          path: /tmp/.buildx-cache
-          key: buildx-${{ matrix.platform }}-${{ github.sha }}
-          restore-keys: |
-            buildx-${{ matrix.platform }}-
-
-      - name: Build and push Docker image
+      - name: Build and push multi-arch image
         uses: docker/build-push-action@v5
         with:
           context: .
           file: Dockerfile.ci
           builder: ${{ steps.buildx.outputs.name }}
-          platforms: linux/amd64,linux/arm64    # 同時建置 amd64 & arm64
+          platforms: linux/amd64,linux/arm64
           push: true
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache,mode=max
           tags: |
-            focal1119/setup_dev_environment:${{ github.ref_name }}
-            focal1119/setup_dev_environment:${{ github.sha }}
             focal1119/setup_dev_environment:latest
+            focal1119/setup_dev_environment:${{ env.BUILD_TIMESTAMP }}
 
       - name: Save build cache
         if: success()
         uses: actions/cache@v3
         with:
           path: /tmp/.buildx-cache
-          key: buildx-${{ matrix.platform }}-${{ github.sha }}
+          key: buildx-multiarch-${{ github.sha }}
