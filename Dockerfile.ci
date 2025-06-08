@@ -16,8 +16,7 @@ RUN apt-get update && \
 #install dependencies manager uv
 RUN curl -LsSf https://astral.sh/uv/install.sh | sh
 ENV PATH="${PATH}:/root/.local/bin"
-RUN poetry --version
-RUN poetry self add poetry-plugin-export
+RUN uv --version
 
 #install/build dependencies from this Python project
 COPY uv.lock pyproject.toml /temp
