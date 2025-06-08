@@ -18,12 +18,18 @@
 ```shell
 git clone git@github.com:hong539/setup_dev_environment.git
 cd setup_dev_environment
-uv venv
+uv sync
+#activate python venv
+source .venv/bin/activate
+# uv venv
 
 mkdocs new [dir-name]
 mkdocs serve
 mkdocs build
 mkdocs -h
+
+#exit venv
+deactivate
 
 #manually execute
 docker build . -t docker.io/focal1119/setup_dev_environment:prod
