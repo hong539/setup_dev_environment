@@ -3,6 +3,7 @@
 ## Guides/Tips...etc
 
 * [github.com/hong539/aws-101](https://github.com/hong539/aws-101)
+* [docs.aws.amazon.com/prescriptive-guidance/latest/patterns/access-a-bastion-host-by-using-session-manager-and-amazon-ec2-instance-connect.html](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/access-a-bastion-host-by-using-session-manager-and-amazon-ec2-instance-connect.html)
 * [aws.amazon.com/tw/certification/#certifications](https://aws.amazon.com/tw/certification/#certifications)
 * [aws.amazon.com/compliance/shared-responsibility-model](https://aws.amazon.com/compliance/shared-responsibility-model/)
 * [Stephane Maarek/AWS Certifications Courses & Practice Exams](https://courses.datacumulus.com/)
