@@ -18,3 +18,5 @@
 * [Prompt Optimizer安裝教學 - 開源提示詞優化器、寫作風格統一器](https://ithelp.ithome.com.tw/articles/10369821)
 * [MCP](https://modelcontextprotocol.io/introduction)
     * MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools.
+* [github.com/ray-project/ray](https://github.com/ray-project/ray)
+* [github.com/ray-project/kuberay](https://github.com/ray-project/kuberay)
