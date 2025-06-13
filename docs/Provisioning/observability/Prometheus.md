@@ -4,6 +4,7 @@
 ## Docs/Guides/...etc
 
 * [Exporters and integrations](https://prometheus.io/docs/instrumenting/exporters/)
+    * [github.com/prometheus/jmx_exporter](https://github.com/prometheus/jmx_exporter)
 * [mktxp](https://github.com/akpw/mktxp)
     * Prometheus Exporter for Mikrotik RouterOS devices
 * [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)

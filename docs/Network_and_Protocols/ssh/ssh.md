@@ -2,6 +2,8 @@
 
 ## Guides/Tips/Misc...etc
 
+* [github.com/gliderlabs/ssh/tree/master](https://github.com/gliderlabs/ssh/tree/master)
+* [github.com/mkj/dropbear](https://github.com/mkj/dropbear)
 * [OpenSSH ](https://www.openssh.com/)
 * SSH Tunneling
     * Local port forwarding
