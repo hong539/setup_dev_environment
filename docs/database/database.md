@@ -4,6 +4,7 @@
 
 * [en.wikipedia.org/wiki/Replication_(computing)](https://en.wikipedia.org/wiki/Replication_(computing))
 * SQL GUI tools
+    * [sqlectron.github.io](https://sqlectron.github.io/)
     * [HeidiSQL](https://www.heidisql.com/)
     * [DBeaver](https://dbeaver.io/)
     * [MySQL workbench](https://www.mysql.com/products/workbench/)
