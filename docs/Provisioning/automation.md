@@ -13,8 +13,11 @@
     * [Install Terraform](https://developer.hashicorp.com/terraform/downloads)
 * [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
 * [terragrunt.gruntwork.io/](https://terragrunt.gruntwork.io/)
-* [github.com/runatlantis/atlantis](https://github.com/runatlantis/atlantis)
-* [developer.hashicorp.com/packer](https://developer.hashicorp.com/packer)
+* Atlantis
+    * [Atlantis](https://www.runatlantis.io/)
+    * [github.com/runatlantis/atlantis](https://github.com/runatlantis/atlantis)
+* packer
+    * [developer.hashicorp.com/packer](https://developer.hashicorp.com/packer)
     * [github.com/StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows)
 
 ## Salt
