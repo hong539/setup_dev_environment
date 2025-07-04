@@ -2,7 +2,7 @@ services:
   setup_dev_environment:
     hostname: setup_dev_environment
     container_name: setup_dev_environment
-    image: focal1119/setup_dev_environment:latest
+    image: focal1119/setup_dev_environment:2025-07-04-12-06
     restart: always
     # entrypoint: tail -f /dev/null
     ports:
