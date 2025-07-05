@@ -10,6 +10,8 @@
     * [github.com/hadolint/hadolint](https://github.com/hadolint/hadolint)
         * [github.com/hadolint/hadolint/wiki/DL3059](https://github.com/hadolint/hadolint/wiki/DL3059)
 * watchtower
+    * only working for docker image tag: latest
+    * Watchtower is intended to be used in homelabs, media centers, local dev environments, and similar.
     * [containrrr.dev/watchtower/stop-signals/](https://containrrr.dev/watchtower/stop-signals/)
     * [containrrr.dev/watchtower/usage-overview/](https://containrrr.dev/watchtower/usage-overview/)
     * [github.com/containrrr/watchtower](https://github.com/containrrr/watchtower)
