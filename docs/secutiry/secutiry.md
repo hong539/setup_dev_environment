@@ -2,6 +2,7 @@
 
 ## Guides or tips
 
+* [zh.wikipedia.org/幽靈漏洞 Spectre](https://zh.wikipedia.org/zh-tw/%E5%B9%BD%E7%81%B5%E6%BC%8F%E6%B4%9E)
 * [WebGoat: A deliberately insecure Web Application](https://github.com/WebGoat/WebGoat)
 * Phishing 網路釣魚
     * phishing email

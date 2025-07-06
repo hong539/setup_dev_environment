@@ -1,6 +1,9 @@
 # Debian
 
-## tips/gudides
+## Guides/tips/MISC...stc
+
+* [Linux 教學計畫 - Unix/Linux 作業系統實務](https://https://www.youtube.com/playlist?list=PLdrYbn8q6soMkCVy3w4bibY5N0jd6dE1w)
+    * 本課程是「64位元Debian Linux作業系統實務-Bookworm版」，由中華民國教育部 112 年度教學實踐研究計畫所贊助，計畫名稱為「Linux 教學計畫 - Unix/Linux 作業系統實務」。在此感謝教育部大力提供經費，補助本課程以及錄製教學影片。
 
 ```shell
 #sudo setup
