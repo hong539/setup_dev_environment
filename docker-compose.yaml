@@ -18,4 +18,4 @@ services:
       - /run/user/1000/docker.sock:/var/run/docker.sock
       - ~/.docker/config.json:/config.json
     # command: --schedule "0 0 * * * *" --cleanup setup_dev_environment
-    command: --interval 5 --cleanup setup_dev_environment --debug    
+    command: --interval 3600 --cleanup setup_dev_environment --debug    
