@@ -2,6 +2,12 @@
 
 ## Docs/Tips/MISC..etc
 
+* For container:
+    * [Namespaces in operation, part 1: namespaces overview](https://lwn.net/Articles/531114/)
+    * [Namespaces in operation, part 2: the namespaces API](https://lwn.net/Articles/531381/)
+    * [Understanding the new control groups API](https://lwn.net/Articles/679786/)
+        * cgroups v2
+    * [Systemd vs. Docker](https://lwn.net/Articles/676831/)
 * POSIX Portable Operating System Interface (IEEE 1003)
     * [en.wikipedia.org/wiki/POSIX](https://en.wikipedia.org/wiki/POSIX)
 * [https://zh.wikipedia.org/zh-tw/殼層內建指令](https://zh.wikipedia.org/zh-tw/%E6%AE%BC%E5%B1%A4%E5%85%A7%E5%BB%BA%E6%8C%87%E4%BB%A4)
