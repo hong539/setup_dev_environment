@@ -2,6 +2,7 @@
 
 ## Guides/tips...etc
 
+* [How to use yum to download a package without installing it](https://access.redhat.com/solutions/10154)
 * [access.redhat.com/downloads/content/rhel](https://access.redhat.com/downloads/content/rhel)
     * Popular Downloads for Red Hat Enterprise Linux
 * [zh-tw/red-hat-enterprise-linux](https://www.redhat.com/zh-tw/red-hat-enterprise-linux)
