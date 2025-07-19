@@ -2,6 +2,7 @@
 
 ## Guides/tips...etc
 
+* [Youtube play list: Into the Terminal](https://www.youtube.com/playlist?list=PLXJyD2dL4oqeX-C3MvsMUJuEzWM4vLK2C)
 * anaconda
     * [github.com/rhinstaller/anaconda](https://github.com/rhinstaller/anaconda)
         * System installer for Fedora, RHEL and other distributions
