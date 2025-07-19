@@ -2,6 +2,7 @@
 
 ## Docs/Tips/MISC..etc
 
+* [free.nchc.org.tw/pmwiki/pmwiki.php/FSLab/MirrorLists](https://free.nchc.org.tw/pmwiki/pmwiki.php/FSLab/MirrorLists)
 * For container:
     * [Namespaces in operation, part 1: namespaces overview](https://lwn.net/Articles/531114/)
     * [Namespaces in operation, part 2: the namespaces API](https://lwn.net/Articles/531381/)

@@ -2,6 +2,7 @@
 
 ## Guides/Tips/misc...etc
 
+* [wiki.ubuntu.com/Releases](https://wiki.ubuntu.com/Releases)
 * [ubuntu.com/pro](https://ubuntu.com/pro)
     * Ubuntu Pro - personal
         * Quantity 5
