@@ -123,6 +123,13 @@ ss -tpln
 #Display or control the kernel ring buffer.
 dmesg --help
 
+#list kernel modules / hardwares info ...etc
+lsmod
+
+dmesg
+
+dmidecode
+
 #Write the full path of COMMAND(s) to standard output.
 which --help
 

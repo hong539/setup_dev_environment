@@ -18,3 +18,6 @@ hostnamectl set-hostname {name-here}
 
 * [bash: usermod: command not found (in latest Debian 11 install)](https://www.reddit.com/r/linuxquestions/comments/pcfjo6/bash_usermod_command_not_found_in_latest_debian/)
 * [initial-server-setup-with-debian-11](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-debian-11)
+* [www.stdtime.gov.tw/chrono/index_2_2.html](https://www.stdtime.gov.tw/chrono/index_2_2.html)
+    * NTP(Network Time Protocol)
+* [www.freedesktop.org/wiki/Software/systemd/PredictableNetworkInterfaceNames](https://www.freedesktop.org/wiki/Software/systemd/PredictableNetworkInterfaceNames/)

@@ -2,6 +2,7 @@
 
 ## Guides/Tips/...etc
 
+* [pve.proxmox.com/wiki/Time_Synchronization](https://pve.proxmox.com/wiki/Time_Synchronization)
 * [pve.proxmox.com/wiki/Qemu-guest-agent#Linux](https://pve.proxmox.com/wiki/Qemu-guest-agent#Linux)
 * [forum.proxmox.com/threads/kernel-panic-after-resizing-a-clone.93738/](https://forum.proxmox.com/threads/kernel-panic-after-resizing-a-clone.93738/)
 * [pve.proxmox.com/wiki/Downloads](https://pve.proxmox.com/wiki/Downloads)
