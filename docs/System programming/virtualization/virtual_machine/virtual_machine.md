@@ -2,6 +2,12 @@
 
 ## hypervisors/container rumtime/container engine/micro-VM/...etc
 
+* AWS
+    * [aws.amazon.com/tw/what-is/hypervisor](https://aws.amazon.com/tw/what-is/hypervisor/)
+* Xen
+    * [wiki.xenproject.org/wiki/Getting_Started](https://wiki.xenproject.org/wiki/Getting_Started)
+    * [wiki.xenproject.org/wiki/Xen_Project_Software_Overview](https://wiki.xenproject.org/wiki/Xen_Project_Software_Overview)
+    * [wiki.archlinux.org/title/Xen](https://wiki.archlinux.org/title/Xen)
 * Proxmox VE
 * QEMU-KVM 
 * VMware ESXi
