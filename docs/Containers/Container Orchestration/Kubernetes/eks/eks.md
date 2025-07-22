@@ -2,6 +2,10 @@
 
 ## Guides/tips/misc...etc
 
+* killercoda
+    * [killercoda.com](https://killercoda.com/)
+* Karpenter
+    * [docs.aws.amazon.com/eks/latest/best-practices/karpenter.html](https://docs.aws.amazon.com/eks/latest/best-practices/karpenter.html)
 * [Route internet traffic with AWS Load Balancer Controller](https://docs.aws.amazon.com/eks/latest/userguide/aws-load-balancer-controller.html)
 * [cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws)
 * [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
