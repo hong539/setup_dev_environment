@@ -19,4 +19,5 @@
 * GitOps
     * [gitlab.com/topics/gitops](https://about.gitlab.com/topics/gitops/)
 * [Argo](https://argoproj.github.io/)
+    * ArgoCD
 * [Drone](https://www.drone.io/)

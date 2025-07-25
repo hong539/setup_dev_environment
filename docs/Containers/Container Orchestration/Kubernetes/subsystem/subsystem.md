@@ -12,3 +12,7 @@
         * deleteWhen
         * diskMaxUsedSpaceRatio
 * Kafka
+
+## Node pool
+
+* [karpenter.sh/docs/upgrading](https://karpenter.sh/docs/upgrading/)

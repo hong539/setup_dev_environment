@@ -1,5 +1,7 @@
 # helm
 
+* The package manager for Kubernetes
+
 ## Docs/Guides/tips...etc
 
 * [helm_install](https://helm.sh/docs/helm/helm_install/)
@@ -9,7 +11,7 @@ You can specify the '--values'/'-f' flag multiple times. The priority will be gi
 
 * [Subcharts and Global Values](https://helm.sh/docs/chart_template_guide/subcharts_and_globals/)
 
-```
+```shell
 curl https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash
 
 
@@ -25,9 +27,9 @@ helm template my-gatus-release gatus/gatus --set key1=value1,key2=value2 > outpu
 
 ```
 
-values.yaml
+* values.yaml
 
-```
+```yaml
 image:
   tag: "latest"
 config:
@@ -37,7 +39,7 @@ config:
       interval: "5m"
 ```
 
-```
+```shell
 helm template my-gatus-release gatus/gatus -f values.yaml > gatus.yaml
 
 helm template my-gatus-release gatus/gatus --set image.tag=latest,config.endpoints[0].name=example,config.endpoints[0].url=https://example.com/health,config.endpoints[0].interval=5m > gatus.yaml
