@@ -2,6 +2,7 @@
 
 ## Guides/Tips/misc...
 
+* [en.wikipedia.org/wiki/System_programming_language](https://en.wikipedia.org/wiki/System_programming_language)
 * CPU
     * SMP
         * Symmetric multiprocessing
