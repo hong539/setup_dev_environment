@@ -33,6 +33,9 @@ wget https://github.com/derailed/k9s/releases/download/v0.50.9/k9s_linux_arm64.r
 wget https://github.com/derailed/k9s/releases/download/v0.50.9/checksums.sha256
 echo "$(cat checksums.sha256)  k9s_linux_arm64.rpm" | sha256sum --check
 sudo rpm -ivh k9s_linux_arm64.rpm
+rm -f checksums.sha256
+
+# aws-cli
 
 # Rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
