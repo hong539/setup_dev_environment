@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# packer
+
+# OS iso
+**/*.iso
+**/*CHECKSUM
