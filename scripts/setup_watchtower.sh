@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -euxo pipefail
 
 docker run -d \
   --name watchtower \

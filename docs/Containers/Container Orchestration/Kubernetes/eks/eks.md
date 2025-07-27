@@ -2,6 +2,8 @@
 
 ## Guides/tips/misc...etc
 
+* Amazon EKS Anywhere
+    * [anywhere.eks.amazonaws.com/docs](https://anywhere.eks.amazonaws.com/docs/)
 * killercoda
     * [killercoda.com](https://killercoda.com/)
 * Karpenter

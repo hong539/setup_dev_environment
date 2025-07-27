@@ -2,6 +2,10 @@
 
 ## Guides/Tips/Misc...etc
 
+* Warpgate
+    * [warpgate.null.page](https://warpgate.null.page/)
+    * [github.com/warp-tech/warpgate](https://github.com/warp-tech/warpgate)
+* [github.com/bahamas10/bash-web-server/tree/main](https://github.com/bahamas10/bash-web-server/tree/main)
 * [github.com/gliderlabs/ssh/tree/master](https://github.com/gliderlabs/ssh/tree/master)
 * [github.com/mkj/dropbear](https://github.com/mkj/dropbear)
 * [OpenSSH ](https://www.openssh.com/)

@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -euxo pipefail
 
 #pull latest
 docker pull focal1119/setup_dev_environment:latest

@@ -18,3 +18,5 @@
     * [github.com/zabbix/zabbix](https://github.com/zabbix/zabbix)
 * Nagios
     * [github.com/NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore)
+* kiali
+    * [kiali.io](https://kiali.io/)
