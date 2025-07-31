@@ -3,6 +3,7 @@
 ## roadmap/guides/tips/...etc
 
 * [github.com/hong539/java-101](https://github.com/hong539/java-101)
+* [www.marcobehler.com/guides/java-databases](https://www.marcobehler.com/guides/java-databases)
 * [SDKMAN](https://sdkman.io/)
     * effortlessly managing multiple Software Development Kits on Unix systems
 * Java 8
