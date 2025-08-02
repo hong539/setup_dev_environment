@@ -15,6 +15,7 @@
 * [www.virtualbox.org/manual/topics/AdvancedTopics.html#changetimesync](https://www.virtualbox.org/manual/topics/AdvancedTopics.html#changetimesync)
 * [Chapter 4. Guest Additi](https://www.virtualbox.org/manual/ch04.html)
 * [Disable and enable VirtualBox guest-host time sync](https://gist.github.com/anshumanb/4ae574d25fce9f485183)
+* [stackoverflow/How to sync time on host wake-up within VirtualBox?](https://stackoverflow.com/questions/19490652/how-to-sync-time-on-host-wake-up-within-virtualbox)
 
 ## VMware Fusion Pro
 

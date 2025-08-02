@@ -8,3 +8,5 @@ VBoxManage setextradata "<vm-name>" VBoxInternal/Devices/VMMDev/0/Config/GetHost
 # Enable time sync from host
 VBoxManage setextradata "<vm-name>" VBoxInternal/Devices/VMMDev/0/Config/GetHostTimeDisabled 0
 # Restart VM
+
+# VBoxManage guestproperty set rocky-9-devops "/VirtualBox/GuestAdd/VBoxService/timesync-set-threshold" 60000
