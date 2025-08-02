@@ -9,3 +9,15 @@ sudo dnf install -y epel-release
 sudo dnf groupinstall -y "Development Tools"
 sudo dnf install -y kernel-devel kernel-headers dkms
 # sudo dnf install -y kernel-devel kernel-headers dkms elfutils-libelf-devel qt5-qtbase-devel
+
+#insert
+
+#check CDROM
+lsblk -f
+
+udisksctl mount -b /dev/sr0
+
+cd /run/media/rocky/VBox_GAs_7.1.10/
+
+sudo sh ./VBoxLinuxAdditions.run
+# sudo sh ./VBoxLinuxAdditions-arm64.run
