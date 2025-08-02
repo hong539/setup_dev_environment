@@ -1,0 +1,6 @@
+tools.syncTime = "TRUE"
+time.synchronize.continue = "TRUE"
+time.synchronize.restore = "TRUE"
+time.synchronize.resume.disk = "TRUE"
+time.synchronize.shrink = "TRUE"
+time.synchronize.tools.startup = "TRUE"
