@@ -2,6 +2,7 @@
 
 ## Docs
 
+* [wiki.archlinux.org/title/Core_utilities](https://wiki.archlinux.org/title/Core_utilities)
 * [GNU coreutils online help](https://www.gnu.org/software/coreutils/)
     * [touch](https://www.gnu.org/software/coreutils/touch)
         * [How to `touch` files recursively?](https://askubuntu.com/questions/580409/how-to-touch-files-recursively)

@@ -4,6 +4,8 @@
 
 ## Guides/Tips/...etc
 
+* ctop
+    * [github.com/bcicen/ctop](https://github.com/bcicen/ctop)
 * [Visual Studio Code Dev Containers extension](https://code.visualstudio.com/docs/devcontainers/containers)
 * container
 * [containers](https://github.com/containers/)

@@ -2,6 +2,7 @@
 
 ## Overview
 
+* [wiki.archlinux.org/title/List_of_applications/Utilities](https://wiki.archlinux.org/title/List_of_applications/Utilities)
 * [fishshell](https://fishshell.com/)
 * [Coreutils - GNU core utilities](https://www.gnu.org/software/coreutils/)
 * [When not to use shell scripts](https://tldp.org/LDP/abs/html/why-shell.html)
