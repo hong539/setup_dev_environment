@@ -2,6 +2,9 @@
 
 ## OpenTelemetry
 
+* Grafana + Prometheus + Loki (LPL stack)
+* OpenTelemetry Collector + Prometheus + Grafana
+* [www.cncf.io/blog/2022/03/08/cloud-native-observability-microsurvey-prometheus-leads-the-way-but-hurdles-remain-to-understanding-the-health-of-systems/](https://www.cncf.io/blog/2022/03/08/cloud-native-observability-microsurvey-prometheus-leads-the-way-but-hurdles-remain-to-understanding-the-health-of-systems/)
 * [What is OpenTelemetry?](https://opentelemetry.io/docs/what-is-opentelemetry/)
 * [Instrumentation](https://opentelemetry.io/docs/concepts/instrumentation/)
     * Code-based solutions via official APIs and SDKs for most languages
