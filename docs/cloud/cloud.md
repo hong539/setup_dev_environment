@@ -2,6 +2,8 @@
 
 ## Guides/Tips/Misc...etc
 
+* crossplane
+    * [github.com/crossplane/crossplane](https://github.com/crossplane/crossplane)
 * GCP
     * [Compare AWS and Azure services to Google Cloud](https://cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison)
     * [Migrating from Amazon Aurora MySQL without SUPERUSER privileges](https://cloud.google.com/database-migration/docs/mysql/aurora-no-superuser)
