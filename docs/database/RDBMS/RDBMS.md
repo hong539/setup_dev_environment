@@ -11,7 +11,7 @@
 * [www.red-gate.com/products/flyway/community](https://www.red-gate.com/products/flyway/community/)
     * Redgate Flyway Community Database migrations made easy
     * [github.com/flyway/flyway](https://github.com/flyway/flyway)
-
+* [www.jetbrains.com/datagrip](https://www.jetbrains.com/datagrip/)
 ### Backup
 
 * [www.percona.com/mysql/software/percona-xtrabackup](https://www.percona.com/mysql/software/percona-xtrabackup)
