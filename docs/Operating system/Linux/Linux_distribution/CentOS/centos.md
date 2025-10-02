@@ -2,6 +2,7 @@
 
 ## Guides/Tips/misc...etc
 
+* [blogs.oracle.com/scoter/post/upgrade-centos-7-to-oracle-linux-8](https://blogs.oracle.com/scoter/post/upgrade-centos-7-to-oracle-linux-8)
 * [www.centos.org/download/](https://www.centos.org/download/)
 * [What's the best Linux distro for you?](https://www.redhat.com/en/topics/linux/whats-the-best-linux-distro-for-you)
 * [What are CentOS Linux replacements?](https://www.redhat.com/en/topics/linux/centos-alternatives)

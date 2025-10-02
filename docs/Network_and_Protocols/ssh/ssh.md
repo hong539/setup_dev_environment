@@ -14,6 +14,11 @@
     * Local port forwarding
     * Remote Port Forwarding
     * Dynamic Port Forwarding
+```shell
+ssh -i ~/.ssh/key.pem \
+    -D 1080 \
+    ec2-user@<bastion-public-ip>
+```
     * [SSH Tunnel 應用二三事](https://hackmd.io/@1KJngEhaRtGo-19TQntkpA/r1z5qciTY)
     * [用 ssh tunnel 連線到 router 背後的機器，並建立 SOCKS5 proxy 存取內網資源](https://hackmd.io/@DailyOops/ssh-reverse-tunnel-behind-the-router-with-socks5-proxy)
     * [www.redhat.com/en/blog/ssh-dynamic-port-forwarding](https://www.redhat.com/en/blog/ssh-dynamic-port-forwarding)
