@@ -6,3 +6,5 @@
 * [www.mysms.com](https://www.mysms.com/)
 * [github.com/utsanjan/Tsunami-Bomber-Android](https://github.com/utsanjan/Tsunami-Bomber-Android)
 * [github.com/topics/tsunami](https://github.com/topics/tsunami)
+* Devops
+    * [dora.dev/research/2024/dora-report](https://dora.dev/research/2024/dora-report/)
