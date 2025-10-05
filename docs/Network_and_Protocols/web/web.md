@@ -2,6 +2,9 @@
 
 ## Guides/Tips/Tutorials/Misc...etc
 
+* FxEmbed
+    * Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+    * [github.com/FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
 * [ga-dev-tools.google/campaign-url-builder/](https://ga-dev-tools.google/campaign-url-builder/)
 * Frontend Developer
     * Module Bundlers
