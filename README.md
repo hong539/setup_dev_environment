@@ -7,9 +7,12 @@
 
 ## Prerequisites
 
+* Linux
+* docker, docker-compose, docker hub
 * Python >= 3.11
 * [pyenv + poetry](https://github.com/blackdesert575/setup_devops_environment/blob/main/docs/computer%20languages/programming_languages/python/python.md#usage-with-pyenvpoetry)
 * [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+* [watchertower](https://github.com/containrrr/watchtower)
 
 ## Quick start
 
