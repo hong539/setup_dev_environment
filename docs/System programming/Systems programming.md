@@ -2,6 +2,7 @@
 
 ## Guides/Tips/misc...
 
+* [I/O 模型演化: 事件驅動伺服器：原理和實例](https://hackmd.io/@sysprog/linux-io-model/https%3A%2F%2Fhackmd.io%2F%40sysprog%2Fevent-driven-server)
 * [en.wikipedia.org/wiki/System_programming_language](https://en.wikipedia.org/wiki/System_programming_language)
 * CPU
     * SMP
