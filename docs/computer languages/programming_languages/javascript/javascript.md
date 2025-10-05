@@ -87,4 +87,4 @@ yarn && yarn start
 
 ## projects
 
-* [todo-react](https://github.com/hong539/todo-react)
+* [todo-react](https://github.com/blackdesert575/todo-react)

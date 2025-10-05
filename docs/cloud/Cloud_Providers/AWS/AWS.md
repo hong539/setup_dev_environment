@@ -2,7 +2,7 @@
 
 ## Guides/Tips...etc
 
-* [github.com/hong539/aws-101](https://github.com/hong539/aws-101)
+* [github.com/blackdesert575/aws-101](https://github.com/blackdesert575/aws-101)
 * [docs.aws.amazon.com/zh_tw/IAM/latest/UserGuide/sts_example_sts_GetSessionToken_section.html](https://docs.aws.amazon.com/zh_tw/IAM/latest/UserGuide/sts_example_sts_GetSessionToken_section.html)
 * [docs.aws.amazon.com/prescriptive-guidance/latest/patterns/access-a-bastion-host-by-using-session-manager-and-amazon-ec2-instance-connect.html](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/access-a-bastion-host-by-using-session-manager-and-amazon-ec2-instance-connect.html)
 * [aws.amazon.com/tw/certification/#certifications](https://aws.amazon.com/tw/certification/#certifications)

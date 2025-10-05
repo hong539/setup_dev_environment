@@ -9,4 +9,4 @@
 
 ## My Projects with LaTeX
 
-* [resume](https://github.com/hong539/resume)
+* [resume](https://github.com/blackdesert575/resume)

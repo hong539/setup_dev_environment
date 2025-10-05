@@ -8,4 +8,4 @@
     * 如何檢查當前系統使用的 PowerShell 版本
 * Windows Remote Management
     * [learn.microsoft.com/en-us/windows/win32/winrm/portal](https://learn.microsoft.com/en-us/windows/win32/winrm/portal)
-* [github.com/hong539/ci_cd_pipelines/tree/main/cli/ps-scripts](https://github.com/hong539/ci_cd_pipelines/tree/main/cli/ps-scripts)
+* [github.com/blackdesert575/ci_cd_pipelines/tree/main/cli/ps-scripts](https://github.com/blackdesert575/ci_cd_pipelines/tree/main/cli/ps-scripts)

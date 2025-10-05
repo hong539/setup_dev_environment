@@ -8,13 +8,13 @@
 ## Prerequisites
 
 * Python >= 3.11
-* [pyenv + poetry](https://github.com/hong539/setup_devops_environment/blob/main/docs/computer%20languages/programming_languages/python/python.md#usage-with-pyenvpoetry)
+* [pyenv + poetry](https://github.com/blackdesert575/setup_devops_environment/blob/main/docs/computer%20languages/programming_languages/python/python.md#usage-with-pyenvpoetry)
 * [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 
 ## Quick start
 
 ```shell
-git clone git@github.com:hong539/setup_devops_environment.git
+git clone git@github.com:blackdesert575/setup_devops_environment.git
 cd setup_devops_environment
 uv sync
 #activate python venv

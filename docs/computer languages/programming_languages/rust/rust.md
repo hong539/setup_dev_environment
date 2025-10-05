@@ -2,9 +2,9 @@
 
 ## docs/guides/misc...etc
 
-* [github.com/hong539/rust-101](https://github.com/hong539/rust-101)
+* [github.com/blackdesert575/rust-101](https://github.com/blackdesert575/rust-101)
 * [Why the future of the cloud will be built on Rust - Oliver Gould, Buoyant](https://youtu.be/BWL4889RKhU)
-* [hong539/rust-101](https://github.com/hong539/rust-101)
+* [blackdesert575/rust-101](https://github.com/blackdesert575/rust-101)
 * [2022 Review | The adoption of Rust in Business](https://rustmagazine.org/issue-1/2022-review-the-adoption-of-rust-in-business/)
 * [RustPython](https://rustpython.github.io/)
 * [C vs. Rust](http://www-verimag.imag.fr/~mounier/Enseignement/Software_Security/19RustVsC.pdf)

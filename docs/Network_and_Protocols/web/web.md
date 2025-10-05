@@ -17,7 +17,7 @@
 * [seleniumbase/webdriver_installation](https://seleniumbase.io/help_docs/webdriver_installation/)
 * [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages)
 * [gatus/Automated developer-oriented status page](https://github.com/TwiN/gatus)
-* [toogether-backend](https://github.com/hong539/toogether-backend)
+* [toogether-backend](https://github.com/blackdesert575/toogether-backend)
 * [Implement production website with Docker & CI/CD #1 - Image, Container, Volume, Network & Compose](https://blog.zjzhang.org/post/Auth-with-JWT-in-React-and-Django-part3)
 * [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock)
 * [Oxylabs](https://oxylabs.io/)

@@ -56,7 +56,7 @@ Answer: It should be To B. TypeError: 'tuple' object does not support item assig
 ## docs/news/guides/tips/misc...
 
 * [automatetheboringstuff.com/](https://automatetheboringstuff.com/)
-* [github.com/hong539/python-101](https://github.com/hong539/python-101)
+* [github.com/blackdesert575/python-101](https://github.com/blackdesert575/python-101)
 * [pyxel](https://github.com/kitao/pyxel/tree/main)
     * A retro game engine written in Rust and for Python
 * [VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.](https://github.com/gaogaotiantian/viztracer)
