@@ -2,6 +2,8 @@
 
 ## Guides/Tips/...etc
 
+* macOS 向後刪除
+    * 在macOS 中，向後刪除（即刪除光標後面的字符）可以使用 fn + Delete 鍵組合
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/102650)
 * [mac.getutm.app](https://mac.getutm.app/)
 * [developer.apple.com/documentation/virtualization/running-linux-in-a-virtual-machine](https://developer.apple.com/documentation/virtualization/running-linux-in-a-virtual-machine)
@@ -9,14 +11,6 @@
 ## zsh
 
 * [github.com/ohmyzsh/ohmyzsh/](https://github.com/ohmyzsh/ohmyzsh/)
-
-## VirtualBox
-
-* [www.virtualbox.org/manual/topics/AdvancedTopics.html#changetimesync](https://www.virtualbox.org/manual/topics/AdvancedTopics.html#changetimesync)
-* [Chapter 4. Guest Additi](https://www.virtualbox.org/manual/ch04.html)
-* [Disable and enable VirtualBox guest-host time sync](https://gist.github.com/anshumanb/4ae574d25fce9f485183)
-* [stackoverflow/How to sync time on host wake-up within VirtualBox?](https://stackoverflow.com/questions/19490652/how-to-sync-time-on-host-wake-up-within-virtualbox)
-* [superuser/VirtualBox: How to sync host and guest time?](https://superuser.com/questions/463106/virtualbox-how-to-sync-host-and-guest-time/765014#765014)
 
 ## VMware Fusion Pro
 

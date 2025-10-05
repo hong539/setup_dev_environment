@@ -3,6 +3,8 @@
 ## Guides/Tips
 
 * TrueNAS Community Edition
+* Hardware
+    * [www.truenas.com/docs/scale/25.04/gettingstarted/scalehardwareguide/](https://www.truenas.com/docs/scale/25.04/gettingstarted/scalehardwareguide/)
 * Installing TrueNAS
     * [www.truenas.com/docs/scale/gettingstarted/install/installingscale/](https://www.truenas.com/docs/scale/gettingstarted/install/installingscale/)
 * SMB
