@@ -2,6 +2,7 @@
 
 ## Guides/Tips/...etc
 
+* [Re: [麥書] 請問如何讓螢幕休眠，硬碟不休眠](https://www.pttweb.cc/bbs/MAC/M.1739194808.A.6FC)
 * macOS 向後刪除
     * 在macOS 中，向後刪除（即刪除光標後面的字符）可以使用 fn + Delete 鍵組合
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/102650)

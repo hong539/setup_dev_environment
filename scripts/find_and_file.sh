@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -euxo pipefail
 
 find /path/to/search -type f -exec file -i {} \; | grep -i 'text\|xml\|html\|pdf'
 

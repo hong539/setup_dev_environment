@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -euxo pipefail
 
 # Install necessary packages
 sudo apt-get update
