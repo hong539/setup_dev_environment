@@ -1,4 +1,4 @@
-# setup_dev_environment
+# setup_devops_environment
 
 * This is My experience with so many fields.
 * Feel free to fork My notes. :)
@@ -8,14 +8,14 @@
 ## Prerequisites
 
 * Python >= 3.11
-* [pyenv + poetry](https://github.com/hong539/setup_dev_environment/blob/main/docs/computer%20languages/programming_languages/python/python.md#usage-with-pyenvpoetry)
+* [pyenv + poetry](https://github.com/hong539/setup_devops_environment/blob/main/docs/computer%20languages/programming_languages/python/python.md#usage-with-pyenvpoetry)
 * [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 
 ## Quick start
 
 ```shell
-git clone git@github.com:hong539/setup_dev_environment.git
-cd setup_dev_environment
+git clone git@github.com:hong539/setup_devops_environment.git
+cd setup_devops_environment
 uv sync
 #activate python venv
 source .venv/bin/activate
@@ -30,17 +30,17 @@ mkdocs -h
 deactivate
 
 #manually execute
-docker build . -t docker.io/focal1119/setup_dev_environment:prod
-docker build . -t docker.io/focal1119/setup_dev_environment:test -f Dockerfile.ci
-docker run -d --name setup_dev_environment -p 8000:80 docker.io/focal1119/setup_dev_environment:prod
+docker build . -t docker.io/focal1119/setup_devops_environment:prod
+docker build . -t docker.io/focal1119/setup_devops_environment:test -f Dockerfile.ci
+docker run -d --name setup_devops_environment -p 8000:80 docker.io/focal1119/setup_devops_environment:prod
 
 #github actions
 #CI
 docker login
-docker build . -t docker.io/focal1119/setup_dev_environment:latest -f Dockerfile.ci
+docker build . -t docker.io/focal1119/setup_devops_environment:latest -f Dockerfile.ci
 docker push
 #CD
-docker run -d --name setup_dev_environment -p 8000:80 docker.io/focal1119/setup_dev_environment:latest
+docker run -d --name setup_devops_environment -p 8000:80 docker.io/focal1119/setup_devops_environment:latest
 
 #docker compose
 docker compose up -d
